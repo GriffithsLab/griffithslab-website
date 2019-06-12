@@ -43,6 +43,30 @@ Dr. Griffiths has a strong technical expertise in multimodal neuroimaging data a
 
 ---
 
+
+### Shreyas Harita
+***Summer research student***
+
+<div align="right"> <img src="/img/shreyas_photo.jpg" style="margin:100px 50px 100px 50px" align="right" width="250" /> </div>
+
+
+Bio: I joined the Griffiths Lab as a Research Trainee in May, 2019. My project involves understanding and applying the Braintrak toolbox (developed by Peter Robinson's group) to MEG data. I obtained my Master’s degree in Neuroscience from Queen’s University in 2017. My thesis dealt with resting-state fMRI in the human brainstem and cervical spinal cord at 3T. I obtained my Bachelors of Science from the University of Toronto in 2015.
+
+
+
+---
+
+
+### Minarose Ismail
+***Summer research student***
+
+<div align="right"> <img src="/img/minarose_photo.jpg" style="margin:100px 50px 100px 50px" align="right" width="250" /> </div>
+
+I am a first year undergraduate student at McMaster pursuing a bachelor in Neuroscience with a background in Python coding. I joined the Griffiths Lab as a research student volunteer in May 2019. I am interested in the field of computational neuroscience and currently working on fitting oscillations and one over frequency on MEG data using the FOOOF toolbox to parametrize the power spectra and perform summary analysis.
+
+
+---
+
 <img src="/img/KitchenerYou.jpg" align="right" margin="15px 15px 15px 15px" width="300" />
 
 ### Your name here...  
