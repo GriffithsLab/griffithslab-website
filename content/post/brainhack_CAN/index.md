@@ -85,6 +85,9 @@ To wrap things up, we also gave out two prizes of a muse portable EEG headband, 
 <div align="center"> {{< tweet 1134163341365194755 >}} </div>
 
 
+As always, the awesome scientific discussions and hack expertise exchanges continued into the late hours with a well-chosen change of location at the splendid Duke's Refresher bar on Gerrard St. 
+
+Huge thanks and congrats again to the rest of the working group for a successful event. Next one is expected to be late fall 2019. If you'd like to learn more and/or get involved, do get in touch!
 
 
 
