@@ -52,32 +52,32 @@ Dr. Griffiths has a strong technical expertise in multimodal neuroimaging data a
 <div align="right"> <img src="/img/shreyas_harita.JPG" style="margin:50px 50px 100px 50px" align="right" width="250" /> </div>
 
 
-Research Interests: 
-Shreyas is a Ph.D student who joined the lab as a Research Trainee in May, 2019. His research interests lie in the use of connectome based neural mass modeling to study neural population activity, and how it changes in response to brain stimulation and in neuropathological conditions. The primary aims of his research project are as follows:
+Research Interests:   
+Shreyas is a Ph.D student who joined the lab as a Research Trainee in May, 2019. His research interests lie in the use of connectome based neural mass modeling to study neural population activity, and how it changes in response to brain stimulation and in neuropathological conditions. The primary aims of his research project are as follows:  
 
-  1) To investigate the stimulation-induced network propagation and connectivity patterns in the human brain. He hopes to achieve a better understanding of this using brain stimulation techniques like TMS and multimodal brain imaging techniques such as structural MRI, fMRI, DTI, and EEG.
-  2) To study how individual variability in brain geometry affects responses to brain stimulation, and how this information can inform neuro-navigation techniques to improve the identification of potential TMS targets.
+  1) To investigate the stimulation-induced network propagation and connectivity patterns in the human brain. He hopes to achieve a better understanding of this using brain stimulation techniques like TMS and multimodal brain imaging techniques such as structural MRI, fMRI, DTI, and EEG.  
+  2) To study how individual variability in brain geometry affects responses to brain stimulation, and how this information can inform neuro-navigation techniques to improve the identification of potential TMS targets.  
 
-What you really wanted to know:
-Shreyas claims to be the 'funny' one. No one else sees it. Shreyas enjoys food and his favourite cuisines inlcude Indian, Mexican, Arabic and Italian. Shreyas is the unofficial social director for the students at the KCNI and while no one really appointed him, they like the fact that he tries to bring people together for group lunches. Shreyas leads a physically active lifestyle. He goes to the gym, enjoys biking and regularly (even in the winter!) bikes, both within the city and on trails. Shreyas is an avid chess player and enjoys playing rapid, blitz and bullet chess. 
+What you really wanted to know:  
+Shreyas claims to be the 'funny' one. No one else sees it. Shreyas enjoys food and his favourite cuisines inlcude Indian, Mexican, Arabic and Italian. Shreyas is the unofficial social director for the students at the KCNI and while no one really appointed him, they like the fact that he tries to bring people together for group lunches. Shreyas leads a physically active lifestyle. He goes to the gym, enjoys biking and regularly (even in the winter!) bikes, both within the city and on trails. Shreyas is an avid chess player and enjoys playing rapid, blitz and bullet chess.   
 
 ---
 
-### Frank Mazza
+### Frank Mazza  
 ***M.Sc. Student***  
 ***Nickname: Grank!***  
 
 <div align="right"> <img src="/img/frank_mazza.jpg" style="margin:50px 50px 100px 50px" align="right" width="250" /> </div>
 
-Research Interests:  
-Frank is a M.Sc student who joined the lab in September, 2019. He is co-supervised by Dr. Etay Hay. Frank is interested in identifying electrophysiological signals for diagnosis of depression and transcranial magnetic stimulation (TMS) protocols for treatment of depression, using computer simulations of detailed brain circuits and whole-brain networks. With previous work in identifying EEG correlates of response in a novel rTMS stimulation paradigm (OFC-rTMS), he now focuses on identifying biomarkers in brain signals for diagnosis of depression by linking cellular, circuit, and connectivity changes to signals relevant for clinical diagnosis. In addition, he is working to optimize TMS protocols using computer simulations at the local and global brain scales by simulating protocol effects on local circuits, such as circuit inhibition, and the propagation of activity to other regions in the brain.
+Research Interests:    
+Frank is a M.Sc student who joined the lab in September, 2019. He is co-supervised by Dr. Etay Hay. Frank is interested in identifying electrophysiological signals for diagnosis of depression and transcranial magnetic stimulation (TMS) protocols for treatment of depression, using computer simulations of detailed brain circuits and whole-brain networks. With previous work in identifying EEG correlates of response in a novel rTMS stimulation paradigm (OFC-rTMS), he now focuses on identifying biomarkers in brain signals for diagnosis of depression by linking cellular, circuit, and connectivity changes to signals relevant for clinical diagnosis. In addition, he is working to optimize TMS protocols using computer simulations at the local and global brain scales by simulating protocol effects on local circuits, such as circuit inhibition, and the propagation of activity to other regions in the brain.  
 
-What you really wanted to know:
-Frank 'The Grank' Mazza. He is the lab's pretty boy. Frank is quite and likes to go about his business, often finishing his work before deadlines, be it grants, abstracts, or manuscripts. Frank does intermittent fasting. No one knows why. Frank likes to read and write about all things art and architecture. He likes to paint, ink, sketch, sculpt and lino-print. Frank has a humble garden where he likes to experiment with growing different plants. He likes to work out and is avid music fan, trying to appreciate everything that isn't country.
+What you really wanted to know:  
+Frank 'The Grank' Mazza. He is the lab's pretty boy. Frank is quite and likes to go about his business, often finishing his work before deadlines, be it grants, abstracts, or manuscripts. Frank does intermittent fasting. No one knows why. Frank likes to read and write about all things art and architecture. He likes to paint, ink, sketch, sculpt and lino-print. Frank has a humble garden where he likes to experiment with growing different plants. He likes to work out and is avid music fan, trying to appreciate everything that isn't country.  
 
 ---
 
-## Lab Alumni
+## Lab Alumni  
 
 ### Minarose Ismail  
 ***Summer research student***  
