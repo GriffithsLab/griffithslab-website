@@ -94,7 +94,7 @@ Surya enjoys partaking in a number of hobbies including but not limited to drawi
 ### Minarose Ismail  
 ***Summer research student***  
 
-<div align="right"> <img src="/img/minarose_photo.jpg" style="margin:25px 50px 100px 50px" align="right" width="250" /> </div>
+<div align="right"> <img src="/img/minarose_photo.jpg" style="margin:10px 50px 100px 50px" align="right" width="250" /> </div>
 
 Minoarose was a summer research student during the summer of 2019. She was a first year undergraduate student at McMaster pursuing a bachelor in Neuroscience with a background in Python coding. Her work was in the field of computational neuroscience and her project dealt with fitting oscillations and one over frequency on MEG data using the FOOOF toolbox to parametrize the power spectra and perform summary analysis.
 
