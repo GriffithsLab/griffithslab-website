@@ -59,7 +59,7 @@ Shreyas is a Ph.D student who joined the lab as a Research Trainee in May, 2019.
   2) To study how individual variability in brain geometry affects responses to brain stimulation, and how this information can inform neuro-navigation techniques to improve the identification of potential TMS targets.  
 
 Trivia about Shreyas:  
-Shreyas claims to be the 'funny' one. No one else sees it. Shreyas enjoys food and his favourite cuisines inlcude Indian, Mexican, Arabic and Italian. Shreyas is the unofficial social director for the students at the KCNI and while no one really appointed him, they like the fact that he tries to bring people together for group lunches. Shreyas leads a physically active lifestyle. He goes to the gym, enjoys biking and regularly (even in the winter!) bikes, both within the city and on trails. Shreyas is an avid chess player and enjoys playing rapid, blitz and bullet chess.   
+Shreyas claims to be the 'funny' one. No one else sees it. Shreyas enjoys food and his favourite cuisines include Indian, Mexican, Arabic and Italian. Shreyas is the unofficial social director for the students at the KCNI and while no one really appointed him, they like the fact that he tries to bring people together for group lunches. Shreyas leads a physically active lifestyle. He goes to the gym, enjoys biking and regularly (even in the winter!) bikes, both within the city and on trails. Shreyas is an avid chess player and enjoys playing rapid, blitz and bullet chess.   
 
 ---
 
@@ -77,12 +77,24 @@ Frank 'The Grank' Mazza. He is the lab's pretty boy. Frank is quite and likes to
 
 ---
 
+### Surya Pandiaraju  
+***Co-op Student***
+***Nickname: none***
+
+<div align="right"> <img src="/img/suryagrifflab.jpg" style="margin:50px 50px 100px 50px" align="right" width="250" /> </div>
+
+Research Interests:
+Surya is a biomedical engineering student at the University of Waterloo. He is co-supervised by Dr. Andreea Diaconescu. He is interested in EEG data analysis and  brain-computer interfaces and their applications in both clinical and consumer-based settings. Currently, he is working on a project focused on designing a pipeline for clinically obtained EEG data that would generate first-level and second-level statistical analyses and is doing so by modifying currently existing tools in MATLAB.
+
+Trivia:
+Surya enjoys partaking in a number of hobbies including but not limited to drawing (even when he is not supposed to be), digital arts, collectible card games, video games, anime & manga, working out, exploring new restaurants, singing/whistling/beatboxing/humming in the car whilst pretending no one can hear him, and is trying to get his hand in producing after compulsively purchasing a mini MIDI keyboard after watching a video or two on his YouTube recommended list at 12am. If Surya could have any superpower, it would be universal time-control, which he could use to get back the time he spent trying to make this funny.
+
 ## Lab Alumni  
 
 ### Minarose Ismail  
 ***Summer research student***  
 
-<div align="right"> <img src="/img/minarose_photo.jpg" style="margin:50px 50px 100px 50px" align="right" width="250" /> </div>
+<div align="right"> <img src="/img/minarose_photo.jpg" style="margin:25px 50px 100px 50px" align="right" width="250" /> </div>
 
 Minoarose was a summer research student during the summer of 2019. She was a first year undergraduate student at McMaster pursuing a bachelor in Neuroscience with a background in Python coding. Her work was in the field of computational neuroscience and her project dealt with fitting oscillations and one over frequency on MEG data using the FOOOF toolbox to parametrize the power spectra and perform summary analysis.
 
