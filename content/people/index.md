@@ -78,16 +78,16 @@ Frank 'The Grank' Mazza. He is the lab's pretty boy. Frank is quite and likes to
 ---
 
 ### Surya Pandiaraju  
-***Co-op Student***
-***Nickname: none***
+***Co-op Student***  
+***Nickname: none***  
 
-<div align="right"> <img src="/img/suryagrifflab.jpg" style="margin:50px 50px 100px 50px" align="right" width="250" /> </div>
+<div align="right"> <img src="/img/suryagrifflab.jpg" style="margin:50px 50px 100px 50px" align="right" width="250" /> </div>  
 
-Research Interests:
-Surya is a biomedical engineering student at the University of Waterloo. He is co-supervised by Dr. Andreea Diaconescu. He is interested in EEG data analysis and  brain-computer interfaces and their applications in both clinical and consumer-based settings. Currently, he is working on a project focused on designing a pipeline for clinically obtained EEG data that would generate first-level and second-level statistical analyses and is doing so by modifying currently existing tools in MATLAB.
+Research Interests:  
+Surya is a biomedical engineering student at the University of Waterloo. He is co-supervised by Dr. Andreea Diaconescu. He is interested in EEG data analysis and  brain-computer interfaces and their applications in both clinical and consumer-based settings. Currently, he is working on a project focused on designing a pipeline for clinically obtained EEG data that would generate first-level and second-level statistical analyses and is doing so by modifying currently existing tools in MATLAB.  
 
-Trivia:
-Surya enjoys partaking in a number of hobbies including but not limited to drawing (even when he is not supposed to be), digital arts, collectible card games, video games, anime & manga, working out, exploring new restaurants, singing/whistling/beatboxing/humming in the car whilst pretending no one can hear him, and is trying to get his hand in producing after compulsively purchasing a mini MIDI keyboard after watching a video or two on his YouTube recommended list at 12am. If Surya could have any superpower, it would be universal time-control, which he could use to get back the time he spent trying to make this funny.
+Trivia:  
+Surya enjoys partaking in a number of hobbies including but not limited to drawing (even when he is not supposed to be), digital arts, collectible card games, video games, anime & manga, working out, exploring new restaurants, singing/whistling/beatboxing/humming in the car whilst pretending no one can hear him, and is trying to get his hand in producing after compulsively purchasing a mini MIDI keyboard after watching a video or two on his YouTube recommended list at 12am. If Surya could have any superpower, it would be universal time-control, which he could use to get back the time he spent trying to make this funny.  
 
 ## Lab Alumni  
 
