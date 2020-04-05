@@ -31,7 +31,6 @@ type = "docs"  # Do not modify.
 
 ### Dr. John David Griffiths    
 ***Group Lead***  
-***Nickname: Bossman***  
 
 <div align="right"> <img src="/img/JG_KrembilPhoto2_cropped.jpg" style="margin:100px 50px 100px 50px" align="right" width="250" /> </div>  
 
@@ -47,7 +46,6 @@ Dr. Griffiths has a strong technical expertise in multimodal neuroimaging data a
 
 ### Shreyas Harita
 ***Ph.D. Student***  
-***Nickname: The Shreyder***  
 
 <div align="right"> <img src="/img/shreyas_harita.JPG" style="margin:50px 50px 100px 50px" align="right" width="250" /> </div>
 
@@ -65,7 +63,6 @@ Shreyas claims to be the 'funny' one. No one else sees it. Shreyas enjoys food a
 
 ### Frank Mazza  
 ***M.Sc. Student***  
-***Nickname: Grank!***  
 
 <div align="right"> <img src="/img/frank_mazza.jpg" style="margin:50px 50px 100px 50px" align="right" width="250" /> </div>
 
@@ -79,7 +76,6 @@ Frank 'The Grank' Mazza. He is the lab's pretty boy. Frank is quite and likes to
 
 ### Surya Pandiaraju  
 ***Co-op Student***  
-***Nickname: none***  
 
 <div align="right"> <img src="/img/suryagrifflab.jpg" style="margin:50px 50px 100px 50px" align="right" width="250" /> </div>  
 
