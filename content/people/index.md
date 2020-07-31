@@ -45,6 +45,9 @@ Dr. Griffiths has a strong technical expertise in multimodal neuroimaging data a
 ### Dr. Neda Kaboodvand
 ***Post-Doctoral Fellow***
 
+<div align="right"> <img src="/img/Neda_grifflab.jpg" style="margin:50px 50px 100px 50px" align="right" width="250" /> </div>
+
+
 Research Interests:
 
 Neda completed her Ph.D. at the department of clinical neuroscience at Karolinska Institutet, Stockholm, Sweden. In addition, she has master’s in biomedical engineering from Tehran Polytechnic (aka Amirkabir University of Technology), Tehran, Iran. Neda has a strong analytical and computational background, with a growing passion for applying quantitative problem solving and innovative data analysis for solving tangible real-world problems. She has experience in modeling healthy and diseased brains, linear/non-linear time-series and neuroimaging data analysis, statistical and computational modeling of the data, network science and machine learning. She enjoys working in dynamic cross-functional teams on challenging tasks, with measurable real-world outcomes. She joined the lab in July, 2020. She is currently working on whole-brain modelling as well as the analysis and modelling of TMS-evoked responses. The primary aim of her project is to undertake key computational and experimental groundwork for the development and iterative improvement of a novel computational tool for predicting TMS responses and induced plasticity effects. Her long-term aim is to develop computational models of repetitive TMS responses that can be used by clinicians and researchers for optimal patient-specific design of brain stimulation therapies.
@@ -82,6 +85,17 @@ Frank 'The Grank' Mazza. He is the lab's pretty boy. Frank is quite and likes to
 
 ---
 
+## Lab Alumni  
+
+### Minarose Ismail  
+***Summer research student***  
+
+<div align="right"> <img src="/img/minarose_photo.jpg" style="margin:10px 50px 100px 50px" align="right" width="250" /> </div>
+
+Minoarose was a summer research student during the summer of 2019. She was a first year undergraduate student at McMaster pursuing a bachelor in Neuroscience with a background in Python coding. Her work was in the field of computational neuroscience and her project dealt with fitting oscillations and one over frequency on MEG data using the FOOOF toolbox to parametrize the power spectra and perform summary analysis.
+
+---
+
 ### Surya Pandiaraju  
 ***Co-op Student***  
 
@@ -92,15 +106,6 @@ Surya is a biomedical engineering student at the University of Waterloo. He is c
 
 Trivia:  
 Surya enjoys partaking in a number of hobbies including but not limited to drawing (even when he is not supposed to be), digital arts, collectible card games, video games, anime & manga, working out, exploring new restaurants, singing/whistling/beatboxing/humming in the car whilst pretending no one can hear him, and is trying to get his hand in producing after compulsively purchasing a mini MIDI keyboard after watching a video or two on his YouTube recommended list at 12am. If Surya could have any superpower, it would be universal time-control, which he could use to get back the time he spent trying to make this funny.  
-
-## Lab Alumni  
-
-### Minarose Ismail  
-***Summer research student***  
-
-<div align="right"> <img src="/img/minarose_photo.jpg" style="margin:10px 50px 100px 50px" align="right" width="250" /> </div>
-
-Minoarose was a summer research student during the summer of 2019. She was a first year undergraduate student at McMaster pursuing a bachelor in Neuroscience with a background in Python coding. Her work was in the field of computational neuroscience and her project dealt with fitting oscillations and one over frequency on MEG data using the FOOOF toolbox to parametrize the power spectra and perform summary analysis.
 
 ---
 
