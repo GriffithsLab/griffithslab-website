@@ -45,7 +45,7 @@ Dr. Griffiths has a strong technical expertise in multimodal neuroimaging data a
 ### Dr. Neda Kaboodvand
 ***Post-Doctoral Fellow***
 
-<div align="right"> <img src="/img/Neda_grifflab.jpg" style="margin:50px 50px 100px 50px" align="right" width="250" /> </div>
+<div align="right"> <img src="/img/Neda_grifflab_v2.jpg" style="margin:50px 50px 100px 50px" align="right" width="250" /> </div>
 
 
 Research Interests:
