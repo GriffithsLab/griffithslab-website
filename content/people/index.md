@@ -54,7 +54,6 @@ Neda completed her Ph.D. at the department of clinical neuroscience at Karolinsk
 
 ---
 
-
 ### Shreyas Harita
 ***Ph.D. Student***  
 
@@ -68,7 +67,7 @@ Shreyas is a Ph.D. student who joined the lab as a Research Trainee in May, 2019
   2) To study how individual variability in brain geometry affects responses to brain stimulation, and how this information can inform neuro-navigation techniques to improve the identification of potential TMS targets.  
 
 Trivia about Shreyas:  
-Shreyas claims to be the 'funny' one. No one else sees it. Shreyas enjoys food and his favourite cuisines include Indian, Mexican, Arabic and Italian. Shreyas is the unofficial social director for the students at the KCNI and while no one really appointed him, they like the fact that he tries to bring people together. Shreyas leads an active lifestyle. He goes to the gym, enjoys biking and regularly (even in the winter!) bikes, both within the city and on trails. Shreyas is an avid chess player and enjoys playing rapid, blitz and bullet chess.   
+Shreyas claims to be the 'funny' one. No one else sees it. Shreyas' favourite cuisines include Indian, Mexican, Arabic and Italian. Shreyas is the unofficial social director for the students at the KCNI and while no one really appointed him, they like the fact that he tries to bring people together. Shreyas leads an active lifestyle. He goes to the gym, enjoys biking and regularly (even in the winter!) bikes, both within the city and on trails. Shreyas is an avid chess player and enjoys playing rapid, blitz and bullet chess.   
 
 ---
 
