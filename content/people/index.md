@@ -42,6 +42,14 @@ Dr. Griffiths has a strong technical expertise in multimodal neuroimaging data a
 
 
 ---
+### Dr. Neda Kaboodvand
+***Post-Doctoral Fellow***
+
+Research Interests:
+
+Neda completed her Ph.D. at the department of clinical neuroscience at Karolinska Institutet, Stockholm, Sweden. In addition, she has master’s in biomedical engineering from Tehran Polytechnic (aka Amirkabir University of Technology), Tehran, Iran. Neda has a strong analytical and computational background, with a growing passion for applying quantitative problem solving and innovative data analysis for solving tangible real-world problems. She has experience in modeling healthy and diseased brains, linear/non-linear time-series and neuroimaging data analysis, statistical and computational modeling of the data, network science and machine learning. She enjoys working in dynamic cross-functional teams on challenging tasks, with measurable real-world outcomes. She joined the lab in July, 2020. She is currently working on whole-brain modelling as well as the analysis and modelling of TMS-evoked responses. The primary aim of her project is to undertake key computational and experimental groundwork for the development and iterative improvement of a novel computational tool for predicting TMS responses and induced plasticity effects. Her long-term aim is to develop computational models of repetitive TMS responses that can be used by clinicians and researchers for optimal patient-specific design of brain stimulation therapies.
+
+---
 
 
 ### Shreyas Harita
@@ -51,7 +59,7 @@ Dr. Griffiths has a strong technical expertise in multimodal neuroimaging data a
 
 
 Research Interests:   
-Shreyas is a Ph.D student who joined the lab as a Research Trainee in May, 2019. His research interests lie in the use of connectome based neural mass modeling to study neural population activity, and how it changes in response to brain stimulation and in neuropathological conditions. The primary aims of his research project are as follows:  
+Shreyas is a Ph.D. student who joined the lab as a Research Trainee in May, 2019. His research interests lie in the use of connectome based neural mass modeling to study neural population activity, and how it changes in response to brain stimulation and in neuropathological conditions. The primary aims of his research project are as follows:  
 
   1) To investigate the stimulation-induced network propagation and connectivity patterns in the human brain. He hopes to achieve a better understanding of this using brain stimulation techniques like TMS and multimodal brain imaging techniques such as structural MRI, fMRI, DTI, and EEG.  
   2) To study how individual variability in brain geometry affects responses to brain stimulation, and how this information can inform neuro-navigation techniques to improve the identification of potential TMS targets.  
@@ -67,7 +75,7 @@ Shreyas claims to be the 'funny' one. No one else sees it. Shreyas enjoys food a
 <div align="right"> <img src="/img/frank_mazza.jpg" style="margin:50px 50px 100px 50px" align="right" width="250" /> </div>
 
 Research Interests:    
-Frank is a M.Sc student who joined the lab in September, 2019. He is co-supervised by Dr. Etay Hay. Frank is interested in identifying electrophysiological signals for diagnosis of depression and transcranial magnetic stimulation (TMS) protocols for treatment of depression, using computer simulations of detailed brain circuits and whole-brain networks. With previous work in identifying EEG correlates of response in a novel rTMS stimulation paradigm (OFC-rTMS), he now focuses on identifying biomarkers in brain signals for diagnosis of depression by linking cellular, circuit, and connectivity changes to signals relevant for clinical diagnosis. In addition, he is working to optimize TMS protocols using computer simulations at the local and global brain scales by simulating protocol effects on local circuits, such as circuit inhibition, and the propagation of activity to other regions in the brain.  
+Frank is a M.Sc. student who joined the lab in September, 2019. He is co-supervised by Dr. Etay Hay. Frank is interested in identifying electrophysiological signals for diagnosis of depression and transcranial magnetic stimulation (TMS) protocols for treatment of depression, using computer simulations of detailed brain circuits and whole-brain networks. With previous work in identifying EEG correlates of response in a novel rTMS stimulation paradigm (OFC-rTMS), he now focuses on identifying biomarkers in brain signals for diagnosis of depression by linking cellular, circuit, and connectivity changes to signals relevant for clinical diagnosis. In addition, he is working to optimize TMS protocols using computer simulations at the local and global brain scales by simulating protocol effects on local circuits, such as circuit inhibition, and the propagation of activity to other regions in the brain.  
 
 Trivia about Frank:  
 Frank 'The Grank' Mazza. He is the lab's pretty boy. Frank is quite and likes to go about his business, often finishing his work before deadlines, be it grants, abstracts, or manuscripts. Frank does intermittent fasting. No one knows why. Frank likes to read and write about all things art and architecture. He likes to paint, ink, sketch, sculpt and lino-print. Frank has a humble garden where he likes to experiment with growing different plants. He likes to work out and is avid music fan, trying to appreciate everything that isn't country.  
