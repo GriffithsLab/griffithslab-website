@@ -57,7 +57,7 @@ Neda completed her Ph.D. at the department of clinical neuroscience at Karolinsk
 ### Shreyas Harita
 ***Ph.D. Student***  
 
-<div align="right"> <img src="/img/shreyas_harita.JPG" style="margin:50px 50px 100px 50px" align="right" width="250" /> </div>
+<div align="right"> <img src="/img/sh_pic.JPG" style="margin:50px 50px 100px 50px" align="right" width="250" /> </div>
 
 
 Research Interests:   
