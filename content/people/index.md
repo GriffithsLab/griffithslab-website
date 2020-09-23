@@ -87,7 +87,7 @@ Frank 'The Grank' Mazza. Frank is quite and likes to go about his business, ofte
 ### Kevin Kadak
 ***M.Sc. Student***  
 
-<div align="right"> <img src="/img/kevinkadak-image.jpg.jpg" style="margin:50px 50px 100px 50px" align="right" width="250" /> </div>
+<div align="right"> <img src="/img/kevinkadak-image.jpg" style="margin:50px 50px 100px 50px" align="right" width="250" /> </div>
 
 Research Interests:    
 Kevin is a new M.Sc. student who joined the lab in September, 2020. His research focuses on modelling synaptic plasticity dynamics in the brain to better optimize TMS stimulation parameters for the treatment of major depressive disorder. Within the theories of calcium-dependent plasticity and metaplasticity, he will be expanding current synaptic simulation models to encompass E-fields estimates, white matter connectivity, cortical geometry, and corticothalamic oscillations to project patient-specific stimulation protocols. This may aid in more robust, long-term neural rewiring and treatment. Both structural and functional imaging techniques, including fMRI and EEG, will be utilized to inform these models.  
