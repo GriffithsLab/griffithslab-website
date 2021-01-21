@@ -124,7 +124,7 @@ Kevin is a new M.Sc. student who joined the lab in September, 2020. His research
 He looks forward to leveraging his previous experience in modelling zebrafish decision patterns towards further refining his computational skillset and, most ideally, constructing novel frameworks for applied clinical use.    
 
 Trivia about Kevin:  
-When the world isn’t collapsing it on itself, Kevin enjoys Brazilian Jiu-Jitsu, thrift shopping, bothering others with puns, and practicing guitar despite never actually managing to improve at it. Kevin is a firm believer in carbonated water, pineapple on pizza (DO NOT put him on a group project with Davide!), and cutting sandwiches diagonally. He also spends his spare time convincing the world that Sky High (2005) is a cinematic masterpiece. When not involved with one of these activities, Kevin is probably squinting at code documentation, confused.  
+When the world isn’t collapsing in on itself, Kevin enjoys Brazilian Jiu-Jitsu, thrift shopping, bothering others with puns, and practicing guitar despite never actually managing to improve at it. Kevin is a firm believer in carbonated water, pineapple on pizza (DO NOT put him on a group project with Davide!), and cutting sandwiches diagonally. He also spends his spare time convincing the world that Sky High (2005) is a cinematic masterpiece. When not involved with one of these activities, Kevin is probably squinting at code documentation, confused.  
 
 ---
 
