@@ -52,7 +52,7 @@ Davide completed his Ph.D. at the Department of Neuroscience, Imaging and Clinic
 Davide has experience with multimodal neuroimaging data (e.g. DWI, fMRI, ASL) analysis, TMS applications, EEG data collection and analysis, quantitative structural MRI assessment (e.g. brain morphometry, cortical thickness, etc.), machine learning, cognitive tasks development with a growing passion for simulations of network-level macroscale brain dynamics. His main interest is focused on predicting the TMS signal propagation at the network-level, based on neuroimaging and electrophysiological data.
 At the WBMG, Davide will be working on several projects which will involve multimodal neuroimaging, non-invasive brain stimulation (TMS, TES) and whole-brain modelling. The primary aim of his project is to predict TMS outcomes by combining computational, neuroimaging and electrophysiological approaches. 
 
-Trivia about Davide:
+Trivia about Davide:  
 As a proud Italian, Davide never forgets to renew his membership for “fighting against pineapple on pizza” (a.k.a. Hawaiian pizza) movement. He conducts a healthy lifestyle. He goes to the gym; he likes to hike and go for walks surrounded by nature. Davide is an enthusiastic basketball fan and he used to play semi-pro in the past. He is 6 ft 6 in. tall and is gradually getting used to his height.
 
 ---
@@ -83,7 +83,7 @@ Sorenza officially joined the lab in January, 2021. She completed her M.Eng. in 
 Sorenza's research in the lab is focused on mathematical modelling of large-scale brain network dynamics, with a focus on measured alpha oscillations observed in EEG. The aim of her project is to use and extend these computational models to better understand the role of brain rhythms in large-scale brain networks. She is also interested in understanding how brain stimulation affects these networks, which is crucial to finding treatments for neurological diseases.
 Sorenza is currently applying her skills in computational neuroscience, neuroimaging and signal processing to compare and analyze different cortico-cortical and corticothalamic models such as the Jansen-Rit, Wilson-Cowan and Robinson models.
 
-Trivia about Sorenza:
+Trivia about Sorenza:  
 Sorenza is the 'sporty' one. She is always down for pretty much any physical activity and particularly loves to play football (aka soccer), tennis, and loves to go running and hiking. She claims to have a mild coffee dependency. Her day has to start with a cup of coffee, it is non-negotiable apparently. The rest of her day involves some form of working out and meditation routine, followed by a session of reading. Sorenza is no stranger to the world of video games and enjoys playing action-adventure and battle royale games. She is a huge fan of Harry Potter (#Gryffindor) and sci-fi shows. Her secret talent is juggling and bad singing.
 
 ---
@@ -96,7 +96,7 @@ Sorenza is the 'sporty' one. She is always down for pretty much any physical act
 Research Interests:  
 Hussain studied physics and philosophy at Indiana University-Bloomington. He then performed research in bioinformatics and computational neuroscience at the National Institutes of Health (NIH) before joining the WBMG in January, 2021. Working at the intersection of neuroimaging, computational neuroscience, and artificial intelligence, he's studying patterns of brain connectivity and modelling methods to improve deep brain stimulation techniques. Through data analysis and model manipulation, he explores how the anatomical structure of the real human brain influences the modal structure arising from simulations.
 
-Trivia about Hussain:
+Trivia about Hussain:  
 Hussain likes running, playing bass guitar, and cosplaying. His favorite anime is Neon Genesis Evangelion, and his zodiac sign is Scorpio. Sometimes he wishes he could've just become a famous rapper on Soundcloud, but, for now, he's going to have to settle for being a scientist. For some reason, he finds German easier to learn than French.
 
 ---
