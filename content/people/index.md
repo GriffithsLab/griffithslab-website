@@ -53,7 +53,7 @@ Davide has experience with multimodal neuroimaging data (e.g. DWI, fMRI, ASL) an
 At the WBMG, Davide will be working on several projects which will involve multimodal neuroimaging, non-invasive brain stimulation (TMS, TES) and whole-brain modelling. The primary aim of his project is to predict TMS outcomes by combining computational, neuroimaging and electrophysiological approaches. 
 
 Trivia about Davide:  
-As a proud Italian, Davide never forgets to renew his membership for “fighting against pineapple on pizza” (a.k.a. Hawaiian pizza) movement. He conducts a healthy lifestyle. He goes to the gym; he likes to hike and go for walks surrounded by nature. Davide is an enthusiastic basketball fan and he used to play semi-pro in the past. He is 6 ft 6 in. tall and is gradually getting used to his height.
+As a proud Italian, Davide never forgets to renew his membership for the “fighting against pineapple on pizza” (a.k.a. Hawaiian pizza) movement. He conducts a healthy lifestyle. He goes to the gym; he likes to hike and go for walks surrounded by nature. Davide is an enthusiastic basketball fan and he used to play semi-pro in the past. He is 6 ft 6 in. tall and is gradually getting used to his height.
 
 ---
 
