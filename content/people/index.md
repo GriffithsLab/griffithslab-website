@@ -79,7 +79,7 @@ Shreyas claims to be the 'funny' one. No one else sees it. Shreyas' favourite cu
 <div align="right"> <img src="/img/sorenza_pic.jpg" style="margin:50px 50px 100px 50px" align="right" width="250" /> </div>
 
 Research Interests:
-Sorenza officially joined the lab in January 2021. She completed her M.Eng. in Biomedical Engineering at Imperial College London, with a final year project at the Neural Coding department. She first worked with Dr. John Griffiths during Google Summer of Code 2020 where she developed a python package for running validation tests on models generating a neural power spectrum.
+Sorenza officially joined the lab in January, 2021. She completed her M.Eng. in Biomedical Engineering at Imperial College London, with a final year project at the Neural Coding department. She first worked with Dr. John Griffiths during Google Summer of Code 2020 where she developed a python package for running validation tests on models generating a neural power spectrum.
 Sorenza's research in the lab is focused on mathematical modelling of large-scale brain network dynamics, with a focus on measured alpha oscillations observed in EEG. The aim of her project is to use and extend these computational models to better understand the role of brain rhythms in large-scale brain networks. She is also interested in understanding how brain stimulation affects these networks, which is crucial to finding treatments for neurological diseases.
 Sorenza is currently applying her skills in computational neuroscience, neuroimaging and signal processing to compare and analyze different cortico-cortical and corticothalamic models such as the Jansen-Rit, Wilson-Cowan and Robinson models.
 
@@ -94,7 +94,7 @@ Sorenza is the 'sporty' one. She is always down for pretty much any physical act
 <div align="right"> <img src="/img/hussain_pic.jpg" style="margin:50px 50px 100px 50px" align="right" width="250" /> </div>
 
 Research Interests:
-Hussain studied physics and philosophy at Indiana University-Bloomington. He then performed research in bioinformatics and computational neuroscience at the National Institutes of Health (NIH) before beginning graduate school. Working at the intersection of neuroimaging, computational neuroscience, and artificial intelligence, he's studying patterns of brain connectivity and modelling methods to improve deep brain stimulation techniques. Through data analysis and model manipulation, he explores how the anatomical structure of the real human brain influences the modal structure arising from simulations.
+Hussain studied physics and philosophy at Indiana University-Bloomington. He then performed research in bioinformatics and computational neuroscience at the National Institutes of Health (NIH) before joining the WBMG in January, 2021. Working at the intersection of neuroimaging, computational neuroscience, and artificial intelligence, he's studying patterns of brain connectivity and modelling methods to improve deep brain stimulation techniques. Through data analysis and model manipulation, he explores how the anatomical structure of the real human brain influences the modal structure arising from simulations.
 
 Trivia about Hussain:
 Hussain likes running, playing bass guitar, and cosplaying. His favorite anime is Neon Genesis Evangelion, and his zodiac sign is Scorpio. Sometimes he wishes he could've just become a famous rapper on Soundcloud, but, for now, he's going to have to settle for being a scientist. For some reason, he finds German easier to learn than French.
