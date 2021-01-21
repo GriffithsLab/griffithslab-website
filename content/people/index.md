@@ -40,17 +40,20 @@ Dr. Griffiths is a cognitive and computational neuroscientist from North-West Eu
 
 Dr. Griffiths has a strong technical expertise in multimodal neuroimaging data analysis, scientific computing, and numerical simulations of large-scale brain dynamics. Through his work with Dr. Mcintosh and colleagues in Europe and the US, he is an active contributor to the scientific, software development, and educational missions of the [Virtual Brain Project](https://www.thevirtualbrain.org/tvb/zwei).
 
-
 ---
-### Dr. Neda Kaboodvand
+
+### Dr. Davide Momi
 ***Post-Doctoral Fellow***
 
-<div align="right"> <img src="/img/Neda_grifflab_v2.jpg" style="margin:50px 50px 100px 50px" align="right" width="250" /> </div>
-
+<div align="right"> <img src="/img/davide_pic.jpg" style="margin:50px 50px 100px 50px" align="right" width="250" /> </div>
 
 Research Interests:
+Davide completed his Ph.D. at the Department of Neuroscience, Imaging and Clinical Sciences at the University G. d'Annunzio of Chieti. As part of his PhD, Davide attended a period abroad as a visiting PhD student at the Martinos Center for Biomedical Imaging in Boston. Prior to his doctoral studies, he obtained a Master’s degree in Neurosciences and Neuro-Psychological Rehabilitation from the University of Bologna and a Bachelor’s in psychology from the University of Perugia. 
+Davide has experience with multimodal neuroimaging data (e.g. DWI, fMRI, ASL) analysis, TMS applications, EEG data collection and analysis, quantitative structural MRI assessment (e.g. brain morphometry, cortical thickness, etc.), machine learning, cognitive tasks development with a growing passion for simulations of network-level macroscale brain dynamics. His main interest is focused on predicting the TMS signal propagation at the network-level, based on neuroimaging and electrophysiological data.
+At the WBMG, Davide will be working on several projects which will involve multimodal neuroimaging, non-invasive brain stimulation (TMS, TES) and whole-brain modelling. The primary aim of his project is to predict TMS outcomes by combining computational, neuroimaging and electrophysiological approaches. 
 
-Neda completed her Ph.D. at the department of clinical neuroscience at Karolinska Institutet, Stockholm, Sweden. In addition, she has master’s in biomedical engineering from Tehran Polytechnic (aka Amirkabir University of Technology), Tehran, Iran. Neda has a strong analytical and computational background, with a growing passion for applying quantitative problem solving and innovative data analysis for solving tangible real-world problems. She has experience in modeling healthy and diseased brains, linear/non-linear time-series and neuroimaging data analysis, statistical and computational modeling of the data, network science and machine learning. She enjoys working in dynamic cross-functional teams on challenging tasks, with measurable real-world outcomes. She joined the lab in July, 2020. She is currently working on whole-brain modelling as well as the analysis and modelling of TMS-evoked responses. The primary aim of her project is to undertake key computational and experimental groundwork for the development and iterative improvement of a novel computational tool for predicting TMS responses and induced plasticity effects. Her long-term aim is to develop computational models of repetitive TMS responses that can be used by clinicians and researchers for optimal patient-specific design of brain stimulation therapies.
+Trivia about Davide:
+As a proud Italian, Davide never forgets to renew his membership for “fighting against pineapple on pizza” (a.k.a. Hawaiian pizza) movement. He conducts a healthy lifestyle. He goes to the gym; he likes to hike and go for walks surrounded by nature. Davide is an enthusiastic basketball fan and he used to play semi-pro in the past. He is 6 ft 6 in. tall and is gradually getting used to his height.
 
 ---
 
@@ -62,12 +65,39 @@ Neda completed her Ph.D. at the department of clinical neuroscience at Karolinsk
 
 Research Interests:   
 Shreyas is a Ph.D. student who joined the lab as a Research Trainee in May, 2019. His research interests lie in the use of connectome based neural mass modeling to study neural population activity, and how it changes in response to brain stimulation and in neuropathological conditions. The primary aims of his research project are as follows:  
-
-  1) To investigate the stimulation-induced network propagation and connectivity patterns in the human brain. He hopes to achieve a better understanding of this using brain stimulation techniques like TMS and multimodal brain imaging techniques such as structural MRI, fMRI, DTI, and EEG.  
-  2) To study how individual variability in brain geometry affects responses to brain stimulation, and how this information can inform neuro-navigation techniques to improve the identification of potential TMS targets.  
+- To investigate the stimulation-induced network propagation and connectivity patterns in the human brain. He hopes to achieve a better understanding of this using brain stimulation techniques like TMS and multimodal brain imaging techniques such as structural MRI, fMRI, DTI, and EEG.  
+- To study how individual variability in brain geometry affects responses to brain stimulation, and how this information can inform neuro-navigation techniques to improve the identification of potential TMS targets.  
 
 Trivia about Shreyas:  
 Shreyas claims to be the 'funny' one. No one else sees it. Shreyas' favourite cuisines include Indian, Mexican, Arabic and Italian. Shreyas is the unofficial social director for the students at the KCNI and while no one really appointed him, they like the fact that he tries to bring people together. Shreyas leads an active lifestyle. He goes to the gym, enjoys biking and regularly (even in the winter!) bikes, both within the city and on trails. Shreyas is an avid chess player and enjoys playing rapid, blitz and bullet chess.   
+
+---
+
+### Sorenza Bastiaens
+***Ph.D. Student***
+
+<div align="right"> <img src="/img/sorenza_pic.jpg" style="margin:50px 50px 100px 50px" align="right" width="250" /> </div>
+
+Research Interests:
+Sorenza officially joined the lab in January 2021. She completed her M.Eng. in Biomedical Engineering at Imperial College London, with a final year project at the Neural Coding department. She first worked with Dr. John Griffiths during Google Summer of Code 2020 where she developed a python package for running validation tests on models generating a neural power spectrum.
+Sorenza's research in the lab is focused on mathematical modelling of large-scale brain network dynamics, with a focus on measured alpha oscillations observed in EEG. The aim of her project is to use and extend these computational models to better understand the role of brain rhythms in large-scale brain networks. She is also interested in understanding how brain stimulation affects these networks, which is crucial to finding treatments for neurological diseases.
+Sorenza is currently applying her skills in computational neuroscience, neuroimaging and signal processing to compare and analyze different cortico-cortical and corticothalamic models such as the Jansen-Rit, Wilson-Cowan and Robinson models.
+
+Trivia about Sorenza:
+Sorenza is the 'sporty' one. She is always down for pretty much any physical activity and particularly loves to play football (aka soccer), tennis, and loves to go running and hiking. She claims to have a mild coffee dependency. Her day has to start with a cup of coffee, it is non-negotiable apparently. The rest of her day involves some form of working out and meditation routine, followed by a session of reading. Sorenza is no stranger to the world of video games and enjoys playing action-adventure and battle royale games. She is a huge fan of Harry Potter (#Gryffindor) and sci-fi shows. Her secret talent is juggling and bad singing.
+
+---
+
+### Hussain Ather
+***Ph.D. Student***
+
+<div align="right"> <img src="/img/hussain_pic.jpg" style="margin:50px 50px 100px 50px" align="right" width="250" /> </div>
+
+Research Interests:
+Hussain studied physics and philosophy at Indiana University-Bloomington. He then performed research in bioinformatics and computational neuroscience at the National Institutes of Health (NIH) before beginning graduate school. Working at the intersection of neuroimaging, computational neuroscience, and artificial intelligence, he's studying patterns of brain connectivity and modelling methods to improve deep brain stimulation techniques. Through data analysis and model manipulation, he explores how the anatomical structure of the real human brain influences the modal structure arising from simulations.
+
+Trivia about Hussain:
+Hussain likes running, playing bass guitar, and cosplaying. His favorite anime is Neon Genesis Evangelion, and his zodiac sign is Scorpio. Sometimes he wishes he could've just become a famous rapper on Soundcloud, but, for now, he's going to have to settle for being a scientist. For some reason, he finds German easier to learn than French.
 
 ---
 
@@ -94,7 +124,7 @@ Kevin is a new M.Sc. student who joined the lab in September, 2020. His research
 He looks forward to leveraging his previous experience in modelling zebrafish decision patterns towards further refining his computational skillset and, most ideally, constructing novel frameworks for applied clinical use.    
 
 Trivia about Kevin:  
-When the world isn’t collapsing it on itself, Kevin enjoys Brazilian Jiu-Jitsu, thrift shopping, bothering others with puns, and practicing guitar despite never actually managing to improve at it. Kevin is a firm believer in carbonated water, pineapple on pizza, and cutting sandwiches diagonally. He also spends his spare time convincing the world that Sky High (2005) is a cinematic masterpiece. When not involved with one of these activities, Kevin is probably squinting at code documentation, confused.  
+When the world isn’t collapsing it on itself, Kevin enjoys Brazilian Jiu-Jitsu, thrift shopping, bothering others with puns, and practicing guitar despite never actually managing to improve at it. Kevin is a firm believer in carbonated water, pineapple on pizza (DO NOT put him on a group project with Davide!), and cutting sandwiches diagonally. He also spends his spare time convincing the world that Sky High (2005) is a cinematic masterpiece. When not involved with one of these activities, Kevin is probably squinting at code documentation, confused.  
 
 ---
 
@@ -119,6 +149,18 @@ Surya is a biomedical engineering student at the University of Waterloo. He is c
 
 Trivia:  
 Surya enjoys partaking in a number of hobbies including but not limited to drawing (even when he is not supposed to be), digital arts, collectible card games, video games, anime & manga, working out, exploring new restaurants, singing/whistling/beatboxing/humming in the car whilst pretending no one can hear him, and is trying to get his hand in producing after compulsively purchasing a mini MIDI keyboard after watching a video or two on his YouTube recommended list at 12am. If Surya could have any superpower, it would be universal time-control, which he could use to get back the time he spent trying to make this funny.  
+
+---
+
+### Dr. Neda Kaboodvand
+***Post-Doctoral Fellow***
+
+<div align="right"> <img src="/img/Neda_grifflab_v2.jpg" style="margin:50px 50px 100px 50px" align="right" width="250" /> </div>
+
+
+Research Interests:
+
+Neda completed her Ph.D. at the department of clinical neuroscience at Karolinska Institutet, Stockholm, Sweden. In addition, she has master’s in biomedical engineering from Tehran Polytechnic (aka Amirkabir University of Technology), Tehran, Iran. Neda has a strong analytical and computational background, with a growing passion for applying quantitative problem solving and innovative data analysis for solving tangible real-world problems. She has experience in modeling healthy and diseased brains, linear/non-linear time-series and neuroimaging data analysis, statistical and computational modeling of the data, network science and machine learning. She enjoys working in dynamic cross-functional teams on challenging tasks, with measurable real-world outcomes. She joined the lab in July, 2020. She is currently working on whole-brain modelling as well as the analysis and modelling of TMS-evoked responses. The primary aim of her project is to undertake key computational and experimental groundwork for the development and iterative improvement of a novel computational tool for predicting TMS responses and induced plasticity effects. Her long-term aim is to develop computational models of repetitive TMS responses that can be used by clinicians and researchers for optimal patient-specific design of brain stimulation therapies.
 
 ---
 
