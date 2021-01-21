@@ -47,7 +47,7 @@ Dr. Griffiths has a strong technical expertise in multimodal neuroimaging data a
 
 <div align="right"> <img src="/img/davide_pic.jpg" style="margin:50px 50px 100px 50px" align="right" width="250" /> </div>
 
-Research Interests:
+Research Interests:  
 Davide completed his Ph.D. at the Department of Neuroscience, Imaging and Clinical Sciences at the University G. d'Annunzio of Chieti. As part of his PhD, Davide attended a period abroad as a visiting PhD student at the Martinos Center for Biomedical Imaging in Boston. Prior to his doctoral studies, he obtained a Master’s degree in Neurosciences and Neuro-Psychological Rehabilitation from the University of Bologna and a Bachelor’s in psychology from the University of Perugia. 
 Davide has experience with multimodal neuroimaging data (e.g. DWI, fMRI, ASL) analysis, TMS applications, EEG data collection and analysis, quantitative structural MRI assessment (e.g. brain morphometry, cortical thickness, etc.), machine learning, cognitive tasks development with a growing passion for simulations of network-level macroscale brain dynamics. His main interest is focused on predicting the TMS signal propagation at the network-level, based on neuroimaging and electrophysiological data.
 At the WBMG, Davide will be working on several projects which will involve multimodal neuroimaging, non-invasive brain stimulation (TMS, TES) and whole-brain modelling. The primary aim of his project is to predict TMS outcomes by combining computational, neuroimaging and electrophysiological approaches. 
@@ -78,7 +78,7 @@ Shreyas claims to be the 'funny' one. No one else sees it. Shreyas' favourite cu
 
 <div align="right"> <img src="/img/sorenza_pic.jpg" style="margin:50px 50px 100px 50px" align="right" width="250" /> </div>
 
-Research Interests:
+Research Interests:  
 Sorenza officially joined the lab in January, 2021. She completed her M.Eng. in Biomedical Engineering at Imperial College London, with a final year project at the Neural Coding department. She first worked with Dr. John Griffiths during Google Summer of Code 2020 where she developed a python package for running validation tests on models generating a neural power spectrum.
 Sorenza's research in the lab is focused on mathematical modelling of large-scale brain network dynamics, with a focus on measured alpha oscillations observed in EEG. The aim of her project is to use and extend these computational models to better understand the role of brain rhythms in large-scale brain networks. She is also interested in understanding how brain stimulation affects these networks, which is crucial to finding treatments for neurological diseases.
 Sorenza is currently applying her skills in computational neuroscience, neuroimaging and signal processing to compare and analyze different cortico-cortical and corticothalamic models such as the Jansen-Rit, Wilson-Cowan and Robinson models.
@@ -93,7 +93,7 @@ Sorenza is the 'sporty' one. She is always down for pretty much any physical act
 
 <div align="right"> <img src="/img/hussain_pic.jpg" style="margin:50px 50px 100px 50px" align="right" width="250" /> </div>
 
-Research Interests:
+Research Interests:  
 Hussain studied physics and philosophy at Indiana University-Bloomington. He then performed research in bioinformatics and computational neuroscience at the National Institutes of Health (NIH) before joining the WBMG in January, 2021. Working at the intersection of neuroimaging, computational neuroscience, and artificial intelligence, he's studying patterns of brain connectivity and modelling methods to improve deep brain stimulation techniques. Through data analysis and model manipulation, he explores how the anatomical structure of the real human brain influences the modal structure arising from simulations.
 
 Trivia about Hussain:
