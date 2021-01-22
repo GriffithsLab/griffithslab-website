@@ -32,7 +32,7 @@ type = "docs"  # Do not modify.
 ### Dr. John David Griffiths    
 ***Group Lead***  
 
-<div align="right"> <img src="/img/JG_KrembilPhoto2_cropped.jpg" style="margin:100px 50px 100px 50px" align="right" width="250" /> </div>  
+<div align="right"> <img src="/img/jg_pic.jpg" style="margin:100px 50px 100px 50px" align="right" width="250" /> </div>  
 
 [CV](/files/JG_CV.pdf)  
 
