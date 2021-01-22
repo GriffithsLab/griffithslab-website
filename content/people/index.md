@@ -101,6 +101,19 @@ Hussain likes running, playing bass guitar, and cosplaying. His favorite anime i
 
 ---
 
+### FuTe Wong
+***Ph.D. Student***
+
+<div align="right"> <img src="/img/FuTe_pic.jpg" style="margin:50px 50px 100px 50px" align="right" width="250" /> </div>
+
+Research Interests:  
+FuTe joined the WBMG in January, 2021. He completed his Master’s degree in clinical psychology at National Chung Cheng University and a full-time clinical internship at Taipei Veterans General Hospital in Taiwan. Following this, he became a clinical psychologist working with psychiatric patients, and also started incorporating machine learning algorithms and network theory for better characterization of psychiatric populations. As a full-time researcher, FuTe worked on projects that involved multimodal neuroimaging data (fMRI, MEG, DTI, DSI, and PET) and transcriptome analysis. To fulfill the journey with a more precise mechanistic predictive treatment approach for psychiatric patients, he now focuses more on simulation of neuropsychopathology and efficacy of neuromodulation (TMS, tFUS, and DBS), with a bit of expectation to investigate a moonshot emergence of artificial consciousness.
+
+Trivia about FuTe:  
+FuTe grew up in the Penghu islands. He likes to swim as used to do it on a daily basis. FuTe also enjoys hiking and photography. He is a self-descirbed caffiene addict. It would be interesting to see who could go longer without caffiene ... Sorenza or FuTe?
+
+---
+
 ### Frank Mazza  
 ***M.Sc. Student***  
 
@@ -135,7 +148,7 @@ When the world isn’t collapsing in on itself, Kevin enjoys Brazilian Jiu-Jitsu
 
 Research Interests:  
 Taha joined the lab in the January of 2021 as a grad student, working on modelling sleep neural data in health and disease. He is working on data aquired from market-available brain-computer interface (BCI) headsets such as Muse S, and will be evaluating Neural Field models using this data.
-He studied Dentistry in Iran for 3 years before dropping out in 2016 to do Neuroscience in Canada. During this time in Iran, he worked with Prof. Mohammad Nami on EEG data. He completed his BSc in Neuroscience at the University of Toronto in 2020. His undergraduate supervisor was Dr. Milad Lankarany with whom he worked on modelling basal ganglia neurons in Parkinson's Disease. He also co-leads NeurotechUofT (www.neurotechuoft.com), a NeuroTechX student club working on open-source BCI projects.
+He studied Dentistry in Iran for 3 years before dropping out in 2016 to do Neuroscience in Canada. During this time in Iran, he worked with Prof. Mohammad Nami on EEG data. He completed his BSc in Neuroscience at the University of Toronto in 2020. His undergraduate supervisor was Dr. Milad Lankarany with whom he worked on modelling basal ganglia neurons in Parkinson's Disease. He also co-leads NeurotechUofT (neurotechuoft.com), a NeuroTechX student club working on open-source BCI projects.
 
 Trivia about Taha:  
 Taha enjoys running in the hills of Toronto suburbs and city biking. You can always find him up to some shenanigans on Strava. He also redecorates his home almost every two weeks. He says he doesn't need to see a therapist about this and promises that he's good. Taha enjoys listening to and singing Persian traditional music and is trying to get into composing as well! Taha would like to use this tribune to support Davide in his fight against all evil (i.e., pineapple pizza).
