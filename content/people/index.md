@@ -110,7 +110,7 @@ Research Interests:
 FuTe joined the WBMG in January, 2021. He completed his Master’s degree in clinical psychology at National Chung Cheng University and a full-time clinical internship at Taipei Veterans General Hospital in Taiwan. Following this, he became a clinical psychologist working with psychiatric patients, and also started incorporating machine learning algorithms and network theory for better characterization of psychiatric populations. As a full-time researcher, FuTe worked on projects that involved multimodal neuroimaging data (fMRI, MEG, DTI, DSI, and PET) and transcriptome analysis. To fulfill the journey with a more precise mechanistic predictive treatment approach for psychiatric patients, he now focuses more on simulation of neuropsychopathology and efficacy of neuromodulation (TMS, tFUS, and DBS), with a bit of expectation to investigate a moonshot emergence of artificial consciousness.
 
 Trivia about FuTe:  
-FuTe grew up in the Penghu islands. He likes to swim as used to do it on a daily basis. FuTe also enjoys hiking and photography. He is a self-described caffiene addict. It would be interesting to see who could go longer without caffiene ... Sorenza or FuTe?
+FuTe grew up in the Penghu islands. He likes to swim as he used to do it on a daily basis. FuTe also enjoys hiking and photography. He is a self-described caffeine addict. It would be interesting to see who could go longer without caffeine ... Sorenza or FuTe?
 
 ---
 
