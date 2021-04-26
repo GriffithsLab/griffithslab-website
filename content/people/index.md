@@ -182,7 +182,7 @@ Surya enjoys partaking in a number of hobbies including but not limited to drawi
 ### Dr. Neda Kaboodvand
 ***Post-Doctoral Fellow***
 
-<div align="right"> <img src="/img/Neda_grifflab_v2.jpg" style="margin:50px 50px 100px 50px" align="right" width="250" /> </div>
+<div align="right"> <img src="/img/Neda.png" style="margin:50px 50px 100px 50px" align="right" width="250" /> </div>
 
 
 Research Interests:
