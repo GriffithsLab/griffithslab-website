@@ -147,7 +147,8 @@ When the world isn’t collapsing in on itself, Kevin enjoys Brazilian Jiu-Jitsu
 <div align="right"> <img src="/img/taha_pic.jpg" style="margin:50px 50px 100px 50px" align="right" width="250" /> </div>  
 
 Research Interests:  
-Taha joined the lab in the January of 2021 as an undergraduate research student, working on modelling sleep neural data in health and disease. He is working on data aquired from market-available brain-computer interface (BCI) headsets such as Muse S, and will be evaluating Neural Field models using this data. He will be joining the lab as graduate student in September 2021.
+Taha joined the lab in the January of 2021 as an undergraduate research student, working on modelling sleep neural data in health and disease. He is working on data aquired from market-available brain-computer interface (BCI) headsets such as Muse S, and will be evaluating Neural Field models using this data. He will be joining the lab as graduate student in September 2021.  
+
 He studied Dentistry in Iran for 3 years before dropping out in 2016 to do Neuroscience in Canada. During this time in Iran, he worked with Prof. Mohammad Nami on EEG data. He completed his BSc in Neuroscience at the University of Toronto in 2020. His undergraduate supervisor was Dr. Milad Lankarany with whom he worked on modelling basal ganglia neurons in Parkinson's Disease. He also co-leads NeurotechUofT (neurotechuoft.com), a NeuroTechX student club working on open-source BCI projects.
 
 Trivia about Taha:  
