@@ -60,10 +60,10 @@ tags = []
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 #url_custom = [{name = "Custom Link", url = "http://example.org"}]
-#url_custom = [{name = "url", url = "https://www.frontiersin.org/articles/10.3389/fams.2018.00031/full"}]
+url_custom = [{name = "PDF", url = "https://tinyurl.com/5457mfmk"}]
 
 # Digital Object Identifier (DOI)
-#doi = "10.3389/fams.2018.00031"
+doi = "10.3389/fncom.2020.575143"
 
 # Does this page contain LaTeX math? (true/false)
 math = true
