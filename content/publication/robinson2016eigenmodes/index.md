@@ -45,7 +45,7 @@ selected = true
 tags = []
 
 # Links (optional).
-url_pdf = "https://tinyurl.com/8s4ydmsd"
+#url_pdf = "https://tinyurl.com/8s4ydmsd"
 #url_preprint = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
 #url_code = "#"
 #url_dataset = "#"
@@ -58,7 +58,9 @@ url_pdf = "https://tinyurl.com/8s4ydmsd"
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 #url_custom = [{name = "Custom Link", url = "http://example.org"}]
-url_custom = [{name = "url", url = "https://www.sciencedirect.com/science/article/pii/S1053811916300908"}]
+#url_custom = [{name = "url", url = "https://www.sciencedirect.com/science/article/pii/S1053811916300908"}]
+url_custom = [{name = "pdf", url = "https://tinyurl.com/8s4ydmsd"}]
+
 
 # Digital Object Identifier (DOI)
 doi = "10.1016/j.neuroimage.2016.04.050"
