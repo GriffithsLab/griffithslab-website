@@ -69,7 +69,20 @@ Shreyas is a Ph.D. student who joined the lab as a Research Trainee in May, 2019
 - To study how individual variability in brain geometry affects responses to brain stimulation, and how this information can inform neuro-navigation techniques to improve the identification of potential TMS targets.  
 
 Trivia about Shreyas:  
-Shreyas claims to be the 'funny' one. No one else sees it. Shreyas' favourite cuisines include Indian, Mexican, Arabic and Italian. Shreyas is the unofficial social director for the students at the KCNI and while no one really appointed him, they like the fact that he tries to bring people together. Shreyas leads an active lifestyle. He goes to the gym, enjoys biking and regularly (even in the winter!) bikes, both within the city and on trails. Shreyas is an avid chess player and enjoys playing rapid, blitz and bullet chess.   
+Shreyas claims to be the 'funny' one. No one else sees it. Shreyas' favourite cuisines include Indian, Mexican, Arabic and Italian. He is the unofficial social director for the students at the KCNI and while no one really appointed him, they like the fact that he tries to bring people together. Shreyas leads an active lifestyle. He plays football (soccer), swims and enjoys biking (even in the winter!) within the city and on natural trails. Shreyas is an avid chess player and enjoys playing rapid, blitz and bullet chess.   
+
+---
+
+### Frank Mazza  
+***Ph.D. Student***  
+
+<div align="right"> <img src="/img/frank_mazza.jpg" style="margin:50px 50px 100px 50px" align="right" width="250" /> </div>
+
+Research Interests:    
+Frank is a M.Sc. student who joined the lab in September, 2019. He is co-supervised by Dr. Etay Hay (https://www.haybrainlab.com/). Frank is interested in identifying electrophysiological signals for diagnosis of depression and transcranial magnetic stimulation (TMS) protocols for treatment of depression, using computer simulations of detailed brain circuits and whole-brain networks. With previous work in identifying EEG correlates of response in a novel rTMS stimulation paradigm (OFC-rTMS), he now focuses on identifying biomarkers in brain signals for diagnosis of depression by linking cellular, circuit, and connectivity changes to signals relevant for clinical diagnosis. In addition, he is working to optimize TMS protocols using computer simulations at the local and global brain scales by simulating protocol effects on local circuits, such as circuit inhibition, and the propagation of activity to other regions in the brain.  
+
+Trivia about Frank:  
+Frank 'The Grank' Mazza. Frank is quite and likes to go about his business, often finishing his work before deadlines, be it grants, abstracts, or manuscripts. Frank does intermittent fasting. No one knows why. Frank likes to read and write about all things art and architecture. He likes to paint, ink, sketch, sculpt and lino-print. Frank has a humble garden where he likes to experiment with growing different plants. He likes to work out and is avid music fan, trying to appreciate everything that isn't country.  
 
 ---
 
@@ -111,19 +124,6 @@ FuTe joined the WBMG in January, 2021. He completed his Master’s degree in cli
 
 Trivia about FuTe:  
 FuTe grew up in the Penghu islands. He likes to swim as he used to do it on a daily basis. FuTe also enjoys hiking and photography. He is a self-described caffeine addict. It would be interesting to see who could go longer without caffeine ... Sorenza or FuTe?
-
----
-
-### Frank Mazza  
-***M.Sc. Student***  
-
-<div align="right"> <img src="/img/frank_mazza.jpg" style="margin:50px 50px 100px 50px" align="right" width="250" /> </div>
-
-Research Interests:    
-Frank is a M.Sc. student who joined the lab in September, 2019. He is co-supervised by Dr. Etay Hay (https://www.haybrainlab.com/). Frank is interested in identifying electrophysiological signals for diagnosis of depression and transcranial magnetic stimulation (TMS) protocols for treatment of depression, using computer simulations of detailed brain circuits and whole-brain networks. With previous work in identifying EEG correlates of response in a novel rTMS stimulation paradigm (OFC-rTMS), he now focuses on identifying biomarkers in brain signals for diagnosis of depression by linking cellular, circuit, and connectivity changes to signals relevant for clinical diagnosis. In addition, he is working to optimize TMS protocols using computer simulations at the local and global brain scales by simulating protocol effects on local circuits, such as circuit inhibition, and the propagation of activity to other regions in the brain.  
-
-Trivia about Frank:  
-Frank 'The Grank' Mazza. Frank is quite and likes to go about his business, often finishing his work before deadlines, be it grants, abstracts, or manuscripts. Frank does intermittent fasting. No one knows why. Frank likes to read and write about all things art and architecture. He likes to paint, ink, sketch, sculpt and lino-print. Frank has a humble garden where he likes to experiment with growing different plants. He likes to work out and is avid music fan, trying to appreciate everything that isn't country.  
 
 ---
 
