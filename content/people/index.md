@@ -69,7 +69,7 @@ Shreyas is a Ph.D. student who joined the lab as a Research Trainee in May, 2019
 - To study how individual variability in brain geometry affects responses to brain stimulation, and how this information can inform neuro-navigation techniques to improve the identification of potential TMS targets.  
 
 Trivia about Shreyas:  
-Shreyas claims to be the 'funny' one. No one else sees it. Shreyas' favourite cuisines include Indian, Mexican, Arabic and Italian. He is the unofficial social director for the students at the KCNI and while no one really appointed him, they like the fact that he tries to bring people together. Shreyas leads an active lifestyle. He plays football (soccer), swims and enjoys biking (even in the winter!) within the city and on natural trails. Shreyas is an avid chess player and enjoys playing rapid, blitz and bullet chess.   
+Shreyas claims to be the 'funny' one. No one else sees it. Shreyas' favourite cuisines include Indian, Mexican, Arabic and Italian. He is the unofficial social director for the students at the lab and while no one really appointed him, they like the fact that he tries to bring people together. Shreyas leads an active lifestyle. He plays football (soccer), swims and enjoys biking (even in the winter!) within the city and on natural trails. Shreyas is an avid chess player and enjoys playing rapid, blitz and bullet chess.   
 
 ---
 
@@ -154,6 +154,26 @@ He studied Dentistry in Iran for 3 years before dropping out in 2016 to do Neuro
 
 Trivia about Taha:  
 Taha enjoys running in the hills of Toronto suburbs and city biking. You can always find him up to some shenanigans on Strava. He also redecorates his home almost every two weeks. He says he doesn't need to see a therapist about this and promises that he's good. Taha enjoys listening to and singing Persian traditional music and is trying to get into composing as well! Taha would like to use this tribune to support Davide in his fight against all evil (i.e., pineapple pizza).
+
+---
+
+### Parsa Oveisi 
+***Undergraduate Student***  
+
+<div align="right"> <img src="/img/Parsa_pic.jpg" style="margin:50px 50px 100px 50px" align="right" width="250" /> </div> 
+
+Research Interests:  
+Parsa joined Grifflab in September 2021 as an undergraduate research student. Parsa’s overarching interest in learning about new frameworks in which the 
+functioning of the brain can be described. Currently, Parsa is working on data acquisition of concurrent EEG and functional near-infrared spectroscopy (fNIRS) 
+recordings using the Kernel Flow ™ headset. He is then using this data, as well as other EEG and fMRI/fNIRS datasets, to develop a deep learning-based whole brain 
+model that can be fitted to individual brains. The model can then be used to predict empirical EEG and hemodynamic responses, as well as shedding light on how 
+patterns from these different modalities arise and interact.  
+
+Trivia about Parsa:  
+Parsa has a spur-of-the-moment attitude in picking up new hobbies and sports. Sources say he picked up archery by fantasizing about being a steppe horse archer 
+of old, though it cannot be confirmed. You will usually find him at his desk (yes, his. So don’t book it!) taking advantage of the extra monitor. If you look closely, 
+however, you will find that where he actually is, is in a state of utter confusion. The keyboard might be being pressed but no actual progress is being made. If you ever 
+need to talk to him, just follow the scent of black tea, or alternatively, start criticizing Lord of the Rings. He will find you.  
 
 ---
 
