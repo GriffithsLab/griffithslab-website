@@ -45,7 +45,7 @@ Dr. Griffiths has a strong technical expertise in multimodal neuroimaging data a
 ### Dr. Davide Momi
 ***Post-Doctoral Fellow***
 
-<div align="right"> <img src="/img/davide_pic.jpg" style="margin:50px 50px 100px 50px" align="right" width="250" /> </div>
+<div align="right"> <img src="/img/Davide_pic2.jpg" style="margin:50px 50px 100px 50px" align="right" width="250" /> </div>
 
 Research Interests:  
 Davide completed his Ph.D. at the Department of Neuroscience, Imaging and Clinical Sciences at the University G. d'Annunzio of Chieti. As part of his PhD, Davide attended a period abroad as a visiting PhD student at the Martinos Center for Biomedical Imaging in Boston. Prior to his doctoral studies, he obtained a Master’s degree in Neurosciences and Neuro-Psychological Rehabilitation from the University of Bologna and a Bachelor’s in psychology from the University of Perugia. 
@@ -60,7 +60,7 @@ As a proud Italian, Davide never forgets to renew his membership for the “figh
 ### Shreyas Harita
 ***Ph.D. Student***  
 
-<div align="right"> <img src="/img/sh_pic.JPG" style="margin:50px 50px 100px 50px" align="right" width="250" /> </div>
+<div align="right"> <img src="/img/sh_pic2.JPG" style="margin:50px 50px 100px 50px" align="right" width="250" /> </div>
 
 
 Research Interests:   
