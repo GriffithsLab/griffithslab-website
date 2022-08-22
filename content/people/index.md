@@ -157,6 +157,16 @@ Taha enjoys running in the hills of Toronto suburbs and city biking. You can alw
 
 ---
 
+### Andrew Clappison  
+***MCS Student***  
+
+<div align="right"> <img src="/img/andrew_pic.jpg" style="margin:50px 50px 100px 50px" align="right" width="250" /> </div>  
+
+Research Interests:  
+Andrew joined the WBMG in September 2021, as a graduate student from the School of Electrical Engineering and Computer Science at the University of Ottawa. Previously, he had completed a Bachelor of Mathematics degree at the University of Waterloo with minors in Computational Mathematics and Cognitive Science. Andrew is interested in discovering how the brain works, particularly how it produces consciousness. During his time in the lab, he will be working with multimodal whole brain models and using machine learning to fit them to concurrent resting-state EEG and fMRI/fNIRS datasets. In doing so, he will try to reproduce and explain phenomena observed in neuroimaging studies such as the Alpha Power - BOLD anticorrelation.
+
+---
+
 ### Parsa Oveisi 
 ***Undergraduate Student***  
 
