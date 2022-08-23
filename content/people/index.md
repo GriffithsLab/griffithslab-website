@@ -114,19 +114,6 @@ Hussain likes running, playing bass guitar, and cosplaying. His favorite anime i
 
 ---
 
-### FuTe Wong
-***Ph.D. Student***
-
-<div align="right"> <img src="/img/FuTe_pic.jpg" style="margin:50px 50px 100px 50px" align="right" width="250" /> </div>
-
-Research Interests:  
-FuTe joined the WBMG in January, 2021. He completed his Master’s degree in clinical psychology at National Chung Cheng University and a full-time clinical internship at Taipei Veterans General Hospital in Taiwan. Following this, he became a clinical psychologist working with psychiatric patients, and also started incorporating machine learning algorithms and network theory for better characterization of psychiatric populations. As a full-time researcher, FuTe worked on projects that involved multimodal neuroimaging data (fMRI, MEG, DTI, DSI, and PET) and transcriptome analysis. To fulfill the journey with a more precise mechanistic predictive treatment approach for psychiatric patients, he now focuses more on simulation of neuropsychopathology and efficacy of neuromodulation (TMS, tFUS, and DBS), with a bit of expectation to investigate a moonshot emergence of artificial consciousness.
-
-Trivia about FuTe:  
-FuTe grew up in the Penghu islands. He likes to swim as he used to do it on a daily basis. FuTe also enjoys hiking and photography. He is a self-described caffeine addict. It would be interesting to see who could go longer without caffeine ... Sorenza or FuTe?
-
----
-
 ### Kevin Kadak
 ***M.Sc. Student***  
 
@@ -142,7 +129,7 @@ When the world isn’t collapsing in on itself, Kevin enjoys Brazilian Jiu-Jitsu
 ---
 
 ### Taha Morshedzadeh  
-***M.Sc Student***  
+***M.Sc. Student***  
 
 <div align="right"> <img src="/img/taha_pic.jpg" style="margin:50px 50px 100px 50px" align="right" width="250" /> </div>  
 
@@ -158,12 +145,12 @@ Taha enjoys running in the hills of Toronto suburbs and city biking. You can alw
 ---
 
 ### Andrew Clappison  
-***MCS Student***  
+***M.Sc. Student***  
 
 <div align="right"> <img src="/img/andrew_pic.jpg" style="margin:50px 50px 100px 50px" align="right" width="250" /> </div>  
 
 Research Interests:  
-Andrew joined the WBMG in September 2021, as a graduate student from the School of Electrical Engineering and Computer Science at the University of Ottawa. Previously, he had completed a Bachelor of Mathematics degree at the University of Waterloo with minors in Computational Mathematics and Cognitive Science. Andrew is interested in discovering how the brain works, particularly how it produces consciousness. During his time in the lab, he will be working with multimodal whole brain models and using machine learning to fit them to concurrent resting-state EEG and fMRI/fNIRS datasets. In doing so, he will try to reproduce and explain phenomena observed in neuroimaging studies such as the Alpha Power - BOLD anticorrelation.
+Andrew joined the WBMG in September 2021, as a graduate student in the School of Electrical Engineering and Computer Science at the University of Ottawa. Previously, he had completed a Bachelor of Mathematics degree at the University of Waterloo with minors in Computational Mathematics and Cognitive Science. Andrew is interested in discovering how the brain works, particularly how it produces consciousness. During his time in the lab, he will be working with multimodal whole brain models and using machine learning to fit them to concurrent resting-state EEG and fMRI/fNIRS datasets. In doing so, he will try to reproduce and explain phenomena observed in neuroimaging studies such as the Alpha Power - BOLD anticorrelation.
 
 ---
 
@@ -220,6 +207,19 @@ Surya enjoys partaking in a number of hobbies including but not limited to drawi
 Research Interests:
 
 Neda completed her Ph.D. at the department of clinical neuroscience at Karolinska Institutet, Stockholm, Sweden. In addition, she has master’s in biomedical engineering from Tehran Polytechnic (aka Amirkabir University of Technology), Tehran, Iran. Neda has a strong analytical and computational background, with a growing passion for applying quantitative problem solving and innovative data analysis for solving tangible real-world problems. She has experience in modeling healthy and diseased brains, linear/non-linear time-series and neuroimaging data analysis, statistical and computational modeling of the data, network science and machine learning. She enjoys working in dynamic cross-functional teams on challenging tasks, with measurable real-world outcomes. She joined the lab in July, 2020. She is currently working on whole-brain modelling as well as the analysis and modelling of TMS-evoked responses. The primary aim of her project is to undertake key computational and experimental groundwork for the development and iterative improvement of a novel computational tool for predicting TMS responses and induced plasticity effects. Her long-term aim is to develop computational models of repetitive TMS responses that can be used by clinicians and researchers for optimal patient-specific design of brain stimulation therapies.
+
+---
+
+### FuTe Wong
+***Ph.D. Student***
+
+<div align="right"> <img src="/img/FuTe_pic.jpg" style="margin:50px 50px 100px 50px" align="right" width="250" /> </div>
+
+Research Interests:  
+FuTe joined the WBMG in January, 2021. He completed his Master’s degree in clinical psychology at National Chung Cheng University and a full-time clinical internship at Taipei Veterans General Hospital in Taiwan. Following this, he became a clinical psychologist working with psychiatric patients, and also started incorporating machine learning algorithms and network theory for better characterization of psychiatric populations. As a full-time researcher, FuTe worked on projects that involved multimodal neuroimaging data (fMRI, MEG, DTI, DSI, and PET) and transcriptome analysis. To fulfill the journey with a more precise mechanistic predictive treatment approach for psychiatric patients, he now focuses more on simulation of neuropsychopathology and efficacy of neuromodulation (TMS, tFUS, and DBS), with a bit of expectation to investigate a moonshot emergence of artificial consciousness.
+
+Trivia about FuTe:  
+FuTe grew up in the Penghu islands. He likes to swim as he used to do it on a daily basis. FuTe also enjoys hiking and photography. He is a self-described caffeine addict. It would be interesting to see who could go longer without caffeine ... Sorenza or FuTe?
 
 ---
 
