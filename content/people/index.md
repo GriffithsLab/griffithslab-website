@@ -73,19 +73,6 @@ Shreyas claims to be the 'funny' one. No one else sees it. Shreyas' favourite cu
 
 ---
 
-### Frank Mazza  
-***Ph.D. Student***  
-
-<div align="right"> <img src="/img/frank_mazza.jpg" style="margin:50px 50px 100px 50px" align="right" width="250" /> </div>
-
-Research Interests:    
-Frank is a M.Sc. student who joined the lab in September, 2019. He is co-supervised by Dr. Etay Hay (https://www.haybrainlab.com/). Frank is interested in identifying electrophysiological signals for diagnosis of depression and transcranial magnetic stimulation (TMS) protocols for treatment of depression, using computer simulations of detailed brain circuits and whole-brain networks. With previous work in identifying EEG correlates of response in a novel rTMS stimulation paradigm (OFC-rTMS), he now focuses on identifying biomarkers in brain signals for diagnosis of depression by linking cellular, circuit, and connectivity changes to signals relevant for clinical diagnosis. In addition, he is working to optimize TMS protocols using computer simulations at the local and global brain scales by simulating protocol effects on local circuits, such as circuit inhibition, and the propagation of activity to other regions in the brain.  
-
-Trivia about Frank:  
-Frank 'The Grank' Mazza. Frank is quite and likes to go about his business, often finishing his work before deadlines, be it grants, abstracts, or manuscripts. Frank does intermittent fasting. No one knows why. Frank likes to read and write about all things art and architecture. He likes to paint, ink, sketch, sculpt and lino-print. Frank has a humble garden where he likes to experiment with growing different plants. He likes to work out and is avid music fan, trying to appreciate everything that isn't country.  
-
----
-
 ### Sorenza Bastiaens
 ***Ph.D. Student***
 
@@ -209,6 +196,20 @@ Research Interests:
 Neda completed her Ph.D. at the department of clinical neuroscience at Karolinska Institutet, Stockholm, Sweden. In addition, she has master’s in biomedical engineering from Tehran Polytechnic (aka Amirkabir University of Technology), Tehran, Iran. Neda has a strong analytical and computational background, with a growing passion for applying quantitative problem solving and innovative data analysis for solving tangible real-world problems. She has experience in modeling healthy and diseased brains, linear/non-linear time-series and neuroimaging data analysis, statistical and computational modeling of the data, network science and machine learning. She enjoys working in dynamic cross-functional teams on challenging tasks, with measurable real-world outcomes. She joined the lab in July, 2020. She is currently working on whole-brain modelling as well as the analysis and modelling of TMS-evoked responses. The primary aim of her project is to undertake key computational and experimental groundwork for the development and iterative improvement of a novel computational tool for predicting TMS responses and induced plasticity effects. Her long-term aim is to develop computational models of repetitive TMS responses that can be used by clinicians and researchers for optimal patient-specific design of brain stimulation therapies.
 
 ---
+
+### Frank Mazza  
+***M.Sc. Student***  
+
+<div align="right"> <img src="/img/frank_mazza.jpg" style="margin:50px 50px 100px 50px" align="right" width="250" /> </div>
+
+Research Interests:    
+Frank is a M.Sc. student who joined the lab in September, 2019. He is co-supervised by Dr. Etay Hay (https://www.haybrainlab.com/). Frank is interested in identifying electrophysiological signals for diagnosis of depression and transcranial magnetic stimulation (TMS) protocols for treatment of depression, using computer simulations of detailed brain circuits and whole-brain networks. With previous work in identifying EEG correlates of response in a novel rTMS stimulation paradigm (OFC-rTMS), he now focuses on identifying biomarkers in brain signals for diagnosis of depression by linking cellular, circuit, and connectivity changes to signals relevant for clinical diagnosis. In addition, he is working to optimize TMS protocols using computer simulations at the local and global brain scales by simulating protocol effects on local circuits, such as circuit inhibition, and the propagation of activity to other regions in the brain.  
+
+Trivia about Frank:  
+Frank 'The Grank' Mazza. Frank is quite and likes to go about his business, often finishing his work before deadlines, be it grants, abstracts, or manuscripts. Frank does intermittent fasting. No one knows why. Frank likes to read and write about all things art and architecture. He likes to paint, ink, sketch, sculpt and lino-print. Frank has a humble garden where he likes to experiment with growing different plants. He likes to work out and is avid music fan, trying to appreciate everything that isn't country.  
+
+---
+
 
 ### FuTe Wong
 ***Ph.D. Student***
