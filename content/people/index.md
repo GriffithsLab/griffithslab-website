@@ -142,7 +142,7 @@ Andrew joined the WBMG in September 2021, as a graduate student in the School of
 ---
 
 ### Parsa Oveisi 
-***M.Sc Student***  
+***M.Sc. Student***  
 
 <div align="right"> <img src="/img/Parsa_pic.jpg" style="margin:50px 50px 100px 50px" align="right" width="250" /> </div> 
 
