@@ -142,7 +142,7 @@ Andrew joined the WBMG in September 2021, as a graduate student in the School of
 ---
 
 ### Parsa Oveisi 
-***Undergraduate Student***  
+***M.Sc Student***  
 
 <div align="right"> <img src="/img/Parsa_pic.jpg" style="margin:50px 50px 100px 50px" align="right" width="250" /> </div> 
 
@@ -151,7 +151,7 @@ Parsa joined Grifflab in September 2021 as an undergraduate research student. Pa
 functioning of the brain can be described. Currently, Parsa is working on data acquisition of concurrent EEG and functional near-infrared spectroscopy (fNIRS) 
 recordings using the Kernel Flow ™ headset. He is then using this data, as well as other EEG and fMRI/fNIRS datasets, to develop a deep learning-based whole brain 
 model that can be fitted to individual brains. The model can then be used to predict empirical EEG and hemodynamic responses, as well as shedding light on how 
-patterns from these different modalities arise and interact.  
+patterns from these different modalities arise and interact. Parsa officially joined the lab as a Master's student in September 2022.   
 
 Trivia about Parsa:  
 Parsa has a spur-of-the-moment attitude in picking up new hobbies and sports. Sources say he picked up archery by fantasizing about being a steppe horse archer 
