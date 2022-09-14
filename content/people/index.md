@@ -142,9 +142,9 @@ Andrew joined the WBMG in September 2021, as a graduate student in the School of
 ---
 
 ### Parsa Oveisi 
-***M.Sc. Student***  
+***M.A.Sc. Student***  
 
-<div align="right"> <img src="/img/Parsa_pic.jpg" style="margin:50px 50px 100px 50px" align="right" width="250" /> </div> 
+<div align="right"> <img src="/img/Parsa_pic_3.jpg" style="margin:50px 50px 100px 50px" align="right" width="250" /> </div> 
 
 Research Interests:  
 Parsa joined Grifflab in September 2021 as an undergraduate research student. Parsa’s overarching interest in learning about new frameworks in which the 
@@ -156,8 +156,7 @@ patterns from these different modalities arise and interact. Parsa officially jo
 Trivia about Parsa:  
 Parsa has a spur-of-the-moment attitude in picking up new hobbies and sports. Sources say he picked up archery by fantasizing about being a steppe horse archer 
 of old, though it cannot be confirmed. You will usually find him at his desk (yes, his. So don’t book it!) taking advantage of the extra monitor. If you look closely, 
-however, you will find that where he actually is, is in a state of utter confusion. The keyboard might be being pressed but no actual progress is being made. If you ever 
-need to talk to him, just follow the scent of black tea, or alternatively, start criticizing Lord of the Rings. He will find you.  
+however, you will find that where he actually is, is in a state of utter confusion. The keyboard might be being pressed but no actual progress is being made. If you ever need to talk to him, just follow the scent of black tea, or alternatively, start criticizing Lord of the Rings. He will find you.  
 
 ---
 
