@@ -69,7 +69,7 @@ Shreyas is a Ph.D. student who joined the lab as a Research Trainee in May, 2019
 - To study how individual variability in brain geometry affects responses to brain stimulation, and how this information can inform neuro-navigation techniques to improve the identification of potential TMS targets.  
 
 Trivia about Shreyas:  
-Shreyas claims to be the 'funny' one. No one else sees it. Shreyas' favourite cuisines include Indian, Mexican, Arabic and Italian. He is the unofficial social director for the students at the lab and while no one really appointed him, they like the fact that he tries to bring people together. Shreyas leads an active lifestyle. He plays football (soccer), swims and enjoys biking (even in the winter!) within the city and on natural trails. Shreyas is an avid chess player and enjoys playing rapid, blitz and bullet chess.   
+Shreyas claims to be the 'funny' one. No one else sees it. Shreyas' favourite cuisines include Indian, Mexican, Arabic and Italian. He is the unofficial social director for the students at the lab and while no one really appointed him, they like the fact that he tries to bring people together. Shreyas leads an active lifestyle. He plays football (soccer), swims and enjoys biking (even in the winter!) within the city and on natural trails. Shreyas is an avid chess player and enjoys playing blitz and bullet chess.   
 
 ---
 
@@ -88,26 +88,14 @@ Sorenza is the 'sporty' one. She is always down for pretty much any physical act
 
 ---
 
-### Hussain Ather
-***Ph.D. Student***
-
-<div align="right"> <img src="/img/hussain_pic.jpg" style="margin:50px 50px 100px 50px" align="right" width="250" /> </div>
-
-Research Interests:    
-After studying physics and philosophy at Indiana University-Bloomington, Hussain performed research in bioinformatics and computational neuroscience at the National Institutes of Health (NIH) before joining the WBMG in January, 2021. Working at the intersection of neuroimaging, computational neuroscience, and artificial intelligence, he’s studying patterns of brain connectivity and modelling methods to improve deep brain stimulation techniques. His work is about developing the theoretical, mathematical, and computational tools to model and measure the exchange between agent and environment to characterize neuropsychiatric disorders. Through data analysis and model manipulation, he explores how the anatomical structure of the real human brain influences the modal structure arising from simulations. By using models based on the free energy principle and testing and refining these models using imaging data, the model can be optimized for behavior, and emergent neural responses from the model may align with the empirical imaging responses. By fine-tuning these models on brain imaging data, a novel hierarchical inference paradigm results for creating a mathematical formalization of artificial selves using agent-environment dynamics.
-
-Trivia about Hussain:  
-Hussain likes running, playing bass guitar, and cosplaying. His favorite anime is Neon Genesis Evangelion, and his zodiac sign is Scorpio. Sometimes he wishes he could've just become a famous rapper on Soundcloud, but, for now, he's going to have to settle for being a scientist. For some reason, he finds German easier to learn than French.
-
----
 
 ### Kevin Kadak
-***M.Sc. Student***  
+***Ph.D. Student***  
 
 <div align="right"> <img src="/img/kevinkadak-image.jpg" style="margin:50px 50px 100px 50px" align="right" width="250" /> </div>
 
 Research Interests:    
-Kevin is a new M.Sc. student who joined the lab in September, 2020. His research focuses on modelling synaptic plasticity dynamics in the brain to better optimize TMS stimulation parameters for the treatment of major depressive disorder. Within the theories of calcium-dependent plasticity and metaplasticity, he will be expanding current synaptic simulation models to encompass E-fields estimates, white matter connectivity, cortical geometry, and corticothalamic oscillations to project patient-specific stimulation protocols. This may aid in more robust, long-term neural rewiring and treatment. Both structural and functional imaging techniques, including fMRI and EEG, will be utilized to inform these models.  
+Kevin is a Ph.D. student who joined the lab in September, 2020. His research focuses on modelling synaptic plasticity dynamics in the brain to better optimize TMS stimulation parameters for the treatment of major depressive disorder. Within the theories of calcium-dependent plasticity and metaplasticity, he will be expanding current synaptic simulation models to encompass E-fields estimates, white matter connectivity, cortical geometry, and corticothalamic oscillations to project patient-specific stimulation protocols. This may aid in more robust, long-term neural rewiring and treatment. Both structural and functional imaging techniques, including fMRI and EEG, will be utilized to inform these models.  
 He looks forward to leveraging his previous experience in modelling zebrafish decision patterns towards further refining his computational skillset and, most ideally, constructing novel frameworks for applied clinical use.    
 
 Trivia about Kevin:  
@@ -131,16 +119,6 @@ Taha enjoys running in the hills of Toronto suburbs and city biking. You can alw
 
 ---
 
-### Andrew Clappison  
-***M.Sc. Student***  
-
-<div align="right"> <img src="/img/andrew_pic.jpg" style="margin:50px 50px 100px 50px" align="right" width="250" /> </div>  
-
-Research Interests:  
-Andrew joined the WBMG in September 2021, as a graduate student in the School of Electrical Engineering and Computer Science at the University of Ottawa. Previously, he had completed a Bachelor of Mathematics degree at the University of Waterloo with minors in Computational Mathematics and Cognitive Science. Andrew is interested in discovering how the brain works, particularly how it produces consciousness. During his time in the lab, he will be working with multimodal whole brain models and using machine learning to fit them to concurrent resting-state EEG and fMRI/fNIRS datasets. In doing so, he will try to reproduce and explain phenomena observed in neuroimaging studies such as the Alpha Power - BOLD anticorrelation.
-
----
-
 ### Parsa Oveisi 
 ***M.A.Sc. Student***  
 
@@ -157,6 +135,29 @@ Trivia about Parsa:
 Parsa has a spur-of-the-moment attitude in picking up new hobbies and sports. Sources say he picked up archery by fantasizing about being a steppe horse archer 
 of old, though it cannot be confirmed. You will usually find him at his desk (yes, his. So don’t book it!) taking advantage of the extra monitor. If you look closely, 
 however, you will find that where he actually is, is in a state of utter confusion. The keyboard might be being pressed but no actual progress is being made. If you ever need to talk to him, just follow the scent of black tea, or alternatively, start criticizing Lord of the Rings. He will find you.  
+
+---
+
+### Andrew Clappison  
+***M.Sc. Student***  
+
+<div align="right"> <img src="/img/andrew_pic.jpg" style="margin:50px 50px 100px 50px" align="right" width="250" /> </div>  
+
+Research Interests:  
+Andrew joined the WBMG in September 2021, as a graduate student in the School of Electrical Engineering and Computer Science at the University of Ottawa. Previously, he had completed a Bachelor of Mathematics degree at the University of Waterloo with minors in Computational Mathematics and Cognitive Science. Andrew is interested in discovering how the brain works, particularly how it produces consciousness. During his time in the lab, he will be working with multimodal whole brain models and using machine learning to fit them to concurrent resting-state EEG and fMRI/fNIRS datasets. In doing so, he will try to reproduce and explain phenomena observed in neuroimaging studies such as the Alpha Power - BOLD anticorrelation.
+
+---
+
+### Hussain Ather
+***Ph.D. Student***
+
+<div align="right"> <img src="/img/hussain_pic.jpg" style="margin:50px 50px 100px 50px" align="right" width="250" /> </div>
+
+Research Interests:    
+After studying physics and philosophy at Indiana University-Bloomington, Hussain performed research in bioinformatics and computational neuroscience at the National Institutes of Health (NIH) before joining the WBMG in January, 2021. Working at the intersection of neuroimaging, computational neuroscience, and artificial intelligence, he’s studying patterns of brain connectivity and modelling methods to improve deep brain stimulation techniques. His work is about developing the theoretical, mathematical, and computational tools to model and measure the exchange between agent and environment to characterize neuropsychiatric disorders. Through data analysis and model manipulation, he explores how the anatomical structure of the real human brain influences the modal structure arising from simulations. By using models based on the free energy principle and testing and refining these models using imaging data, the model can be optimized for behavior, and emergent neural responses from the model may align with the empirical imaging responses. By fine-tuning these models on brain imaging data, a novel hierarchical inference paradigm results for creating a mathematical formalization of artificial selves using agent-environment dynamics.
+
+Trivia about Hussain:  
+Hussain likes running, playing bass guitar, and cosplaying. His favorite anime is Neon Genesis Evangelion, and his zodiac sign is Scorpio. Sometimes he wishes he could've just become a famous rapper on Soundcloud, but, for now, he's going to have to settle for being a scientist. For some reason, he finds German easier to learn than French.
 
 ---
 
