@@ -60,7 +60,7 @@ As a proud Italian, Davide never forgets to renew his membership for the “figh
 ### Shreyas Harita
 ***Ph.D. Student***  
 
-<div align="right"> <img src="/img/sh_pic_X.jpg" style="margin:50px 50px 100px 50px" align="right" width="250" /> </div>
+<div align="right"> <img src="/img/sh_pic.jpg" style="margin:50px 50px 100px 50px" align="right" width="250" /> </div>
 
 
 Research Interests:   
