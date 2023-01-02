@@ -22,7 +22,7 @@ weight = 2
 
 +++
 
-<div align="center"> <font face="calibri" color="white" weight="bold" size=20>Building brain simulations to improve interpretation of neuroimaging and neurostimulation data</font> </div>
+<div align="center"> <font face="calibri" color="white" weight="bold" size=12>Building brain simulations to improve interpretation of neuroimaging and neurostimulation data</font> </div>
 
 In the Whole Brain Modelling Group (aka GriffLab) at the [Krembil Centre for Neuroinformatics (KCNI)](https://www.camh.ca/en/science-and-research/institutes-and-centres/krembil-centre-for-neuroinformatics), we take a "bird's-eye" approach to understanding brain organization and how it is affected in neuropsychiatric and neurological disease.
 
