@@ -17,7 +17,7 @@ weight = 2
 #<div align="center"> <img src="/img/CAMH_Horz_logo_w_Krembil_KO.png" align="center" margin="15px 15px 15px 15px" width="300" /> </div>
 #<br>
 
-#<div align="center"> <font face="calibri" color="purple" weight="bold" size=20> Whole Brain Modelling </font> </div>
+#<div align="center"> <font face="calibri" color="purple" weight="bold" size=12> Whole Brain Modelling </font> </div>
 
 
 +++
