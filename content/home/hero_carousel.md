@@ -21,15 +21,15 @@ height = "500px"
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "Whole Brain Modelling Group"
+  title = "Whole-Brain Modelling Group"
   #content = "I am center aligned :smile:"
-  content = "Krembil Centre for Neuroinformatics @ CAMH "
-  align = "center"  # Choose `center`, `left`, or `right`.
+  content = "CAMH Krembil Centre for Neuroinformatics <br> & University of Toronto"
+  align = "left"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#666"  # An HTML color value.
-  overlay_img = "ViewFromTorontoWestern.jpg"
+  overlay_img = "toronto_skyline.jpg" #"ViewFromTorontoWestern.jpg"
   #overlay_img = "headers/bubbles-wide.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
  
@@ -47,11 +47,10 @@ height = "500px"
   #content = "I am left aligned :smile:"
   #align = "left"
 
-  title = "Whole Brain Modelling Group"
+  title = "Whole-Brain Modelling Group"
   #content = "I am center aligned :smile:"
-  #content = "Krembil Centre for Neuroinformatics"
-  content = "Krembil Centre for Neuroinformatics @ CAMH "
-  align = "center"  # Choose `center`, `left`, or `right`.
+  content = "CAMH Krembil Centre for Neuroinformatics <br> & University of Toronto"
+  align = "left"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   overlay_color = "#555"  # An HTML color value.
@@ -60,10 +59,10 @@ height = "500px"
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "Whole Brain Modelling Group"
-  content = "Krembil Centre for Neuroinformatics @ CAMH "
+  title = "Whole-Brain Modelling Group"
+  content = "CAMH Krembil Centre for Neuroinformatics <br> & University of Toronto"
+  align = "left"  # Choose `center`, `left`, or `right`.
   #align = "center"
-  align = "left"
   overlay_color = "#333"  # An HTML color value.
   overlay_img = "JG_CampbellSymposium_cropped.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.6  # Darken the image. Value in range 0-1.
@@ -72,8 +71,5 @@ height = "500px"
 
 #  #content = "<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;"> <iframe src="//www.youtube.com/embed/w7Ft2ymGmfc?autoplay=1" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe></div>"
 
-
-
 +++
 
-<img src="/img/KCNI_logo_transparent.png width="400"/>
