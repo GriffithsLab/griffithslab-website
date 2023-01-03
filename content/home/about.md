@@ -37,7 +37,7 @@ In our research we bring the tools of computational neuroscience to the domains 
 We combine whole-brain computational modelling of ***network dynamics***, ***oscillations***, ***plasticity***, and ***cognitive function*** with experimental and data analytic work across multiple neuroimaging and neurostimulation modalities (EEG, MEG, s/d/fMRI, fNIRS, TMS, TES). This unique theoretical-experimental approach is applied to questions on both ***basic principles of brain organization***, as well as how it is ***affected in neuropsychiatric and neurological disease***.
 
 <div align="center"> <img src="/img/wbm_diagram_inverted.png" margin="15px 15px 15px 15px" width="800" /> </div>
-<div align="center"> <i> Schematic of whole-brain modelling approach (Griffiths et al. 2022)</i></div>
+<div align="center"> <i> Schematic of whole-brain modelling approach <a href="www.grifflab.com/publication/2022-griffiths-et-al-wbm-pastpresentfuture">(Griffiths et al. 2022)</a></i></div>
 <br>
 
 

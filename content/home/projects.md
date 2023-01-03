@@ -6,7 +6,8 @@ active = true
 date = ""
 
 title = "Research Areas"
-subtitle = "We have a number of ongoing research projects in the areas of computational neuroscience, neuroimaging, and neuroinformatics. Click the links below for details."
+subtitle = "The core research activites of the group consist of applying whole-brain modelling techniques to a variety of research questions relating to ***brain stimulation***, ***brain rhythms***, and ***brain networks***. Most projects involve intersections of 2 or 3 of these, and have both basic science and clinical application components, such as therapeutic brain stimulation for depression. We also have a number of additional ongoing projects involving mobile EEG, fNIRS, sleep, neuroinformatics, and computational modelling methodology. See below for more info on each of these, as well as links to relevant publications and reproducible code."
+
 
 # Order that this section will appear in.
 weight = 2
