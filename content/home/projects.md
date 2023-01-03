@@ -1,12 +1,11 @@
 +++
 # Projects widget.
-#widget = "research"
 widget = "projects"
 active = true
 #date = 2016-04-20T00:00:00
 date = ""
 
-title = "Research"
+title = "Research Areas"
 subtitle = "We have a number of ongoing research projects in the areas of computational neuroscience, neuroimaging, and neuroinformatics. Click the links below for details."
 
 # Order that this section will appear in.
@@ -36,20 +35,24 @@ flip_alt_rows = true
 # Filter toolbar.
 
 # Default filter index (e.g. 0 corresponds to the first `[[filter]]` instance below).
-filter_default = 0
+filter_default = 1
 
 # Add or remove as many filters (`[[filter]]` instances) as you like.
 # To show all items, set `tag` to "*".
 # To filter by a specific tag, set `tag` to an existing tag name.
 # To remove toolbar, delete/comment all instances of `[[filter]]` below.
 
-#[[filter]]
-#  name = "All"
-#  tag = "*"
+[[filter]]
+  name = "All"
+  tag = "*"
 
-#[[filter]]
-#  name = "Deep Learning"
-#  tag = "Deep Learning"
+[[filter]]
+  name = "Primary Areas"
+  tag = "primaryarea"
+
+[[filter]]
+  name = "Additional Projects"
+  tag = "secondaryarea"
 
 #[[filter]]
 #  name = "Other"
