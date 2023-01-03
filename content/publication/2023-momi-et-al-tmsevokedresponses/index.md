@@ -42,7 +42,7 @@ projects = ["brain_stimulation", "brain_networks"]
 tags = ["brain stimulation", "brain networks"]
 
 # Links (optional).
-#url_pdf = "https://www.biorxiv.org/content/10.1101/2022.06.09.494069v1.full.pdf"
+url_pdf = "https://www.biorxiv.org/content/10.1101/2022.06.09.494069v1.full.pdf"
 url_preprint = "https://www.biorxiv.org/content/10.1101/2022.06.09.494069v1"
 url_code = "https://github.com/GriffithsLab/PyTepFit"
 

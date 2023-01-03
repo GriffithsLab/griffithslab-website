@@ -26,7 +26,7 @@ publication="(in Curtsudis et al. Eds. 'Handbook of Multi-Scale Models of Brain 
 
 
 # Abstract and optional shortened version.
-abstract = ""
+abstract = "Rhythmic, collective activity is a fundamental feature of neural systems. As a result of this, many of the challenges and opportunities involved in developing clinical tools from basic neuroscience knowledge come down to questions about control of dynamic, oscillatory networks. In this chapter we review a range of experimental and theoretical work on control of neural oscillations, in healthy brains and in relation to various clinical conditions. We highlight the main types of qualitative system behaviour that can result from application of periodic stimulation and present a simple case study on this using a mathematical model of rhythmogenesis in thalamocortical circuits. The concepts discussed here may, we hope, help provide some guidelines and principles for the development of future generations of more physiologically and dynamically informed brain stimulation techniques, paradigms,and researchers."
 
 abstract_short = ""
 
