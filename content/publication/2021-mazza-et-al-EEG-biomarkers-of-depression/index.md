@@ -30,17 +30,17 @@ abstract = ""
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
+#   Simply enter your project''s folder or file name without extension.
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 #projects = ["models-of-brain-dynamics"]
 # projects = ["models_of_brain_dynamics"]
-#projects = ["external-project"]
+projects = ["brain_rhythms"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
