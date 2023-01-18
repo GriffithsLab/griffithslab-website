@@ -46,14 +46,17 @@ filter_default = 1
 [[filter]]
   name = "All"
   tag = "*"
+  weight=3
 
 [[filter]]
   name = "Primary Areas"
   tag = "primaryarea"
+  weight=1
 
 [[filter]]
   name = "Additional Projects"
   tag = "secondaryarea"
+  weight=2
 
 #[[filter]]
 #  name = "Other"

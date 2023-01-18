@@ -20,19 +20,18 @@ height = "500px"
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
+
 [[item]]
   title = "Whole-Brain Modelling Group"
   #content = "I am center aligned :smile:"
   content = "CAMH Krembil Centre for Neuroinformatics <br> & University of Toronto"
   align = "left"  # Choose `center`, `left`, or `right`.
-
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#666"  # An HTML color value.
   overlay_img = "toronto_skyline.jpg" #"ViewFromTorontoWestern.jpg"
   #overlay_img = "headers/bubbles-wide.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
- 
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
@@ -42,21 +41,27 @@ height = "500px"
   #cta_icon = "graduation-cap"
 
 [[item]]
-  
   #title = "Left"
   #content = "I am left aligned :smile:"
   #align = "left"
-
   title = "Whole-Brain Modelling Group"
   #content = "I am center aligned :smile:"
   content = "CAMH Krembil Centre for Neuroinformatics <br> & University of Toronto"
   align = "left"  # Choose `center`, `left`, or `right`.
-
   # Overlay a color or image (optional).
   overlay_color = "#555"  # An HTML color value.
   #overlay_img = ""  # Image path relative to your `static/img/` folder.
   overlay_img = "sim9a1_tsmovie.gif"
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+
+[[item]]
+  title = "Whole-Brain Modelling Group"
+  content = "CAMH Krembil Centre for Neuroinformatics <br> & University of Toronto"
+  align = "center"  # Choose `center`, `left`, or `right`.
+  #align = "center"
+  overlay_color = "#333"  # An HTML color value.
+  overlay_img = "wbm_diagram.jpg" # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.6  # Darken the image. Value in range 0-1.
 
 [[item]]
   title = "Whole-Brain Modelling Group"

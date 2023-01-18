@@ -74,7 +74,7 @@ flip_alt_rows = true
 #  tags = "OpenScience"
 
 
-filter_default = 0
+filter_default = 1
 
 # Add or remove as many filters (`[[filter]]` instances) as you like.
 # To show all items, set `tag` to "*".
@@ -85,15 +85,25 @@ filter_default = 0
   name = "All"
   tag = "*"
 
+[[filter]] 
+  name = "Pinned"
+  tag = "Pinned"
+
 [[filter]]
   name = "Neuroimaging"
   tag = "Neuroimaging"
 
 [[filter]]
-  name = "Modelling"
-  tag = "Modelling"
+  name = "ComputationalNeuroscience"
+  tag = "ComputationalNeuroscience"
 
+[[filter]]
+  name = "Philosophy"
+  tag = "Philosophy"
 
+[[filter]]
+  name = "Podcast"
+  tag = "Podcast"
 
 +++
 

@@ -8,8 +8,8 @@ active = true
 date = 2016-04-20T00:00:00
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = ""
-subtitle = ""
+#title = ""
+#subtitle = "Building patient-personalized brain simulations to improve interpretation of neuroimaging and neurostimulation data"
 
 # Order that this section will appear in.
 weight = 2
@@ -30,9 +30,9 @@ weight = 2
 <br>
 Neuroscience as a field is very good at ***measuring things*** and ***poking things***. It has an impressive armoury of experimental techniques using electricity, light, acoustics, biochemistry, and more to measure and modulate neural activity in everything from a blob of cells on a dish to a conscious human in a surgical theatre or an MRI scanner. 
 
-What neuroscience is less good at, for the most part, is ***theory***; i.e. ***understanding*** the sources of the patterns we see in our measurements, and what is actually happening in the brain when we poke it with electrical stimulation and the like. The sub-field that deals with developing theoretical mechanistic understanding of brain processes is known as ***computational neuroscience***. It does this by building mathematical models that allow us to simulate healthy brain activity ***"in-silico"***. 
+What neuroscience is less good at, for the most part, is ***theory***; i.e. ***understanding*** the sources of the patterns we see in our measurements, and what is actually happening in the brain when we poke it with electrical stimulation and the like. The sub-field that deals with developing theoretical mechanistic understanding of brain processes is known as ***computational neuroscience***. It does this by building mathematical models that allow us to simulate and study brain activity ***"in-silico"***. 
 
-In our research we bring the tools of computational neuroscience to the domains of [***neuroimaging***](addlink) and [***brain stimulation***](addlink). The paradigm we use for this, [***whole-brain modelling***](addlink), blends elements from neurophysiology, cognitive neuroscience, neuroanatomy, connectomics, complex networks, dynamical systems, machine learning, and biophysics. 
+In our research we bring the tools of computational neuroscience to the domains of [***neuroimaging***](addlink) and [***brain stimulation***](https://www.brainstimjrnl.com). The paradigm we use for this, [***whole-brain modelling***](www.grifflab.com/publication/2022-griffiths-et-al-wbm-pastpresentfuture), blends elements from neurophysiology, cognitive neuroscience, neuroanatomy, connectomics, complex networks, dynamical systems, machine learning, and biophysics. 
 
 We combine whole-brain computational modelling of ***network dynamics***, ***oscillations***, ***plasticity***, and ***cognitive function*** with experimental and data analytic work across multiple neuroimaging and neurostimulation modalities (EEG, MEG, s/d/fMRI, fNIRS, TMS, TES). This unique theoretical-experimental approach is applied to questions on both ***basic principles of brain organization***, as well as how it is ***affected in neuropsychiatric and neurological disease***.
 
