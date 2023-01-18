@@ -73,5 +73,8 @@ math = true
 #  #caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
 #  Focal point (optional)
 #  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "BottomLeft"
+  focal_point = "Center"
+  preview_only = "yes"
+
 +++
+<div align="center"> <img src="/img/wbm_diagram_inverted.png" margin="15px 15px 15px 15px" width="800" /> </div>
