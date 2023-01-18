@@ -3,17 +3,16 @@
 title = "KCNI School Whole-Brain Modelling Lectures"
 
 # Date this page was created.
-date = 2018-02-01T00:00:00
+date = 2023-01-01T00:00:00
 
 # Project summary to display on homepage.
 #summary = "An example of using the in-built project page."
-summary = "Hands-on tutorial talk at University of Toronto"
+summary = "JG's lectures at the 2021 / 2022 KCNI Summer School"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
 #tags = ["teaching"]
-
-tags = ["OpenScience"]
+tags = ["Pinned", "ComputationalNeuroscience", "Neuroimaging", "Neuroinformatics"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -38,7 +37,8 @@ external_link = ""
 
 url_custom = [{icon_pack = "fab", icon="youtube", name="Video recording Part 1", url="https://youtu.be/1LpH3gQ-UX0"},
               {icon_pack = "fab", icon="youtube", name="Video recording Part 2", url="https://youtu.be/EapY9R_yHbU"},
-              {icon_pack = "fab", icon="github", name="Github repo", url="https://github.com/krembilneuroinformatics/kcni-school-lessons/tree/master/day5"}]
+              {icon_pack = "fab", icon="github", name="Github repo", url="https://github.com/krembilneuroinformatics/kcni-school-lessons/tree/master/day5"},
+              {icon_pack = "fab", icon="", name="KCNI School Site", url="kcnischool.org"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project''s folder. 
@@ -48,10 +48,17 @@ url_custom = [{icon_pack = "fab", icon="youtube", name="Video recording Part 1",
   
 #  # Focal point (optional)
 #  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Smart"
-
+#  focal_point = "Center"
+   preview_only = true
 
 +++
+
+
+<div align="center"> <img src="featured.png" margin="15px 15px 15px 15px" width="1800" /> </div>
+
+<br>
+
+
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe src="//www.youtube.com/embed/EapY9R_yHbU?autoplay=1" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
