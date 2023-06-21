@@ -42,7 +42,7 @@ projects = ["brain_networks", "brain_rhythms", "brain_stimulation"]
 tags = ["brain stimulation", "brain networks", "brain rhythms"]
 
 # Links (optional).
-url_pdf = "https://tinyurl.com/3pcpy26p"
+#url_pdf = "https://tinyurl.com/3pcpy26p"
 #url_preprint = ""
 #url_code = ""
 #url_dataset = "#"
@@ -57,7 +57,10 @@ url_pdf = "https://tinyurl.com/3pcpy26p"
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 #url_custom = [{name = "Custom Link", url = "http://example.org"}]
-url_custom = [{name = "url", url = "https://link.springer.com/chapter/10.1007/978-3-030-89439-9_13"}]
+url_custom = [{name = "url", url = "https://link.springer.com/chapter/10.1007/978-3-030-89439-9_13",
+               name = "PDF", url = "https://tinyurl.com/3pcpy26p"}]
+
+
 #url_custom = [{name = "PDF", url = "https://tinyurl.com/4etcdste"}]
 
 # Digital Object Identifier (DOI)
