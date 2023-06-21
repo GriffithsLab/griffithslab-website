@@ -57,8 +57,8 @@ tags = ["brain stimulation", "brain networks", "brain rhythms"]
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 #url_custom = [{name = "Custom Link", url = "http://example.org"}]
-url_custom = [{name = "url", url = "https://link.springer.com/chapter/10.1007/978-3-030-89439-9_13",
-               name = "PDF", url = "https://tinyurl.com/3pcpy26p"}]
+url_custom =  [{name = "url", url = "https://link.springer.com/chapter/10.1007/978-3-030-89439-9_13"},
+               {name = "PDF", url = "https://tinyurl.com/3pcpy26p"}]
 
 
 #url_custom = [{name = "PDF", url = "https://tinyurl.com/4etcdste"}]
