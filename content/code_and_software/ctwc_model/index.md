@@ -13,7 +13,7 @@ draft = true
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-# tags = ["teaching"] and
+# tags = ["Papers"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
