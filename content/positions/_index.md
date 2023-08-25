@@ -12,6 +12,8 @@ list_format = 3
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
+# <img align="center" src="/img/KCNI_WereHiring.jpg" width="600" />
+
 [image]
   # Caption (optional)
   #caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)"
@@ -24,16 +26,6 @@ list_format = 3
 +++
 
 ---
-
-
-<img align="center" src="/img/KCNI_WereHiring.jpg" width="600" />
-
-<br>
-
-## PostDocs
-
-We are looking for a post-docs with a strong background in neuroimaging and/or computational neuroscience to lead a project on computational modelling of neural dynamics in relation to EEG-TMS, plasticity, and personalized anatomical+functional connectivity models. See the full description [here](https://www.grifflab.com/files/KCNI_WBMG_PostDocAd_Feb2019.pdf).
-
 
 ## Graduate Students
 

@@ -147,20 +147,6 @@ Research Interests:
 Andrew joined the WBMG in September 2021, as a graduate student in the School of Electrical Engineering and Computer Science at the University of Ottawa. Previously, he had completed a Bachelor of Mathematics degree at the University of Waterloo with minors in Computational Mathematics and Cognitive Science. Andrew is interested in discovering how the brain works, particularly how it produces consciousness. During his time in the lab, he will be working with multimodal whole brain models and using machine learning to fit them to concurrent resting-state EEG and fMRI/fNIRS datasets. In doing so, he will try to reproduce and explain phenomena observed in neuroimaging studies such as the Alpha Power - BOLD anticorrelation.
 
 ---
-
-### Hussain Ather
-***Ph.D. Student***
-
-<div align="right"> <img src="/img/hussain_pic.jpg" style="margin:50px 50px 100px 50px" align="right" width="250" /> </div>
-
-Research Interests:    
-After studying physics and philosophy at Indiana University-Bloomington, Hussain performed research in bioinformatics and computational neuroscience at the National Institutes of Health (NIH) before joining the WBMG in January, 2021. Working at the intersection of neuroimaging, computational neuroscience, and artificial intelligence, he’s studying patterns of brain connectivity and modelling methods to improve deep brain stimulation techniques. His work is about developing the theoretical, mathematical, and computational tools to model and measure the exchange between agent and environment to characterize neuropsychiatric disorders. Through data analysis and model manipulation, he explores how the anatomical structure of the real human brain influences the modal structure arising from simulations. By using models based on the free energy principle and testing and refining these models using imaging data, the model can be optimized for behavior, and emergent neural responses from the model may align with the empirical imaging responses. By fine-tuning these models on brain imaging data, a novel hierarchical inference paradigm results for creating a mathematical formalization of artificial selves using agent-environment dynamics.
-
-Trivia about Hussain:  
-Hussain likes running, playing bass guitar, and cosplaying. His favorite anime is Neon Genesis Evangelion, and his zodiac sign is Scorpio. Sometimes he wishes he could've just become a famous rapper on Soundcloud, but, for now, he's going to have to settle for being a scientist. For some reason, he finds German easier to learn than French.
-
----
-
 ## Lab Alumni  
 
 ### Minarose Ismail  
@@ -207,49 +193,4 @@ Frank is a M.Sc. student who joined the lab in September, 2019. He is co-supervi
 
 Trivia about Frank:  
 Frank 'The Grank' Mazza. Frank is quite and likes to go about his business, often finishing his work before deadlines, be it grants, abstracts, or manuscripts. Frank does intermittent fasting. No one knows why. Frank likes to read and write about all things art and architecture. He likes to paint, ink, sketch, sculpt and lino-print. Frank has a humble garden where he likes to experiment with growing different plants. He likes to work out and is avid music fan, trying to appreciate everything that isn't country.  
-
----
-
-
-### FuTe Wong
-***Ph.D. Student***
-
-<div align="right"> <img src="/img/FuTe_pic.jpg" style="margin:50px 50px 100px 50px" align="right" width="250" /> </div>
-
-Research Interests:  
-FuTe joined the WBMG in January, 2021. He completed his Master’s degree in clinical psychology at National Chung Cheng University and a full-time clinical internship at Taipei Veterans General Hospital in Taiwan. Following this, he became a clinical psychologist working with psychiatric patients, and also started incorporating machine learning algorithms and network theory for better characterization of psychiatric populations. As a full-time researcher, FuTe worked on projects that involved multimodal neuroimaging data (fMRI, MEG, DTI, DSI, and PET) and transcriptome analysis. To fulfill the journey with a more precise mechanistic predictive treatment approach for psychiatric patients, he now focuses more on simulation of neuropsychopathology and efficacy of neuromodulation (TMS, tFUS, and DBS), with a bit of expectation to investigate a moonshot emergence of artificial consciousness.
-
-Trivia about FuTe:  
-FuTe grew up in the Penghu islands. He likes to swim as he used to do it on a daily basis. FuTe also enjoys hiking and photography. He is a self-described caffeine addict. It would be interesting to see who could go longer without caffeine ... Sorenza or FuTe?
-
----
-
-<img src="/img/KitchenerYou.jpg" align="right" margin="15px 15px 15px 15px" width="300" />
-
-### Your name here...  
-
-Students and post-docs interested in joining the lab - see [positions](/positions)
-
-
-<br>
-<br>
-<br>
-<br>
-
-
-## Collaborators
-
----
-
-
-[Dr. Jeremie Lefebvre](https://sites.google.com/site/lefebvresynclab)
-
-[Dr. Randy McIntosh](https://www.armcintosh.com/home)
-
-[Dr. Jed Meltzer](http://research.baycrest.org/jmeltzer)
-
-[Dr. Peter Robinson](https://sydney.edu.au/science/our-research/research-areas/physics/brain-dynamics.html)
-
-
-
 
