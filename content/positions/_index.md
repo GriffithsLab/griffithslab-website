@@ -40,3 +40,10 @@ We are also looking for undergraduate students with some experience in programmi
 <meta property="twitter:image" content="https://www.grifflab.com/img/KCNI_WereHiring.jpg">
  
 
+## Notes for Applicants
+
+Some hopefully useful [notes](notes_for_applicants.md) for potential applicants.
+
+
+
+
