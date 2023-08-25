@@ -98,8 +98,13 @@ filter_default = 1
   tag = "ComputationalNeuroscience"
 
 [[filter]]
+  name = "Neurotechnology"
+  tag = "Neurotechnology"
+
+[[filter]]
   name = "Philosophy"
   tag = "Philosophy"
+
 
 [[filter]]
   name = "Podcast"
