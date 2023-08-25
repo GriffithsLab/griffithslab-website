@@ -18,7 +18,7 @@ authors = ["Davide Momi", "Zheng Wang", "John D. Griffiths"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "BiorXiv"
+publication = "ELife"
 #publication_short = ""
 
 # Abstract and optional shortened version.
@@ -42,8 +42,10 @@ projects = ["brain_stimulation", "brain_networks"]
 tags = ["brain stimulation", "brain networks"]
 
 # Links (optional).
-url_pdf = "https://www.biorxiv.org/content/10.1101/2022.06.09.494069v1.full.pdf"
-url_preprint = "https://www.biorxiv.org/content/10.1101/2022.06.09.494069v1"
+#url = "https://elifesciences.org/articles/83232"
+url_pdf = "https://elifesciences.org/download/aHR0cHM6Ly9jZG4uZWxpZmVzY2llbmNlcy5vcmcvYXJ0aWNsZXMvODMyMzIvZWxpZmUtODMyMzItdjEucGRmP2Nhbm9uaWNhbFVyaT1odHRwczovL2VsaWZlc2NpZW5jZXMub3JnL2FydGljbGVzLzgzMjMy/elife-83232-v1.pdf?_hash=eJ%2Br3sJh3TYrlZw83%2Bg3wdj50jWKRRBAJa%2BSgAmofdg%3D"
+
+#url_preprint = "https://www.biorxiv.org/content/10.1101/2022.06.09.494069v1"
 url_code = "https://github.com/GriffithsLab/PyTepFit"
 
 #url_dataset = "#"
@@ -62,7 +64,7 @@ url_code = "https://github.com/GriffithsLab/PyTepFit"
 #url_custom = [{name = "PDF", url = "https://tinyurl.com/4etcdste"}]
 
 # Digital Object Identifier (DOI)
-doi = "10.1101/2022.06.09.494069"
+doi = "10.7554/eLife.83232"
 
 # Does this page contain LaTeX math? (true/false)
 math = true
