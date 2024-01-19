@@ -52,15 +52,14 @@ All research will be conducted in English, and proficiency in German is not expe
 Candidates must have a strong computational and quantitative background, and must have experience with programming in Python. 
 Experience with designing, conducting, and analyzing data from neuroimaging (EEG, fNIRS, MEG, fMRI, TMS) experiments is preferred, but not necessary if a strong aptitude and motivation to learn can be shown. 
 Proficiency in spoken and written English and scientific writing is required. 
-Demonstrable knowledge of and interest in the fields of cognitive and computational neuroscience is essential, 
-as is familiarization with the supervisors’ research programs and main recent publications ***(see website links above and contents therein)***. 
+Demonstrable knowledge of and interest in the fields of cognitive and computational neuroscience is essential. Applicants should familiarize themselves with the two supervisors’ respective research programs and main recent publications, and indicate what from this work is particularly in line with their academic interests ***(see website links above and contents therein)***. 
 
 
 ## Apply  
 
-To apply, please send an email to both of the prospective supervisors (john.griffiths@camh.ca and mtoneva@mpi-sws.org) by January 31, 2024 with the following:
+To apply, please send an email to both of the prospective supervisors (john.griffiths@camh.ca and mtoneva@mpi-sws.org) by January 31, 2024 with the following:  
 - updated CV  
-- brief description of your relevant background and motivation for applying for this position   
+- description of your relevant background and motivation for applying for this position   
 
 Communicating initial expressions of interest sooner rather than later may be advantageous. 
 
