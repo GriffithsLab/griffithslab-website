@@ -36,9 +36,27 @@ type = "docs"  # Do not modify.
 
 [CV](/files/JG_CV.pdf)  
 
-Dr. Griffiths is a cognitive and computational neuroscientist from North-West Europe. He completed his undergraduate training in psychology and philosophy at the University of Warwick, and graduate training in neuroimaging and cognitive neuroscience at the University of York (advisor Prof. Gary Green) and University of Cambridge (advisor Prof. Lorraine Tyler). He then worked as a post-doctoral fellow in the University of Sydney School of Physics (with Prof. Peter Robinson), and then at the Rotman Research Institute (with Dr. Randy McIntosh) and Krembil Research Institute (with Dr. Jeremie Lefebvre) in Toronto, Canada. He joined the Krembil Centre for Neuroinformatics at CAMH and the University of Toronto as a Scientist and Assistant Professor in January 2019. 
+Dr. John D. Griffiths is a cognitive and computational neuroscientist based at the Toronto Centre for Addiction and
+Mental Health (CAMH)’s Krembil Centre for Neuroinformatics (KCNI; krembilneuroinformatics.ca), where he
+leads a research team focused on computational modelling of brain network dynamics, neurostimulation, and
+multimodal neuroimaging data (www.grifflab.com). He is an Assistant Professor in the University of Toronto
+Departments of Psychiatry, Medical Sciences, and Biomedical Engineering. Originally hailing from North-West
+England, Dr. Griffiths completed his PhD at the University of Cambridge, where he worked on structural and
+functional neuroimaging of language comprehension and its impairment in ageing and stroke. Prior to this, he
+completed his undergraduate training in psychology, philosophy, and cognitive neuroscience at the Universities of
+Warwick and York, UK. Subsequently, he worked as a post-doctoral fellow in the groups of Peter Robinson
+(University of Sydney School of Physics), Randy McIntosh (Rotman Research Institute) and Jeremie Lefebvre
+(Toronto Western Hospital). During this time he conducted research and developed core expertise in multimodal
+neuroimaging and macro connectomics, neurophysiological modelling and numerical simulations, neural field
+theory, and noninvasive neuromodulation. He also was an early contributor to the The Virtual Brain (TVB)
+software library and research consortium. Dr. Griffiths joined the CAMH KCNI as a PI and head of Whole-Brain
+Modelling in 2019, where he leads a multidisciplinary team of engineers, physicists, mathematicians, biologists,
+and psychologists, working on endogenous oscillations and neurophysiology of noninvasive brain stimulation. The
+theory-based work of the group is complemented by novel EEG, fNIRS, TMS, and MRI experiments in healthy
+and patient populations.
 
-Dr. Griffiths has a strong technical expertise in multimodal neuroimaging data analysis, scientific computing, and numerical simulations of large-scale brain dynamics. Through his work with Dr. Mcintosh and colleagues in Europe and the US, he is an active contributor to the scientific, software development, and educational missions of the [Virtual Brain Project](https://www.thevirtualbrain.org/tvb/zwei).
+
+
 
 ---
 
