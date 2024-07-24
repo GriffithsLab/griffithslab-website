@@ -22,7 +22,7 @@ publication_types = ["6"]
 #publication = "Frontiers in Applied Mathematics and Statistics"
 #publication_short = "Front. Appl. Math Stat."
 publication = "Computational and Network Modeling of Neuroimaging Data"
-publication_short = "Front. Psychiatry"
+#publication_short = "Front. Psychiatry"
 
 # Abstract and optional shortened version.
 abstract = ""
