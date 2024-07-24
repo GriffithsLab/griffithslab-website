@@ -1,6 +1,6 @@
 +++
 title = "A comprehensive investigation of intracortical and corticothalamic models of alpha rhythms"
-date = 2022-06-23T00:00:00
+date = 2024-03-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
