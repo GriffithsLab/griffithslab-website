@@ -44,9 +44,9 @@ projects = ["Neuromodulation", "Connectomics"]
 tags = []
 
 # Links (optional).
-url_pdf = "https://www.frontiersin.org/articles/10.3389/fpsyt.2022.902089/pdf"
-#url_preprint = "http://dx.doi.org/10.1101/2021.07.15.452518"
-url_code = "https://github.com/GriffithsLab/HaritaEtAl2022_tms-efield-fc"
+url_pdf = "https://www.biorxiv.org/content/10.1101/2024.02.26.581277v1.full.pdf"
+#url_preprint = "https://www.biorxiv.org/content/10.1101/2024.02.26.581277v1"
+url_code = "https://github.com/GriffithsLab/Momi_et_al_2024"
 #url_dataset = "#"
 #url_project = ""
 #url_slides = "#"
@@ -59,11 +59,11 @@ url_code = "https://github.com/GriffithsLab/HaritaEtAl2022_tms-efield-fc"
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 #url_custom = [{name = "Custom Link", url = "http://example.org"}]
-url_custom = [{name = "url", url = "https://www.frontiersin.org/articles/10.3389/fams.2018.00031/full"}]
+url_custom = [{name = "url", url = "https://www.biorxiv.org/content/10.1101/2024.02.26.581277v1"}]
 #url_custom = [{name = "PDF", url = "https://tinyurl.com/4etcdste"}]
 
 # Digital Object Identifier (DOI)
-doi = "10.3389/fpsyt.2022.902089"
+doi = "10.1101/2024.02.26.581277v1"
 
 # Does this page contain LaTeX math? (true/false)
 math = true
