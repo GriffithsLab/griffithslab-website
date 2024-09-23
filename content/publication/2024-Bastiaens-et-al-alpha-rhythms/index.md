@@ -45,7 +45,7 @@ tags = []
 
 # Links (optional).
 url_pdf = "https://www.biorxiv.org/content/biorxiv/early/2024/03/05/2024.03.01.583035.full.pdf"
-#url_preprint = "http://dx.doi.org/10.1101/2021.07.15.452518"
+url_preprint = "[http://dx.doi.org/10.1101/2021.07.15.452518](https://www.biorxiv.org/content/10.1101/2024.03.01.583035v1)"
 url_code = "https://github.com/GriffithsLab/Bastiaens2024_AlphaModels"
 #url_dataset = "#"
 #url_project = ""
