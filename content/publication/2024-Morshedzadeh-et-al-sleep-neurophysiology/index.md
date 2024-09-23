@@ -45,7 +45,7 @@ tags = []
 
 # Links (optional).
 #url_pdf = "#"
-url_preprint = "www.biorxiv.org/content/10.1101/2024.02.28.582655v1"
+url_preprint = "https://www.biorxiv.org/content/10.1101/2024.02.28.582655v1"
 #url_code = "#"
 #url_dataset = "#"
 #url_project = ""
@@ -59,11 +59,11 @@ url_preprint = "www.biorxiv.org/content/10.1101/2024.02.28.582655v1"
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 #url_custom = [{name = "Custom Link", url = "http://example.org"}]
-url_custom = [{name = "url", url = "www.biorxiv.org/content/10.1101/2024.02.28.582655v1"}]
+url_custom = [{name = "url", url = "https://www.biorxiv.org/content/10.1101/2024.02.28.582655v1"}]
 #url_custom = [{name = "PDF", url = "https://tinyurl.com/4etcdste"}]
 
 # Digital Object Identifier (DOI)
-doi = "doi.org/10.1101/2024.02.28.582655"
+doi = "https://doi.org/10.1101/2024.02.28.582655"
 
 # Does this page contain LaTeX math? (true/false)
 math = true
