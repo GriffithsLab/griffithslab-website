@@ -45,8 +45,8 @@ tags = []
 
 # Links (optional).
 #url_pdf = "#"
-url_preprint = "www.biorxiv.org/content/10.1101/2024.03.01.583030v2.full"
-url_code = "github.com/GriffithsLab/HaritaEtAl2024_tvb-negative-correlations"
+url_preprint = "https://www.biorxiv.org/content/10.1101/2024.03.01.583030v2.full"
+url_code = "https://github.com/GriffithsLab/HaritaEtAl2024_tvb-negative-correlations"
 #url_dataset = "#"
 #url_project = ""
 #url_slides = "#"
@@ -59,7 +59,7 @@ url_code = "github.com/GriffithsLab/HaritaEtAl2024_tvb-negative-correlations"
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 #url_custom = [{name = "Custom Link", url = "http://example.org"}]
-url_custom = [{name = "url", url = "www.biorxiv.org/content/10.1101/2024.03.01.583030v2.full"}]
+url_custom = [{name = "url", url = "https://www.biorxiv.org/content/10.1101/2024.03.01.583030v2.full"}]
 #url_custom = [{name = "PDF", url = "https://tinyurl.com/4etcdste"}]
 
 # Digital Object Identifier (DOI)
