@@ -44,9 +44,9 @@ projects = ["Mobile EEG", "Sleep"]
 tags = []
 
 # Links (optional).
-url_pdf = "https://www.frontiersin.org/articles/10.3389/fpsyt.2022.902089/pdf"
-#url_preprint = "http://dx.doi.org/10.1101/2021.07.15.452518"
-url_code = "https://github.com/GriffithsLab/HaritaEtAl2022_tms-efield-fc"
+#url_pdf = "#"
+url_preprint = "https://www.biorxiv.org/content/10.1101/2024.02.28.582655v1"
+#url_code = "#"
 #url_dataset = "#"
 #url_project = ""
 #url_slides = "#"
