@@ -44,9 +44,9 @@ projects = ["EEG", "alpha rhythms"]
 tags = []
 
 # Links (optional).
-url_pdf = "https://www.biorxiv.org/content/biorxiv/early/2024/03/05/2024.03.01.583035.full.pdf"
-url_preprint = "(https://www.biorxiv.org/content/10.1101/2024.03.01.583035v1)"
-url_code = "https://github.com/GriffithsLab/Bastiaens2024_AlphaModels"
+url_pdf = "www.biorxiv.org/content/biorxiv/early/2024/03/05/2024.03.01.583035.full.pdf"
+url_preprint = "www.biorxiv.org/content/10.1101/2024.03.01.583035v1)"
+url_code = "github.com/GriffithsLab/Bastiaens2024_AlphaModels"
 #url_dataset = "#"
 #url_project = ""
 #url_slides = "#"
@@ -59,11 +59,11 @@ url_code = "https://github.com/GriffithsLab/Bastiaens2024_AlphaModels"
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 #url_custom = [{name = "Custom Link", url = "http://example.org"}]
-url_custom = [{name = "url", url = "https://www.biorxiv.org/content/10.1101/2024.03.01.583035v1"}]
+url_custom = [{name = "url", url = "www.biorxiv.org/content/10.1101/2024.03.01.583035v1"}]
 #url_custom = [{name = "PDF", url = "https://tinyurl.com/4etcdste"}]
 
 # Digital Object Identifier (DOI)
-doi = "https://doi.org/10.1101/2024.03.01.583035"
+doi = "doi.org/10.1101/2024.03.01.583035"
 
 # Does this page contain LaTeX math? (true/false)
 math = true
