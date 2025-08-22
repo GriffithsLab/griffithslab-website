@@ -75,22 +75,6 @@ As a proud Italian, Davide never forgets to renew his membership for the “figh
 
 ---
 
-### Shreyas Harita
-***Ph.D. Student***  
-
-<div align="right"> <img src="/img/sh_pic.jpg" style="margin:50px 50px 100px 50px" align="right" width="250" /> </div>
-
-
-Research Interests:   
-Shreyas is a Ph.D. student who joined the lab as a Research Trainee in May, 2019. His research interests lie in the use of connectome based neural mass modeling to study neural population activity, and how it changes in response to brain stimulation and in neuropathological conditions. The primary aims of his research project are as follows:  
-- To investigate the stimulation-induced network propagation and connectivity patterns in the human brain. He hopes to achieve a better understanding of this using brain stimulation techniques like TMS and multimodal brain imaging techniques such as structural MRI, fMRI, DTI, and EEG.  
-- To study how individual variability in brain geometry affects responses to brain stimulation, and how this information can inform neuro-navigation techniques to improve the identification of potential TMS targets.  
-
-Trivia about Shreyas:  
-Shreyas claims to be the 'funny' one. No one else sees it. Shreyas' favourite cuisines include Indian, Mexican, Arabic and Italian. He is the unofficial social director for the students at the lab and while no one really appointed him, they like the fact that he tries to bring people together. Shreyas leads an active lifestyle. He plays football (soccer), swims and enjoys biking (even in the winter!) within the city and on natural trails. Shreyas is an avid chess player and enjoys playing blitz and bullet chess.   
-
----
-
 ### Sorenza Bastiaens
 ***Ph.D. Student***
 
@@ -106,7 +90,6 @@ Sorenza is the 'sporty' one. She is always down for pretty much any physical act
 
 ---
 
-
 ### Kevin Kadak
 ***Ph.D. Student***  
 
@@ -117,12 +100,40 @@ Kevin is a Ph.D. student who joined the lab in September, 2020. His research foc
 He looks forward to leveraging his previous experience in modelling zebrafish decision patterns towards further refining his computational skillset and, most ideally, constructing novel frameworks for applied clinical use.    
 
 Trivia about Kevin:  
-When the world isn’t collapsing in on itself, Kevin enjoys Brazilian Jiu-Jitsu, thrift shopping, bothering others with puns, and practicing guitar despite never actually managing to improve at it. Kevin is a firm believer in carbonated water, pineapple on pizza (DO NOT put him on a group project with Davide!), and cutting sandwiches diagonally. He also spends his spare time convincing the world that Sky High (2005) is a cinematic masterpiece. When not involved with one of these activities, Kevin is probably squinting at code documentation, confused.  
+When the world isn’t collapsing in on itself, Kevin enjoys Brazilian Jiu-Jitsu, thrift shopping, bothering others with puns, and practicing guitar despite never actually managing to improve at it. Kevin is a firm believer in carbonated water, pineapple on pizza (DO NOT put him on a group project with Davide!), and cutting sandwiches diagonally. He also spends his spare time convincing the world that Sky High (2005) is a cinematic masterpiece. When not involved with one of these activities, Kevin is probably squinting at code documentation, confused.
+
+---
+
+### Minarose Ismail  
+***PhD Student***  
+
+<div align="right"> <img src="/img/minarose_photo.jpg" style="margin:10px 50px 100px 50px" align="right" width="250" /> </div>
+
+She is currently a PhD Student at GriffLab. Prior to this, Minoarose was a summer research student during the summer of 2019. She was a first year undergraduate student at McMaster pursuing a bachelor in Neuroscience with a background in Python coding. Her work was in the field of computational neuroscience and her project dealt with fitting oscillations and one over frequency on MEG data using the FOOOF toolbox to parametrize the power spectra and perform summary analysis.
+
+---
+## Lab Alumni  
+
+### Shreyas Harita
+***Ph.D. Student***  
+***Currently: Senior Methodologist @ the Data and Insights team at CAMH***
+
+<div align="right"> <img src="/img/sh_pic.jpg" style="margin:50px 50px 100px 50px" align="right" width="250" /> </div>
+
+
+Research Interests:   
+Shreyas is a Ph.D. student who joined the lab as a Research Trainee in May, 2019. His research interests lie in the use of connectome based neural mass modeling to study neural population activity, and how it changes in response to brain stimulation and in neuropathological conditions. The primary aims of his research project are as follows:  
+- To investigate the stimulation-induced network propagation and connectivity patterns in the human brain. He hopes to achieve a better understanding of this using brain stimulation techniques like TMS and multimodal brain imaging techniques such as structural MRI, fMRI, DTI, and EEG.  
+- To study how individual variability in brain geometry affects responses to brain stimulation, and how this information can inform neuro-navigation techniques to improve the identification of potential TMS targets.  
+
+Trivia about Shreyas:  
+Shreyas claims to be the 'funny' one. No one else sees it. Shreyas' favourite cuisines include Indian, Mexican, Arabic and Italian. He is the unofficial social director for the students at the lab and while no one really appointed him, they like the fact that he tries to bring people together. Shreyas leads an active lifestyle. He plays football (soccer), swims and enjoys biking (even in the winter!) within the city and on natural trails. Shreyas is an avid chess player and enjoys playing blitz and bullet chess.   
 
 ---
 
 ### Taha Morshedzadeh  
-***M.Sc. Student***  
+***M.Sc. Student***
+***Currently: Biosignal Research Engineer @ InteraXon (Muse)***
 
 <div align="right"> <img src="/img/taha_pic.jpg" style="margin:50px 50px 100px 50px" align="right" width="250" /> </div>  
 
@@ -158,21 +169,12 @@ however, you will find that where he actually is, is in a state of utter confusi
 
 ### Andrew Clappison  
 ***M.Sc. Student***  
+***Currently: Research Assistant @ Sunnybrook Research Institute***
 
 <div align="right"> <img src="/img/andrew_pic.jpg" style="margin:50px 50px 100px 50px" align="right" width="250" /> </div>  
 
 Research Interests:  
 Andrew joined the WBMG in September 2021, as a graduate student in the School of Electrical Engineering and Computer Science at the University of Ottawa. Previously, he had completed a Bachelor of Mathematics degree at the University of Waterloo with minors in Computational Mathematics and Cognitive Science. Andrew is interested in discovering how the brain works, particularly how it produces consciousness. During his time in the lab, he will be working with multimodal whole brain models and using machine learning to fit them to concurrent resting-state EEG and fMRI/fNIRS datasets. In doing so, he will try to reproduce and explain phenomena observed in neuroimaging studies such as the Alpha Power - BOLD anticorrelation.
-
----
-## Lab Alumni  
-
-### Minarose Ismail  
-***Summer research student***  
-
-<div align="right"> <img src="/img/minarose_photo.jpg" style="margin:10px 50px 100px 50px" align="right" width="250" /> </div>
-
-Minoarose was a summer research student during the summer of 2019. She was a first year undergraduate student at McMaster pursuing a bachelor in Neuroscience with a background in Python coding. Her work was in the field of computational neuroscience and her project dealt with fitting oscillations and one over frequency on MEG data using the FOOOF toolbox to parametrize the power spectra and perform summary analysis.
 
 ---
 
@@ -202,7 +204,8 @@ Neda completed her Ph.D. at the department of clinical neuroscience at Karolinsk
 ---
 
 ### Frank Mazza  
-***M.Sc. Student***  
+***M.Sc. Student*** 
+***Currently: M.D. Student @ Western University***
 
 <div align="right"> <img src="/img/frank_mazza.jpg" style="margin:50px 50px 100px 50px" align="right" width="250" /> </div>
 
