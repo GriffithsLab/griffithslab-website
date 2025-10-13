@@ -1,6 +1,6 @@
 +++
 title = "Stimulation mapping and whole-brain modeling reveal gradients of excitability and recurrence in cortical networks"
-date = 2024-02-26T00:00:00
+date = 2025-04-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -20,8 +20,8 @@ publication_types = ["2"]
 # Publication name and optional abbreviated version.
 #publication = "Frontiers in Applied Mathematics and Statistics"
 #publication_short = "Front. Appl. Math Stat."
-publication = "bioRxiv"
-publication_short = "bioRxiv"
+publication = "Nature Communications"
+publication_short = "Nat. Comms"
 
 # Abstract and optional shortened version.
 abstract = "The human brain exhibits a modular and hierarchical structure, spanning low-order sensorimotor to high-order cognitive/affective systems. What is the causal significance of this organization for brain dynamics and information processing properties? We investigated this question using rare simultaneous multimodal electrophysiology (stereotactic and scalp EEG) recordings in patients during presurgical intracerebral electrical stimulation (iES). Our analyses revealed an anatomical gradient of excitability across the cortex, with stronger iES-evoked EEG responses in high-order compared to low-order regions. Mathematical modeling further showed that this variation in excitability levels results from a differential dependence of recurrent feedback from non-stimulated regions across the anatomical hierarchy, and could be extinguished by suppressing those connections in-silico. High-order brain regions/networks thus show a more functionally integrated processing style than low-order ones, which manifests as a spatial gradient of excitability that is emergent from, and causally dependent on, the underlying hierarchical network structure."
@@ -44,7 +44,8 @@ projects = ["Neuromodulation", "Connectomics"]
 tags = []
 
 # Links (optional).
-url_pdf = "https://www.biorxiv.org/content/10.1101/2024.02.26.581277v1.full.pdf"
+url_pdf ="https://www.nature.com/articles/s41467-025-58187-6.pdf"
+
 #url_preprint = "https://www.biorxiv.org/content/10.1101/2024.02.26.581277v1"
 url_code = "https://github.com/GriffithsLab/Momi_et_al_2024"
 #url_dataset = "#"
@@ -59,7 +60,7 @@ url_code = "https://github.com/GriffithsLab/Momi_et_al_2024"
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 #url_custom = [{name = "Custom Link", url = "http://example.org"}]
-url_custom = [{name = "url", url = "https://www.biorxiv.org/content/10.1101/2024.02.26.581277v1"}]
+url_custom = [{name = "url", url ="https://www.nature.com/articles/s41467-025-58187-6"}[
 #url_custom = [{name = "PDF", url = "https://tinyurl.com/4etcdste"}]
 
 # Digital Object Identifier (DOI)
