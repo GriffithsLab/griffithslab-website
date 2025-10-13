@@ -60,7 +60,7 @@ url_code = "https://github.com/GriffithsLab/Momi_et_al_2024"
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 #url_custom = [{name = "Custom Link", url = "http://example.org"}]
-url_custom = [{name = "url", url ="https://www.nature.com/articles/s41467-025-58187-6"}[
+url_custom = [{name = "url", url ="https://www.nature.com/articles/s41467-025-58187-6"}]
 #url_custom = [{name = "PDF", url = "https://tinyurl.com/4etcdste"}]
 
 # Digital Object Identifier (DOI)
