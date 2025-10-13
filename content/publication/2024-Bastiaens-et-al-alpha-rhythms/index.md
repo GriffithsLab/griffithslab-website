@@ -20,8 +20,8 @@ publication_types = ["2"]
 # Publication name and optional abbreviated version.
 #publication = "Frontiers in Applied Mathematics and Statistics"
 #publication_short = "Front. Appl. Math Stat."
-publication = "bioRxiv"
-publication_short = "bioRxiv"
+publication = "PLoS Computational Biology"
+publication_short = "PLoS CB"
 
 # Abstract and optional shortened version.
 abstract = "Alpha rhythms are a robust phenomenon prominently observed in posterior resting state electroencephalogram (EEG) that has been shown to play a key role in a number of cognitive processes. However, the underlying mechanisms behind their generation is poorly understood. Here, we showcase the most concrete, mathematically-expressed theoretical foundations for understanding the neural mechanisms underlying the alpha rhythmogenesis. The neural population models of interest are Jansen-Rit (JR), Moran-David-Friston (MDF), Robinson-Rennie-Wright (RRW) and Liley-Wright (LW). Common elements between all models are identified, such as the description of each neural population in the form of a second-order differential equation with a potential-to-rate operator represented as a sigmoid and a rate-to-potential operator usually expressed as an impulse response. Even though these models have major differences, they can be meaningfully compared by associating parameters of analogous biological significance, which we summarize with a unified parameter table. With these correspondences, rate constants and connectivity parameter space is explored to identify common patterns between similar behaviors, such as the role of excitatory-inhibitory interactions in the generation of oscillations. Through stability analysis, two different alpha generation mechanisms were identified: one noise-driven and one self-sustaining oscillation in the form of a limit cycle emerging due to a Andronov-Hopf bifurcation. This work contributes to improving our mechanistic and theoretical understanding on candidate theories of alpha rhythmogenesis."
@@ -45,7 +45,7 @@ tags = []
 
 # Links (optional).
 #url_pdf = "#"
-url_preprint = "https://www.biorxiv.org/content/10.1101/2024.03.01.583035v1"
+#url_preprint = "https://www.biorxiv.org/content/10.1101/2024.03.01.583035v1"
 url_code = "https://github.com/GriffithsLab/Bastiaens2024_AlphaModels"
 #url_dataset = "#"
 #url_project = ""
@@ -59,11 +59,12 @@ url_code = "https://github.com/GriffithsLab/Bastiaens2024_AlphaModels"
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 #url_custom = [{name = "Custom Link", url = "http://example.org"}]
-url_custom = [{name = "url", url = "https://www.biorxiv.org/content/10.1101/2024.03.01.583035v1"}]
+url_custom = [{name = "url", url = "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012926"}]
+
 #url_custom = [{name = "PDF", url = "https://tinyurl.com/4etcdste"}]
 
 # Digital Object Identifier (DOI)
-doi = "doi.org/10.1101/2024.03.01.583035"
+doi = "doi.org/10.1371/journal.pcbi.1012926"
 
 # Does this page contain LaTeX math? (true/false)
 math = true
