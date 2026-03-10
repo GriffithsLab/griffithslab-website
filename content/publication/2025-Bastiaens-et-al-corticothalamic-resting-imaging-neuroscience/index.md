@@ -18,8 +18,8 @@ authors = ["Sorenza P. Bastiaens", "Davide Momi", "L Rokos", "Taha Morshedzadeh"
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Clinical Neurophysiology"
-publication_short = "Clin. Neurophysiol."
+publication = "Imaging Neuroscience"
+publication_short = "Imaging Neurosci."
 
 # Abstract and optional shortened version.
 abstract = ""
