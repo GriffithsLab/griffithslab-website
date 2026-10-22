@@ -35,40 +35,20 @@ external_link = ""
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 #url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/georgecushen"}]
 
-url_custom = [{icon_pack = "fab", 
-icon="youtube", 
-name="Lecture 1",
-url="https://youtu.be/1LpH3gQ-UX0"},
-{icon_pack = "fab", 
-icon="youtube", 
-name="Lecture 2", url="https://youtu.be/EapY9R_yHbU"},
-{icon_pack = "fab", 
-icon="youtube", 
-name="Lecture 2", url="https://youtu.be/EapY9R_yHbU"},
-{icon_pack = "fab", 
-icon="youtube", 
-name="Lecture 3", url="https://youtu.be/EapY9R_yHbU"},
-{icon_pack = "fab", 
-icon="youtube", 
-name="Lecture 4", url="https://youtu.be/EapY9R_yHbU"},
-{icon_pack = "fab", 
-icon="youtube", 
-name="Lecture 5", url="https://youtu.be/EapY9R_yHbU"},
-{icon_pack = "fab", 
-icon="youtube", 
-name="Lecture 6", url="https://youtu.be/EapY9R_yHbU"},
-{icon_pack = "fab", 
-icon="youtube", 
-name="Lecture 7", url="https://youtu.be/EapY9R_yHbU"},
-{icon_pack = "fab", 
-icon="youtube", 
-name="Lecture 7", url="https://youtu.be/EapY9R_yHbU"},
-{icon_pack = "fab", 
-icon="youtube", 
-name="Lecture 9", url="https://youtu.be/EapY9R_yHbU"},
-{icon_pack = "fab", icon="github",
- name="Github repo", url="https://github.com/krembilneuroinformatics/kcni-school-lessons/tree/master/day5"},
-              {icon_pack = "fab", icon="", name="KCNI School Site", url="kcnischool.org"}]
+url_custom = [
+  {icon_pack = "fab", icon="youtube", name="Lecture 1", url="https://youtu.be/1LpH3gQ-UX0"},
+  {icon_pack = "fab", icon="youtube", name="Lecture 2", url="https://youtu.be/EapY9R_yHbU"},
+  {icon_pack = "fab", icon="youtube", name="Lecture 2", url="https://youtu.be/EapY9R_yHbU"},
+  {icon_pack = "fab", icon="youtube", name="Lecture 3", url="https://youtu.be/EapY9R_yHbU"},
+  {icon_pack = "fab", icon="youtube", name="Lecture 4", url="https://youtu.be/EapY9R_yHbU"},
+  {icon_pack = "fab", icon="youtube", name="Lecture 5", url="https://youtu.be/EapY9R_yHbU"},
+  {icon_pack = "fab", icon="youtube", name="Lecture 6", url="https://youtu.be/EapY9R_yHbU"},
+  {icon_pack = "fab", icon="youtube", name="Lecture 7", url="https://youtu.be/EapY9R_yHbU"},
+  {icon_pack = "fab", icon="youtube", name="Lecture 7", url="https://youtu.be/EapY9R_yHbU"},
+  {icon_pack = "fab", icon="youtube", name="Lecture 9", url="https://youtu.be/EapY9R_yHbU"},
+  {icon_pack = "fab", icon="github", name="Github repo", url="https://github.com/krembilneuroinformatics/kcni-school-lessons/tree/master/day5"},
+  {icon_pack = "fab", icon="", name="KCNI School Site", url="kcnischool.org"}
+]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project''s folder. 
