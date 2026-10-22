@@ -22,7 +22,7 @@ tags = ["brain stimulation", "TMS-EEG", "depression", "whole-brain modelling"]
 
 # Links. Avoid url_pdf for external URLs: the theme turns it into a broken relative link.
 url_preprint = "https://www.biorxiv.org/content/10.1101/2025.04.23.648963v1"
-url_custom = [{name = "url", url = "https://www.sciencedirect.com/science/article/pii/S000632232601591X"}]
+url_custom = [{name = "PDF", url = "https://www.sciencedirect.com/science/article/pii/S000632232601591X/pdfft"}, {name = "url", url = "https://www.sciencedirect.com/science/article/pii/S000632232601591X"}]
 
 doi = ""
 
