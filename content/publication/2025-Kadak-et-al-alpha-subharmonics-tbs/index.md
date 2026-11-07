@@ -21,6 +21,7 @@ tags = ["brain stimulation", "EEG", "TBS", "computational modelling"]
 
 # Links. Avoid url_pdf for external URLs: the theme turns it into a broken relative link.
 url_pdf = "https://raw.githubusercontent.com/GriffithsLab/griffithslab-papers/main/Kadak%20et%20al.%202025%20-%20Alpha%20rhythm%20subharmonics%20underlie%20responsiveness%20to%20theta%20burst%20stimulation%20via%20calcium%20metaplasticity.pdf"
+url_code = "https://github.com/GriffithsLab/Kadak2025_alpha-subharmonics-rtms-eeg"
 url_preprint = "https://www.biorxiv.org/content/10.1101/2025.06.17.660153v2"
 
 doi = "https://doi.org/10.1101/2025.06.17.660153"

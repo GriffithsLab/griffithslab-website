@@ -21,6 +21,7 @@ tags = ["MEG", "language", "development", "whole-brain modelling"]
 
 # Links. Avoid url_pdf for external URLs: the theme turns it into a broken relative link.
 url_pdf = "https://raw.githubusercontent.com/GriffithsLab/griffithslab-papers/main/Ismail%20et%20al.%202026%20-%20Developmental%20disinhibition%20gates%20language%20lateralization%20in%20childhood.pdf"
+url_code = "https://github.com/GriffithsLab/WBMLangBetaERDS"
 url_custom = [{name = "url", url = "https://www.nature.com/articles/s41467-026-71918-7"}]
 
 doi = "https://doi.org/10.1038/s41467-026-71918-7"

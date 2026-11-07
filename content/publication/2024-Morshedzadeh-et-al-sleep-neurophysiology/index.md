@@ -45,6 +45,7 @@ tags = []
 
 # Links (optional).
 url_pdf = "https://raw.githubusercontent.com/GriffithsLab/griffithslab-papers/main/Morshedzadeh%20et%20al.%202026%20-%20Corticothalamic%20modeling%20of%20sleep%20neurophysiology%20with%20applications%20to%20mobile%20electroencephalography.pdf"
+url_code = "https://github.com/GriffithsLab/MorshedzadehEtAl2024_sleep-eeg-nft"
 url_preprint = "https://www.biorxiv.org/content/10.1101/2024.02.28.582655v1"
 #url_code = "https://github.com/GriffithsLab/MorshedzadehEtAl2024_sleep-eeg-nft"
 #url_dataset = "#"
