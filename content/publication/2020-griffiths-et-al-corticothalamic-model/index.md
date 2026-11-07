@@ -1,6 +1,6 @@
 +++
 title = "A connectome-based, corticothalamic model of state- and stimulation-dependent modulation of rhythmic neural activity and connectivity"
-date = 2020-01-30T00:00:00
+date = 2020-12-21T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.

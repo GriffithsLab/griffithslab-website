@@ -1,7 +1,7 @@
 +++
 
 title = "Deep-learning based parameter estimation for neurophysiological models of neuroimaging data"
-date = 2022-10-01T00:00:00
+date = 2022-05-19T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -20,7 +20,7 @@ authors = ["John D. Griffiths", "Zheng Wang", "Andrew Clappison", "Syed Hussain 
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "BioRXiv"
+publication = "bioRxiv"
 publication_short = ""
 
 # Abstract and optional shortened version.

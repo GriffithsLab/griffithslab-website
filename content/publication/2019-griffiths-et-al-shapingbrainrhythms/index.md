@@ -2,6 +2,8 @@
 title = "Shaping brain rhythms: dynamic and control-theoretic perspectives on periodic brain stimulation for treatment of neurological disorders"
 
 date = 2019-01-30T00:00:00
+# Only the year is known; publication lists show the year alone.
+date_precision = "year"
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -20,7 +22,7 @@ authors = ["John D. Griffiths", "Jérémie Lefebvre"]
 publication_types = ["6"]
 
 # Publication name and optional abbreviated version.
-publication="(in Curtsudis et al. Eds. 'Handbook of Multi-Scale Models of Brain Disorders: From Microscopic to Macroscopic Assessment of Brain Dynamics'. Springer. London.)"
+publication = "Multiscale Models of Brain Disorders (Ed. V. Cutsuridis), Springer"
 
 #publication_short = "in Handbook of Multi-scale Models of Brain Disorders"
 

@@ -1,6 +1,8 @@
 +++
 title = "Whole-Brain Modelling: Past, Present, and Future"
 date = 2022-02-01T00:00:00
+# Only the year is known; publication lists show the year alone.
+date_precision = "year"
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.

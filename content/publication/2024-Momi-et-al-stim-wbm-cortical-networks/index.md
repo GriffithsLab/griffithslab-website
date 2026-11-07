@@ -1,6 +1,6 @@
 +++
 title = "Stimulation mapping and whole-brain modeling reveal gradients of excitability and recurrence in cortical networks"
-date = 2025-04-01T00:00:00
+date = 2025-04-04T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
