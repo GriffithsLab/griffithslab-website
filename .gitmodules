@@ -1,3 +1,6 @@
 [submodule "themes/academic"]
 	path = themes/academic
 	url = https://github.com/GriffithsLab/griffithslab-hugo-academic-theme
+[submodule "static/files/papers"]
+	path = static/files/papers
+	url = https://github.com/GriffithsLab/griffithslab-papers
