@@ -16,7 +16,7 @@ abstract_short = ""
 # Is this a selected publication? (true/false)
 selected = false
 
-projects = []
+projects = ["mental_health", "models_and_theory"]
 tags = []
 
 url_pdf = "https://raw.githubusercontent.com/GriffithsLab/griffithslab-papers/main/Hauke%20et%20al.%202023%20-%20Aberrant%20Hierarchical%20Prediction%20Errors%20Are%20Associat%20...%20is%20-%20A%20Computational%20Single-Trial%20Analysis%20of%20the%20Mismatch%20Negativity.pdf"

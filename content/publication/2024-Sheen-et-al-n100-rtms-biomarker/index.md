@@ -16,7 +16,7 @@ abstract_short = ""
 # Is this a selected publication? (true/false)
 selected = false
 
-projects = []
+projects = ["neurostimulation", "mental_health"]
 tags = []
 
 url_pdf = "https://raw.githubusercontent.com/GriffithsLab/griffithslab-papers/main/Sheen%20et%20al.%202024%20-%20N100%20as%20a%20response%20prediction%20biomarker%20for%20accelerated%201%20Hz%20right%20DLPFC-rTMS%20in%20major%20depression.pdf"

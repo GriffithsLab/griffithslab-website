@@ -2,6 +2,7 @@
 
 authors = ["Marina Papoutsi", "Emmanuel A. Stamtakis", "John D. Griffiths", "William D. Marslen-Wilson", "Lorraine K. Tyler"]
 
+projects = ["network_structure_dynamics", "brain_damage"]
 title="Is left fronto-temporal connectivity essential for syntax? Effective connectivity, tractography and performance in left-hemisphere damaged patients."
 
 date = 2011-01-01

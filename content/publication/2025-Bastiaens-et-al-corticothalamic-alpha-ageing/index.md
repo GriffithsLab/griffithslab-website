@@ -16,7 +16,7 @@ abstract_short = ""
 # Is this a selected publication? (true/false)
 selected = false
 
-projects = []
+projects = ["oscillations_rhythms", "models_and_theory"]
 tags = []
 
 url_pdf = "https://raw.githubusercontent.com/GriffithsLab/griffithslab-papers/main/Bastiaens%20et%20al.%202025%20-%20Corticothalamic%20circuit%20mechanisms%20underlying%20brain%20region%20and%20ageing%20variations%20in%20resting-state%20alpha%20activity.pdf"

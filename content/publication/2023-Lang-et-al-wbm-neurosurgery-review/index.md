@@ -16,7 +16,7 @@ abstract_short = ""
 # Is this a selected publication? (true/false)
 selected = false
 
-projects = []
+projects = ["models_and_theory", "brain_damage"]
 tags = []
 
 url_pdf = "https://raw.githubusercontent.com/GriffithsLab/griffithslab-papers/main/Lang%20et%20al.%202023%20-%20Computational%20modeling%20of%20whole-brain%20dynamics%20-%20a%20review%20of%20neurosurgical%20applications.pdf"

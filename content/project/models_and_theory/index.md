@@ -1,6 +1,7 @@
 +++
 # Project title.
-title = "Computational and theoretical models of brain dynamics"
+title = "Models & Theory"
+weight = 2
 
 # Date this page was created.
 #date = 2016-04-27T00:00:00
@@ -11,11 +12,11 @@ showFooter = false
 
 
 # Project summary to display on homepage.
-#summary = "An example of using the in-built project page."
+summary = "Whole-brain, neural mass and neural field models, and the mathematical and computational tools for fitting them to neuroimaging data."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["modelling", "theory"]
+tags = []
 
 # Optional external URL for project (replaces project detail page).
 #external_link = ""
@@ -42,6 +43,7 @@ url_code = ""
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
+  preview_only = true
 #  # Caption (optional)
 # caption = "transition from a clean alpha-frequency limit cycle to a multi-frequency regime with nested gamma oscillations in a thalamocortical mean field model of EEG activity" 
   

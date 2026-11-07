@@ -16,7 +16,7 @@ abstract_short = ""
 # Is this a selected publication? (true/false)
 selected = false
 
-projects = []
+projects = ["mental_health"]
 tags = []
 
 url_pdf = "https://raw.githubusercontent.com/GriffithsLab/griffithslab-papers/main/Wang%20et%20al.%202020%20-%20Prediction%20of%20physical%20violence%20in%20schizophrenia%20with%20machine%20learning%20algorithms.pdf"

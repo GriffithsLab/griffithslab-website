@@ -1,20 +1,20 @@
 +++
 # Project title.
-title = "Brain Stimulation"
+title = "Neurostimulation"
+weight = 1
 
 # Date this page was created.
 #date = 2016-04-27T00:00:00
 date = 2019-01-02
 
-weight = 1
 
 # Project summary to display on homepage.
-# summary = "An example of using the in-built project page."
+summary = "Modelling how TMS, tFUS and other brain stimulation techniques act on neural circuits, and using this to design better therapeutic protocols."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
 #tags = ["modelling", "stimulation", "tms"]
-tags = ["primaryarea", "brain stimulation"]
+tags = []
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""

@@ -16,7 +16,7 @@ abstract_short = ""
 # Is this a selected publication? (true/false)
 selected = false
 
-projects = []
+projects = ["models_and_theory"]
 tags = []
 
 url_pdf = "https://raw.githubusercontent.com/GriffithsLab/griffithslab-papers/main/Griffiths%20et%20al.%202022%20-%20Editorial%20-%20Neuroinformatics%20of%20large-scale%20brain%20modelling.pdf"
