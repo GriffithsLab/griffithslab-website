@@ -16,7 +16,7 @@ abstract_short = ""
 # Is this a selected publication? (true/false)
 selected = true
 
-projects = ["brain_stimulation"]
+projects = ["neurostimulation", "mental_health"]
 tags = ["brain stimulation", "TMS-EEG", "depression", "whole-brain modelling"]
 
 # Links. Avoid url_pdf for external URLs: the theme turns it into a broken relative link.

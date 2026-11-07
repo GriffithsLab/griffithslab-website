@@ -16,7 +16,7 @@ abstract_short = ""
 # Is this a selected publication? (true/false)
 selected = false
 
-projects = []
+projects = ["neurostimulation", "mental_health"]
 tags = []
 
 url_pdf = "https://raw.githubusercontent.com/GriffithsLab/griffithslab-papers/main/Demchenko%20et%20al.%202024%20-%20Target%20engagement%20of%20the%20subgenual%20anterior%20cing%20...%20pressive%20disorder%20-%20a%20protocol%20for%20a%20randomized%20sham-controlled%20trial.pdf"

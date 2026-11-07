@@ -38,7 +38,7 @@ selected = false
 #   Otherwise, set `projects = []`.
 #projects = ["models-of-brain-dynamics"]
 # projects = ["models_of_brain_dynamics"]
-projects = ["brain_stimulation", "brain_networks"]
+projects = ["network_structure_dynamics", "models_and_theory", "neurostimulation"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.

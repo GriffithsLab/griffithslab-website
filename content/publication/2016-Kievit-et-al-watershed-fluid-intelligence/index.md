@@ -16,7 +16,7 @@ abstract_short = ""
 # Is this a selected publication? (true/false)
 selected = false
 
-projects = []
+projects = ["network_structure_dynamics"]
 tags = []
 
 url_pdf = "https://raw.githubusercontent.com/GriffithsLab/griffithslab-papers/main/Kievit%20et%20al.%202016%20-%20A%20watershed%20model%20of%20individual%20differences%20in%20fluid%20intelligence.pdf"

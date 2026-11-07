@@ -16,7 +16,7 @@ abstract_short = ""
 # Is this a selected publication? (true/false)
 selected = false
 
-projects = []
+projects = ["mental_health"]
 tags = []
 
 url_pdf = "https://raw.githubusercontent.com/GriffithsLab/griffithslab-papers/main/Quilty%20et%20al.%202024%20-%20Cognition%20and%20educational%20achievement%20in%20the%20Toronto%20Adolescent%20and%20youth%20Cohort%20Study%20-%20Rationale%2C%20methods%2C%20and%20early%20data.pdf"

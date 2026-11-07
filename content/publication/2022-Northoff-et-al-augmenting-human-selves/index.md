@@ -16,7 +16,7 @@ abstract_short = ""
 # Is this a selected publication? (true/false)
 selected = false
 
-projects = []
+projects = ["models_and_theory"]
 tags = []
 
 url_pdf = "https://raw.githubusercontent.com/GriffithsLab/griffithslab-papers/main/Northoff%20et%20al.%202022%20-%20Augmenting%20human%20selves%20through%20artificial%20agents%20-%20lessons%20from%20the%20brain.pdf"

@@ -16,7 +16,7 @@ abstract_short = ""
 # Is this a selected publication? (true/false)
 selected = false
 
-projects = []
+projects = ["mental_health", "models_and_theory"]
 tags = []
 
 url_pdf = "https://raw.githubusercontent.com/GriffithsLab/griffithslab-papers/main/Diaconescu%20et%20al.%202025%20-%20Neurocomputational%20modelling%20for%20characterizing%20neurocognitive%20pathophysiology%20in%20clinical%20high%20risk%20for%20psychosis.pdf"

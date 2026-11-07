@@ -16,7 +16,7 @@ abstract_short = ""
 # Is this a selected publication? (true/false)
 selected = false
 
-projects = []
+projects = ["models_and_theory"]
 tags = []
 
 url_pdf = "https://raw.githubusercontent.com/GriffithsLab/griffithslab-papers/main/Barkhau%20et%20al.%202025%20-%20Toward%20personalized%20neuroscience%20-%20Evaluating%20individual-level%20information%20in%20neural%20mass%20models.pdf"

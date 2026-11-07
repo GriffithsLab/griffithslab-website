@@ -1,19 +1,19 @@
 +++
 # Project title.
-title = "Brain Networks"
+title = "Oscillations & Rhythms"
+weight = 4
 
 # Date this page was created.
 #date = 2016-04-27T00:00:00
 date = 2019-01-02
 
 # Project summary to display on homepage.
-# summary = "An example of using the in-built project page."
+summary = "Mechanisms of alpha and other brain rhythms in corticothalamic circuits, and how they shift with brain state, age and stimulation."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
 #tags = ["modelling", "stimulation", "tms"]
-tags = ["primaryarea"]
-
+tags = []
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -50,13 +50,4 @@ url_code = ""
 
 +++
 
-
-
-
-
-
-
-
-
-
-
+Rhythmic activity such as the alpha rhythm is one of the most prominent features of EEG and MEG recordings, yet how it is generated is still debated. We use corticothalamic and intracortical models to understand how brain rhythms arise, why they differ across brain regions, brain states (such as wake and sleep) and the lifespan, and how they interact with periodic brain stimulation through entrainment and resonance. We also study how rhythms relate to slower processes such as activity-dependent myelination and plasticity, and how they can serve as biomarkers in clinical populations.

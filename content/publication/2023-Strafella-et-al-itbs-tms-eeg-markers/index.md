@@ -16,7 +16,7 @@ abstract_short = ""
 # Is this a selected publication? (true/false)
 selected = false
 
-projects = []
+projects = ["neurostimulation", "mental_health"]
 tags = []
 
 url_pdf = "https://raw.githubusercontent.com/GriffithsLab/griffithslab-papers/main/Strafella%20et%20al.%202023%20-%20Identifying%20neurophysiological%20markers%20of%20interm%20...%20ession%20using%20transcranial%20magnetic%20stimulation-electroencephalography.pdf"

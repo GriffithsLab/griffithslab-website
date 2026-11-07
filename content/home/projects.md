@@ -6,7 +6,7 @@ active = true
 date = ""
 
 title = "Research Areas"
-subtitle = "The core research activites of the group consist of applying whole-brain modelling techniques to a variety of research questions relating to ***brain stimulation***, ***brain rhythms***, and ***brain networks***. Most projects involve intersections of 2 or 3 of these, and have both basic science and clinical application components, such as therapeutic brain stimulation for depression. We also have a number of additional ongoing projects involving mobile EEG, fNIRS, sleep, neuroinformatics, and computational modelling methodology. See below for more info on each of these, as well as links to relevant publications and reproducible code."
+subtitle = "We use whole-brain computational modelling, together with neuroimaging and brain stimulation, to understand how large-scale brain dynamics emerge from network structure, and how they change in neurological and psychiatric disease. Click on an area for more info and related publications."
 
 
 # Order that this section will appear in.
@@ -33,33 +33,6 @@ widget_layout = 1
 # For Showcase view, flip alternate rows?
 flip_alt_rows = true
 
-# Filter toolbar.
-
-# Default filter index (e.g. 0 corresponds to the first `[[filter]]` instance below).
-filter_default = 1
-
-# Add or remove as many filters (`[[filter]]` instances) as you like.
-# To show all items, set `tag` to "*".
-# To filter by a specific tag, set `tag` to an existing tag name.
-# To remove toolbar, delete/comment all instances of `[[filter]]` below.
-
-[[filter]]
-  name = "All"
-  tag = "*"
-  weight=3
-
-[[filter]]
-  name = "Primary Areas"
-  tag = "primaryarea"
-  weight=1
-
-[[filter]]
-  name = "Additional Projects"
-  tag = "secondaryarea"
-  weight=2
-
-#[[filter]]
-#  name = "Other"
-#  tag = "Demo"
+# Filter toolbar: none (all research areas shown).
 
 +++

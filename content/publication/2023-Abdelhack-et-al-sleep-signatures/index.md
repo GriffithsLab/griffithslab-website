@@ -16,7 +16,7 @@ abstract_short = ""
 # Is this a selected publication? (true/false)
 selected = false
 
-projects = []
+projects = ["network_structure_dynamics"]
 tags = []
 
 url_pdf = "https://raw.githubusercontent.com/GriffithsLab/griffithslab-papers/main/Abdelhack%20et%20al.%202023%20-%20Opposing%20brain%20signatures%20of%20sleep%20in%20task-based%20and%20resting-state%20conditions.pdf"

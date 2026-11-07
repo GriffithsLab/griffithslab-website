@@ -16,7 +16,7 @@ abstract_short = ""
 # Is this a selected publication? (true/false)
 selected = false
 
-projects = []
+projects = ["models_and_theory", "oscillations_rhythms", "network_structure_dynamics"]
 tags = []
 
 url_pdf = "https://raw.githubusercontent.com/GriffithsLab/griffithslab-papers/main/Noori%20et%20al.%202020%20-%20Activity-dependent%20myelination%20-%20A%20glial%20mechanism%20of%20oscillatory%20self-organization%20in%20large-scale%20brain%20networks.pdf"

@@ -1,13 +1,13 @@
 +++
 # Project title.
-title = "Interview. Chris Harris on 'Teaching Neuroscience'"
+title = "Interview w/ Chris Harris on 'Teaching Neuroscience'"
 
 # Date this page was created.
 date = 2021-01-19T00:00:00
 
 # Project summary to display on homepage.
 #summary = "An example of using the in-built project page."
-summary = "JG's New Books in Neuroscience podcast interview with CH in his new book"
+summary = "JG's New Books in Neuroscience podcast interview with Christopher Harris on brain-based robots for neuroscience education"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -50,7 +50,7 @@ url_custom = [{icon_pack = "fab", icon="url", name="NBN Webpage", url="https://n
 +++
 
 
-<div align="center"> <img src="featured.jpg" margin="15px 15px 15px 15px" width="1800" /> </div>
+<div align="center"> <img src="featured.jpg" margin="15px 15px 15px 15px" width="700" /> </div>
 
 <br>
 

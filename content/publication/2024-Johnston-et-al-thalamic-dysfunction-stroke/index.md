@@ -16,7 +16,7 @@ abstract_short = ""
 # Is this a selected publication? (true/false)
 selected = false
 
-projects = []
+projects = ["brain_damage", "oscillations_rhythms", "network_structure_dynamics"]
 tags = []
 
 url_pdf = "https://raw.githubusercontent.com/GriffithsLab/griffithslab-papers/main/Johnston%20et%20al.%202024%20-%20Secondary%20thalamic%20dysfunction%20underlies%20abnormal%20large-scale%20neural%20dynamics%20in%20chronic%20stroke.pdf"

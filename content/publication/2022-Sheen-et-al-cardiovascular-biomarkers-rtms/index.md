@@ -16,7 +16,7 @@ abstract_short = ""
 # Is this a selected publication? (true/false)
 selected = false
 
-projects = []
+projects = ["neurostimulation", "mental_health"]
 tags = []
 
 url_pdf = "https://raw.githubusercontent.com/GriffithsLab/griffithslab-papers/main/Sheen%20et%20al.%202022%20-%20Cardiovascular%20biomarkers%20of%20response%20to%20accelerated%20...%20ency%20repetitive%20transcranial%20magnetic%20stimulation%20in%20major%20depression.pdf"

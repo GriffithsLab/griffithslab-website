@@ -1,0 +1,54 @@
++++
+# Project title.
+title = "Network Structure & Dynamics"
+weight = 3
+
+# Date this page was created.
+#date = 2016-04-27T00:00:00
+date = 2019-01-02
+
+# Project summary to display on homepage.
+summary = "How the connectome shapes large-scale brain activity, from structure–function coupling to individual differences in cognition."
+
+# Tags: can be used for filtering projects.
+# Example: `tags = ["machine-learning", "deep-learning"]`
+#tags = ["modelling", "stimulation", "tms"]
+tags = []
+
+
+# Optional external URL for project (replaces project detail page).
+external_link = ""
+
+# Slides (optional).
+#   Associate this project with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references 
+#   `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+# slides = "example-slides"
+
+# Links (optional).
+url_pdf = ""
+url_slides = ""
+url_video = ""
+url_code = ""
+
+# Custom links (optional).
+#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
+# url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/georgecushen"}]
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your project's folder. 
+[image]
+  preview_only = true
+  # Caption (optional)
+  # caption = "Photo by rawpixel on Unsplash"
+  
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = "Smart"
+
+
++++
+
+Brain activity unfolds on a physical network of white matter connections: the connectome. We study how this structure shapes and constrains large-scale brain dynamics, including how structural and functional connectivity relate to each other and to cognition, how stimulation and activity propagate through brain networks, how the geometry and eigenmodes of the cortex organize patterns of activity, and how network properties vary between individuals and across development. This work combines diffusion MRI tractography, resting-state fMRI, EEG/MEG and fNIRS with connectome-based models.

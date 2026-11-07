@@ -1,18 +1,20 @@
 +++
 # Project title.
-title = "Brain Rhythms"
+title = "Neurostimulation"
+weight = 1
 
 # Date this page was created.
 #date = 2016-04-27T00:00:00
 date = 2019-01-02
 
+
 # Project summary to display on homepage.
-# summary = "An example of using the in-built project page."
+summary = "Modelling how TMS, tFUS and other brain stimulation techniques act on neural circuits, and using this to design better therapeutic protocols."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
 #tags = ["modelling", "stimulation", "tms"]
-tags = ["primaryarea","brain rhythms"]
+tags = []
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -46,14 +48,6 @@ url_code = ""
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Smart"
 
-
 +++
 
-
-
-
-
-
-
-
-
+Brain stimulation is both a tool for probing how the brain works and an increasingly important treatment for psychiatric and neurological disorders. We build computational models of how techniques such as transcranial magnetic stimulation (TMS), theta burst stimulation, transcranial focused ultrasound (tFUS) and temporal interference stimulation act on neural circuits, from cellular mechanisms of plasticity (e.g. calcium-dependent plasticity and metaplasticity) up to whole-brain network responses measured with concurrent TMS-EEG. We combine these models with data from clinical rTMS and Stanford Neuromodulation Therapy trials in depression to identify biomarkers of treatment response, working towards personalized, model-guided stimulation protocols.

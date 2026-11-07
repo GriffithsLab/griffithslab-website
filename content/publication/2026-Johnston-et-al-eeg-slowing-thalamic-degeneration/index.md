@@ -16,7 +16,7 @@ abstract_short = ""
 # Is this a selected publication? (true/false)
 selected = false
 
-projects = []
+projects = ["brain_damage", "oscillations_rhythms"]
 tags = []
 
 url_pdf = "https://raw.githubusercontent.com/GriffithsLab/griffithslab-papers/main/Johnston%20et%20al.%202026%20-%20Large-scale%20neural%20slowing%20measured%20with%20electroencephalography%20indexes%20secondary%20thalamic%20degeneration%20in%20stroke.pdf"

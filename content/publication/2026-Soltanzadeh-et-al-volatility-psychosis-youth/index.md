@@ -16,7 +16,7 @@ abstract_short = ""
 # Is this a selected publication? (true/false)
 selected = false
 
-projects = []
+projects = ["mental_health", "models_and_theory"]
 tags = []
 
 url_pdf = "https://raw.githubusercontent.com/GriffithsLab/griffithslab-papers/main/Soltanzadeh%20et%20al.%202026%20-%20Volatility-level%20inference%20indexes%20psychosis%20spectrum%20symptoms%20Independent%20of%20age%20in%20transdiagnostic%20help-seeking%20youth.pdf"

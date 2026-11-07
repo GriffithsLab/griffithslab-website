@@ -16,7 +16,7 @@ abstract_short = ""
 # Is this a selected publication? (true/false)
 selected = false
 
-projects = []
+projects = ["mental_health", "models_and_theory"]
 tags = []
 
 url_pdf = "https://raw.githubusercontent.com/GriffithsLab/griffithslab-papers/main/Yao%20et%20al.%202022%20-%20Reduced%20inhibition%20in%20depression%20impairs%20stimulus%20processing%20in%20human%20cortical%20microcircuits.pdf"

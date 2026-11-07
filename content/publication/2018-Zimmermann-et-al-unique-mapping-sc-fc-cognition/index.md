@@ -16,7 +16,7 @@ abstract_short = ""
 # Is this a selected publication? (true/false)
 selected = false
 
-projects = []
+projects = ["network_structure_dynamics"]
 tags = []
 
 url_pdf = "https://raw.githubusercontent.com/GriffithsLab/griffithslab-papers/main/Zimmermann%20et%20al.%202018%20-%20Unique%20Mapping%20of%20Structural%20and%20Functional%20Connectivity%20on%20Cognition.pdf"
