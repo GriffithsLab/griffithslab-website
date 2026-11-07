@@ -52,24 +52,3 @@ url_code = ""
 +++
 
 Damage to the brain from stroke, injury or neurological disease disrupts not only the tissue directly affected but also the wider networks it connects to. We study how focal lesions alter large-scale brain structure and dynamics, for example how secondary thalamic degeneration after stroke produces the abnormal slowing seen in the EEG, and how these changes relate to cognitive and language impairments. Using connectome-based models, we aim to predict the network consequences of a given pattern of damage, and to inform clinical interventions such as neurosurgical planning and stimulation-based rehabilitation.
-
-<!-- Previous page text, kept for reference (not shown on the site):
-
-<img src="/img/griffiths2013_tracts.png" align="right" margin="15px 15px 15px 15px" width="400" />
-
-The effects of white matter damage on cognitive and neural function is a subject of major interest for the group. Earlier work studied how different spatial profiles of damage following stroke resulted in differential types of linguistic impairments. A large part of our current work asks similar questions from a more systems level perspective: what is the impact of a given spatial profile of damage on the topological structure and dynamic behaviour in connectome-based neural mass models? 
-
-<img src="/img/conwhat_atlases.png" align="left" margin="15px 15px 15px 15px" width="400" />
-
-<br>
-<br>
-
-In order to help address questions like this, we are developing a new software library, [ConWhAt](https://github.com/johngriffiths/conwhat), for 'connectome-based white matter atlas analysis'. This allows the construction of 'damaged' brain networks for a given spatial profile of damage, obviating the need to run complicated tractography analyses in individual patients.
-
-<img src="/img/conwhat_atlas_construction.png" align="right" margin="15px 15px 15px 15px" width="400" />
-
-<br>
-<br>
-
-Together with [Jed Meltzer](http://research.baycrest.org/jmeltzer)'s team from the Rotman Research Institute at Baycrest hospital, we are also beginning to investigate physiological changes in perilesional tissue following stroke, and how brain stimulation (informed by computational modelling) can be used to target and renormalize abberant activity in these regions.
--->

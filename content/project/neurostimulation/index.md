@@ -48,21 +48,6 @@ url_code = ""
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Smart"
 
-
-
-#Brain stimulation is both a fundamental tool for studying basic principles of neuronal function, and an increasingly used therapeutic technique in clinical neurology and neuropsychiatry. Our work on computational models of neurostimulation spans both of these domains, with particular focus on oscillatory network dynamics and transcranial magnetic stimulation (TMS) therapy for major depressive disorder. 
-
-#<img src="/img/tc_model_arnold_tongues.png" align="right" margin="15px 15px 15px 15px" width="300" />
-
-#Our recent work on this has explored brain stimulation in the thalamocortical system. Driving this system with periodic electric stimulation produces Arnold Tongues and resonance effects that depend on both the noise and the time delay structure of the underlying neural system, as well as its current state - which (like the EEG) shows endogeneous fluctuations between regimes of synchronous alpha activity and periods of relatively more asynchronous high-frequency activity.
-
-
-#Key questions for future work: 
-
-#1. *Plasticity*: How do oscillatory changes due to TMS obtain from the treatment, continuing to have long-term efficacious effects weeks or months down the line. 
-#2. *Propagation*: How does stimulation at one site propagate to distal brain regions? How can we make use of anatomical and functional brain connectivity information, combined with neurophysiological models, to map out the network effects of focal noninvasive stimulation?
-
-
 +++
 
 Brain stimulation is both a tool for probing how the brain works and an increasingly important treatment for psychiatric and neurological disorders. We build computational models of how techniques such as transcranial magnetic stimulation (TMS), theta burst stimulation, transcranial focused ultrasound (tFUS) and temporal interference stimulation act on neural circuits, from cellular mechanisms of plasticity (e.g. calcium-dependent plasticity and metaplasticity) up to whole-brain network responses measured with concurrent TMS-EEG. We combine these models with data from clinical rTMS and Stanford Neuromodulation Therapy trials in depression to identify biomarkers of treatment response, working towards personalized, model-guided stimulation protocols.
