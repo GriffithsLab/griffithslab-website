@@ -1,6 +1,6 @@
 +++
 title = "TMS-Evoked Responses Are Driven by Recurrent Large-Scale Network Dynamics"
-date = 2023-01-01T00:00:00
+date = 2023-04-21T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -18,7 +18,7 @@ authors = ["Davide Momi", "Zheng Wang", "John D. Griffiths"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "ELife"
+publication = "eLife"
 #publication_short = ""
 
 # Abstract and optional shortened version.

@@ -1,6 +1,8 @@
 +++
 title = "Dynamic brain network models: How interactions in the structural connectome shape brain dynamics"
 date = 2024-01-01T00:00:00
+# Only the year is known; publication lists show the year alone.
+date_precision = "year"
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -64,7 +66,7 @@ url_pdf = "https://raw.githubusercontent.com/GriffithsLab/griffithslab-papers/ma
 #url_custom = [{name = "PDF", url = "https://tinyurl.com/4etcdste"}]
 
 # Digital Object Identifier (DOI)
-doi = "10.3389/fpsyt.2022.902089"
+doi = "https://doi.org/10.1016/B978-0-443-13480-7.00001-6"
 
 # Does this page contain LaTeX math? (true/false)
 math = true
