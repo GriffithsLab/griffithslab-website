@@ -8,7 +8,7 @@ aliases = ["/code_and_software/eeg-notebooks/"]
 date = 2019-01-04
 
 # Project summary to display on homepage.
-#summary = "An example of using the in-built project page."
+summary = "EEG Experiments in Python"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -52,7 +52,7 @@ url_code = ""
 
 <img src="/img/eeg-notebooks_montage.png" align="right" margin="15px 15px 15px 15px" width="300" /> 
 
-[EEG-ExPy](https://github.com/NeuroTechX/EEG-ExPy) (formerly *eeg-notebooks*) is a python-based software library that provides a simple end-to-end platform for conducting cognitive neuroscience experiments using consumer-grade EEG technology. It emerged out of the close relationship between our good friends at [NeuroTechX](https://neurotechx.com/) and other good friends at InterAxon (just down the road from CAMH). Using EEG-ExPy together with a standard laptop computer and ~$200 EEG headset such as the Interaxon MUSE, one can conduct high-quality event-related potential (ERP) experiments that traditionally require research-grade equipment costing tens of thousands of dollars.  This opens up the door to a myriad of exciting neuroscience research and education possibilities. 
+[EEG-ExPy](https://github.com/NeuroTechX/EEG-ExPy) (*EEG Experiments in Python*, formerly *eeg-notebooks*) is a python-based software library that provides a simple end-to-end platform for conducting cognitive neuroscience experiments using consumer-grade EEG technology. It emerged out of the close relationship between our good friends at [NeuroTechX](https://neurotechx.com/) and other good friends at InterAxon (just down the road from CAMH). Using EEG-ExPy together with a standard laptop computer and ~$200 EEG headset such as the Interaxon MUSE, one can conduct high-quality event-related potential (ERP) experiments that traditionally require research-grade equipment costing tens of thousands of dollars.  This opens up the door to a myriad of exciting neuroscience research and education possibilities. 
 
 {{< tweet 988410404295426048 >}}
 
