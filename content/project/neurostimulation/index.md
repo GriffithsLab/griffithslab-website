@@ -65,3 +65,4 @@ url_code = ""
 
 +++
 
+Brain stimulation is both a tool for probing how the brain works and an increasingly important treatment for psychiatric and neurological disorders. We build computational models of how techniques such as transcranial magnetic stimulation (TMS), theta burst stimulation, transcranial focused ultrasound (tFUS) and temporal interference stimulation act on neural circuits, from cellular mechanisms of plasticity (e.g. calcium-dependent plasticity and metaplasticity) up to whole-brain network responses measured with concurrent TMS-EEG. We combine these models with data from clinical rTMS and Stanford Neuromodulation Therapy trials in depression to identify biomarkers of treatment response, working towards personalized, model-guided stimulation protocols.

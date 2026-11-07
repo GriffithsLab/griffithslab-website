@@ -50,11 +50,4 @@ url_code = ""
 
 +++
 
-
-
-
-
-
-
-
-
+Rhythmic activity such as the alpha rhythm is one of the most prominent features of EEG and MEG recordings, yet how it is generated is still debated. We use corticothalamic and intracortical models to understand how brain rhythms arise, why they differ across brain regions, brain states (such as wake and sleep) and the lifespan, and how they interact with periodic brain stimulation through entrainment and resonance. We also study how rhythms relate to slower processes such as activity-dependent myelination and plasticity, and how they can serve as biomarkers in clinical populations.

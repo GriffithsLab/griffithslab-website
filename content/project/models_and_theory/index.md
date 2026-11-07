@@ -54,6 +54,9 @@ url_code = ""
 
 +++
 
+Computational modelling is the common thread running through almost all of our work. We develop and apply whole-brain (connectome-based) neural mass models, corticothalamic and neural field models, and detailed cortical microcircuit models, together with the mathematical theory needed to understand their behaviour. A major focus is methodology: fitting models to individual subjects' EEG, MEG and fMRI data using deep-learning-based parameter estimation tools such as [WhoBPyT](/code_and_software/whobpyt/), assessing how much individual-level information these models capture, and making whole-brain modelling more reproducible and accessible through open-source software, tutorials and courses.
+
+<!-- Previous page text, kept for reference (not shown on the site):
 
 <img src="/img/tvb_hbp_bbp_logos.png" align="right" margin="15px 15px 15px 15px" width="150" /> 
 
@@ -74,3 +77,4 @@ A different line of work, done together with Prof. Peter Robinson and colleagues
 <img src="/img/mode_topographies.png" width="400"/>
 
 This, together with the steady-state eigenmode solutions to the Robinson neural field equations, predicts the presence of spherical harmonic-like patterns in fast-timescale activity measurements. Consistent with this, we have recently shown that this spherical harmonic-like spatial eigenmode structure is observed in cortical surface Laplacians, anatomical connectivity (tractography) networks, (MEG) functional connectivity networks, and numerical simulations. These results provide new insight into the role of the network topology and geometric embedding of the cerebral hemispheres in shaping brain dynamics, as well as the theoretical and practical utility of macroscopic neural field models with spherical boundary conditions.
+-->

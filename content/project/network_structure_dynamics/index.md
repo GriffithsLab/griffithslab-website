@@ -51,13 +51,4 @@ url_code = ""
 
 +++
 
-
-
-
-
-
-
-
-
-
-
+Brain activity unfolds on a physical network of white matter connections: the connectome. We study how this structure shapes and constrains large-scale brain dynamics, including how structural and functional connectivity relate to each other and to cognition, how stimulation and activity propagate through brain networks, how the geometry and eigenmodes of the cortex organize patterns of activity, and how network properties vary between individuals and across development. This work combines diffusion MRI tractography, resting-state fMRI, EEG/MEG and fNIRS with connectome-based models.
