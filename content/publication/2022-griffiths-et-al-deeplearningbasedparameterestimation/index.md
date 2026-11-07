@@ -45,7 +45,7 @@ projects = ["brain_networks", "brain_rhythms"]
 #tags = ['selected']
 
 # Links (optional).
-url_pdf = "https://www.biorxiv.org/content/10.1101/2022.05.19.492664v1.full.pdf"
+url_pdf = "https://raw.githubusercontent.com/GriffithsLab/griffithslab-papers/main/Griffiths%20et%20al.%202022%20-%20Deep%20learning-based%20parameter%20estimation%20for%20neurophysiological%20models%20of%20neuroimaging%20data.pdf"
 url_preprint = "https://www.biorxiv.org/content/10.1101/2022.05.19.492664v1.abstract"
 url_code = "https://github.com/GriffithsLab/dl-paramest-for-neurophys-models"
 #url_dataset = "#"

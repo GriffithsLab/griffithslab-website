@@ -43,7 +43,7 @@ tags = ["brain stimulation", "brain networks"]
 
 # Links (optional).
 #url = "https://elifesciences.org/articles/83232"
-url_pdf = "https://elifesciences.org/download/aHR0cHM6Ly9jZG4uZWxpZmVzY2llbmNlcy5vcmcvYXJ0aWNsZXMvODMyMzIvZWxpZmUtODMyMzItdjEucGRmP2Nhbm9uaWNhbFVyaT1odHRwczovL2VsaWZlc2NpZW5jZXMub3JnL2FydGljbGVzLzgzMjMy/elife-83232-v1.pdf?_hash=eJ%2Br3sJh3TYrlZw83%2Bg3wdj50jWKRRBAJa%2BSgAmofdg%3D"
+url_pdf = "https://raw.githubusercontent.com/GriffithsLab/griffithslab-papers/main/Momi%20et%20al.%202023%20-%20TMS-evoked%20responses%20are%20driven%20by%20recurrent%20large-scale%20network%20dynamics.pdf"
 
 #url_preprint = "https://www.biorxiv.org/content/10.1101/2022.06.09.494069v1"
 url_code = "https://github.com/GriffithsLab/PyTepFit"

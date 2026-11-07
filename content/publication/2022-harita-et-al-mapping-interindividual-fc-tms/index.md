@@ -45,7 +45,7 @@ projects = ["brain_stimulation", "brain_networks"]
 tags = []
 
 # Links (optional).
-url_pdf = "https://www.frontiersin.org/articles/10.3389/fpsyt.2022.902089/pdf"
+url_pdf = "https://raw.githubusercontent.com/GriffithsLab/griffithslab-papers/main/Harita%20et%20al.%202022%20-%20Mapping%20inter-individual%20functional%20connectivity%20variability%20in%20TMS%20targets%20for%20major%20depressive%20disorder.pdf"
 #url_preprint = "http://dx.doi.org/10.1101/2021.07.15.452518"
 url_code = "https://github.com/GriffithsLab/HaritaEtAl2022_tms-efield-fc"
 #url_dataset = "#"

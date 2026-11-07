@@ -45,7 +45,7 @@ projects = ["brain_stimulation", "brain_networks"]
 tags = []
 
 # Links (optional).
-url_pdf = "https://drive.google.com/file/d/1Ds2DNyrq8BikR4upbEjWLUq6bqEw1EAy/view?usp=sharing"
+url_pdf = "https://raw.githubusercontent.com/GriffithsLab/griffithslab-papers/main/Cabral%20and%20Griffiths%202024%20-%20Dynamic%20brain%20network%20models%20-%20How%20interactions%20in%20the%20structural%20connectome%20shape%20brain%20dynamics.pdf"
 #url_preprint = "#"
 #url_code = "#"
 #url_dataset = "#"

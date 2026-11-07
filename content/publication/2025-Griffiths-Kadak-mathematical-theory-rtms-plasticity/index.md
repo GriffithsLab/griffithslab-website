@@ -20,6 +20,7 @@ projects = ["brain_stimulation"]
 tags = ["brain stimulation", "rTMS", "neural plasticity", "computational modelling"]
 
 # Links. Avoid url_pdf for external URLs: the theme turns it into a broken relative link.
+url_pdf = "https://raw.githubusercontent.com/GriffithsLab/griffithslab-papers/main/Griffiths%20and%20Kadak%202025%20-%20Towards%20a%20mathematical%20theory%20of%20rTMS-induced%20neural%20plasticity.pdf"
 url_custom = [{name = "PubMed", url = "https://pubmed.ncbi.nlm.nih.gov/40675036/"}]
 
 doi = "https://doi.org/10.1016/j.clinph.2025.2110826"

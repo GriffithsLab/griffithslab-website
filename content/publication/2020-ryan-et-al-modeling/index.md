@@ -64,6 +64,7 @@ tags = []
 #doi = "10.3389/fams.2018.00031"
 
 # Does this page contain LaTeX math? (true/false)
+url_pdf = "https://raw.githubusercontent.com/GriffithsLab/griffithslab-papers/main/Ryan%20et%20al.%202020%20-%20Modeling%20the%20influence%20of%20the%20hippocampal%20memory%20system%20on%20the%20oculomotor%20system.pdf"
 math = true
 
 # Featured image

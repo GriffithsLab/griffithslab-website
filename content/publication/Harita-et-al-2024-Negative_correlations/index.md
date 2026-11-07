@@ -45,6 +45,7 @@ tags = []
 
 # Links (optional).
 #url_pdf = "#"
+url_pdf = "https://raw.githubusercontent.com/GriffithsLab/griffithslab-papers/main/Harita%20et%20al.%202024%20-%20The%20role%20of%20inhibition%20in%20resting-state%20fMRI%20negative%20correlations.pdf"
 url_preprint = "https://www.biorxiv.org/content/10.1101/2024.03.01.583030v2.full"
 url_code = "https://github.com/GriffithsLab/HaritaEtAl2024_tvb-negative-correlations"
 #url_dataset = "#"

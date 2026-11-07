@@ -45,6 +45,7 @@ tags = []
 
 # Links (optional).
 #url_pdf = "#"
+url_pdf = "https://raw.githubusercontent.com/GriffithsLab/griffithslab-papers/main/Parsa%20Oveisi%20et%20al.%202024%20-%20Assessing%20the%20Validity%20and%20Reliability%20of%20HD...%20sting-State%20Measurements%20in%20Rapid%20Succession%20Data%20Collection%20Settings.pdf"
 url_preprint = "https://www.biorxiv.org/content/10.1101/2024.03.04.583362v1"
 #url_code = "#"
 #url_dataset = "#"

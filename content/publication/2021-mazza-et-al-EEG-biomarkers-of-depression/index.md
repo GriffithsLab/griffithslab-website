@@ -60,9 +60,8 @@ tags = []
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 #url_custom = [{name = "Custom Link", url = "http://example.org"}]
-url_custom = [{name = "PDF", url = "https://tinyurl.com/3js8zpwx"}]
-
 # Digital Object Identifier (DOI)
+url_pdf = "https://raw.githubusercontent.com/GriffithsLab/griffithslab-papers/main/Mazza%20et%20al.%202023%20-%20In-silico%20EEG%20biomarkers%20of%20reduced%20inhibition%20in%20human%20cortical%20microcircuits%20in%20depression.pdf"
 doi = "10.1101/2021.07.18.452836"
 
 # Does this page contain LaTeX math? (true/false)

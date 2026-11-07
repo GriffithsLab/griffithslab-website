@@ -45,7 +45,7 @@ projects = ["brain_rhythms", "brain_networks", "brain_stimulation"]
 tags = []
 
 # Links (optional).
-url_pdf = "https://www.frontiersin.org/articles/10.3389/fncom.2020.575143/pdf"
+url_pdf = "https://raw.githubusercontent.com/GriffithsLab/griffithslab-papers/main/Griffiths%20et%20al.%202020%20-%20A%20connectome-based%2C%20corticothalamic%20model%20of%20sta%20...%20ion-dependent%20modulation%20of%20rhythmic%20neural%20activity%20and%20connectivity.pdf"
 #url_preprint = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
 url_code = "https://github.com/GriffithsLab/ctwc-model"
 #url_dataset = "#"

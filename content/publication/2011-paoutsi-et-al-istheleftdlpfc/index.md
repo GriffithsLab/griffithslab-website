@@ -68,6 +68,7 @@ tags = []
 #doi = "10.3389/fams.2018.00031"
 
 # Does this page contain LaTeX math? (true/false)
+url_pdf = "https://raw.githubusercontent.com/GriffithsLab/griffithslab-papers/main/Papoutsi%20et%20al.%202011%20-%20Is%20left%20fronto-temporal%20connectivity%20essential%20fo%20...%20ity%2C%20tractography%20and%20performance%20in%20left-hemisphere%20damaged%20patients.pdf"
 math = true
 
 # Featured image

@@ -59,6 +59,7 @@ tags = []
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 #url_custom = [{name = "Custom Link", url = "http://example.org"}]
 #url_custom = [{name = "url", url = "https://www.sciencedirect.com/science/article/pii/S1053811916300908"}]
+url_pdf = "https://raw.githubusercontent.com/GriffithsLab/griffithslab-papers/main/Robinson%20et%20al.%202016%20-%20Eigenmodes%20of%20brain%20activity%20-%20Neural%20field%20theory%20predictions%20and%20comparison%20with%20experiment.pdf"
 url_custom = [{name = "pdf", url = "https://tinyurl.com/8s4ydmsd"}]
 
 
