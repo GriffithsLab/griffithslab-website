@@ -27,7 +27,7 @@
       </div>
       {{/* Site override: show the venue and publication date under the authors. */}}
       <div class="pub-venue-date">
-        {{ with .Params.publication }}<em itemprop="isPartOf">{{ . | markdownify }}</em>{{ end }}
+        {{ with .Params.publication }}<strong><em itemprop="isPartOf">{{ . | markdownify }}</em></strong>{{ end }}
         {{- if and .Params.publication (not .Date.IsZero) }} · {{ end -}}
         {{ if not .Date.IsZero }}
           <time datetime="{{ .Date.Format "2006-01-02" }}" itemprop="datePublished">
