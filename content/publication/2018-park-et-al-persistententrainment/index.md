@@ -1,5 +1,5 @@
 +++
-title = "Persistent entrainment in nonlinear neural networks with noise"
+title = "Persistent entrainment in non-linear neural networks with memory"
 date = 2018-08-23T00:00:00
 draft = false
 

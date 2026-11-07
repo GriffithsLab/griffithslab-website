@@ -1,11 +1,11 @@
 +++
-title="The functional reach of the hippocampal memory system to the oculomotor system"
+title = "Modeling the influence of the hippocampal memory system on the oculomotor system"
 
 date = 2020-01-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Jennifer D Ryan", "Kelly Shen", "Arber Kacollja", "Heather Tian", "John D. Griffiths", "Randy McIntosh"]
+authors = ["Jennifer D. Ryan", "Kelly Shen", "Arber Kacollja", "Heather Tian", "John D. Griffiths", "Gleb Bezgin", "Anthony R. McIntosh"]
 
 # Publication type.
 # Legend:
@@ -65,6 +65,9 @@ tags = []
 
 # Does this page contain LaTeX math? (true/false)
 url_pdf = "https://raw.githubusercontent.com/GriffithsLab/griffithslab-papers/main/Ryan%20et%20al.%202020%20-%20Modeling%20the%20influence%20of%20the%20hippocampal%20memory%20system%20on%20the%20oculomotor%20system.pdf"
+url_preprint = "https://www.biorxiv.org/content/10.1101/303511v1"
+doi = "https://doi.org/10.1162/netn_a_00120"
+
 math = true
 
 # Featured image

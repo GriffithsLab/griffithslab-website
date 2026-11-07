@@ -1,10 +1,10 @@
 +++
-title = "EEG Biomarkers of reduced inhibition in human cortical microcircuits in depression"
-date = 2021-01-30T00:00:00
+title = "In-silico EEG biomarkers of reduced inhibition in human cortical microcircuits in depression"
+date = 2023-04-10T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Frank Mazza", "John D. Griffiths", "Etay Hay"]
+authors = ["Frank Mazza", "Alexandre Guet-McCreight", "Taufik A. Valiante", "John D. Griffiths", "Etay Hay"]
 
 
 # Publication type.
@@ -21,8 +21,8 @@ publication_types = ["2"]
 # Publication name and optional abbreviated version.
 #publication = "Frontiers in Applied Mathematics and Statistics"
 #publication_short = "Front. Appl. Math Stat."
-publication = "(Submitted)"
-publication_short = "(Submitted)"
+publication = "PLoS Computational Biology"
+publication_short = "PLoS CB"
 
 # Abstract and optional shortened version.
 abstract = ""
@@ -62,9 +62,11 @@ tags = []
 #url_custom = [{name = "Custom Link", url = "http://example.org"}]
 # Digital Object Identifier (DOI)
 url_pdf = "https://raw.githubusercontent.com/GriffithsLab/griffithslab-papers/main/Mazza%20et%20al.%202023%20-%20In-silico%20EEG%20biomarkers%20of%20reduced%20inhibition%20in%20human%20cortical%20microcircuits%20in%20depression.pdf"
-doi = "10.1101/2021.07.18.452836"
+doi = "https://doi.org/10.1371/journal.pcbi.1010986"
 
 # Does this page contain LaTeX math? (true/false)
+url_preprint = "https://www.biorxiv.org/content/10.1101/2021.07.18.452836v1"
+
 math = true
 
 # Featured image
