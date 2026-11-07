@@ -1,0 +1,43 @@
+{{/* Site override: compact publication entry for the homepage Selected Publications list (no abstract snippet, first author only). */}}
+<div class="media stream-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0" itemprop="name">
+      <a href="{{ .RelPermalink }}" itemprop="url">{{ .Title }}</a>
+    </h3>
+
+    <div class="stream-meta article-metadata">
+      <div itemprop="author">
+        {{/* Compact (homepage) listing: first author only, "et al." if more. */}}
+        {{ with .Params.authors }}
+        {{- index . 0 | markdownify -}}{{ if gt (len .) 1 }} et al.{{ end -}}
+        {{- end -}}
+      </div>
+      {{/* Site override: show the venue and publication date under the authors. */}}
+      <div class="pub-venue-date">
+        {{ with .Params.publication }}<strong><em itemprop="isPartOf">{{ . | markdownify }}</em></strong>{{ end }}
+        {{- if and .Params.publication (not .Date.IsZero) }} · {{ end -}}
+        {{ if not .Date.IsZero }}
+          <time datetime="{{ .Date.Format "2006-01-02" }}" itemprop="datePublished">
+            {{- if eq .Params.date_precision "year" }}{{ .Date.Format "2006" }}{{ else }}{{ .Date.Format $.Site.Params.date_format }}{{ end -}}
+          </time>
+        {{ end }}
+      </div>
+    </div>
+
+    <div class="btn-links">
+      {{ partial "page_links" (dict "content" . "is_list" 1) }}
+    </div>
+
+  </div>
+  <div class="ml-3 pub-thumb-wrap">
+    {{ $resource := (.Resources.ByType "image").GetMatch "*featured*" }}
+    {{ with $resource }}
+    {{/* Site override: larger source so the thumbnail stays sharp when shown full-width on mobile (see simple_purple.css). */}}
+    {{ $image := .Resize "400x" }}
+    <a href="{{ $.RelPermalink }}">
+      <img class="pub-thumb" src="{{ $image.RelPermalink }}" itemprop="image" alt="">
+    </a>
+    {{end}}
+  </div>
+</div>

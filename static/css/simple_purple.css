@@ -61,7 +61,7 @@ h1 {
 }
 
 /* Research area pages: no date line under the title. */
-.article-project .article-metadata { display: none; }
+.article-project h1 + .article-metadata { display: none; }
 
 /* Mobile: smaller logo in the top navigation bar. */
 @media screen and (max-width: 768px) {
