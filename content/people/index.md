@@ -26,6 +26,8 @@ type = "docs"  # Do not modify.
 
 ## Current Members
 
+<div style="clear: both;"></div>
+
 ---
 
 ### Dr. John David Griffiths    
@@ -54,6 +56,8 @@ and psychologists, working on endogenous oscillations and neurophysiology of non
 theory-based work of the group is complemented by novel EEG, fNIRS, TMS, and MRI experiments in healthy
 and patient populations.
 
+<div style="clear: both;"></div>
+
 ---
 
 ### Minarose Ismail  
@@ -61,19 +65,35 @@ and patient populations.
 
 <div align="right"> <img src="/img/minarose_photo.jpg" style="margin:10px 50px 100px 50px" align="right" width="250" /> </div>
 
-She is currently a PhD Student at GriffLab. Prior to this, Minoarose was a summer research student during the summer of 2019. She was a first year undergraduate student at McMaster pursuing a bachelor in Neuroscience with a background in Python coding. Her work was in the field of computational neuroscience and her project dealt with fitting oscillations and one over frequency on MEG data using the FOOOF toolbox to parametrize the power spectra and perform summary analysis.
+Minarose is a PhD student in the Department of Physiology at the University of Toronto, based in Neurosciences & Mental Health at The Hospital for Sick Children. She first joined the lab as a summer research student in 2019. Her research uses personalized whole-brain neurophysiological models of MEG data to study how language lateralization develops in children and adolescents.
+
+<div style="clear: both;"></div>
 
 ---
 
 ### Yupeng Tian
+***Post-Doctoral Fellow***
+
+Yupeng is a postdoctoral fellow affiliated with the University of Toronto Department of Mathematics, the Fields Institute for Research in Mathematical Sciences (as a Program Postdoctoral Fellow in the Thematic Program on the Mathematics of Neuroscience), and the Krembil Centre for Neuroinformatics. Yupeng's research develops mathematical models of calcium-dependent synaptic plasticity to explain and predict the effects of non-invasive brain stimulation, including transcranial magnetic stimulation (TMS) and transcranial focused ultrasound. Before joining the lab, Yupeng worked on computational models of thalamic deep brain stimulation in Dr. Milad Lankarany's lab.
+
+<div style="clear: both;"></div>
 
 ---
 
-### Mohamed Abdelhack
+### Dr. Mohamed Abdelhack
+***Post-Doctoral Fellow***
+
+<div align="right"> <img src="/img/mohamed_abdelhack.jpg" style="margin:10px 50px 100px 50px" align="right" width="200" /> </div>
+
+Mohamed is a postdoctoral fellow at the Krembil Centre for Neuroinformatics, CAMH, who trained at Kyoto University. Mohamed's research applies large-scale statistics, machine learning, and computational modelling to neuroimaging data to understand mental health and psychiatric disorders, including work on the brain signatures of sleep, depression, and cognition in over 30,000 individuals. Mohamed founded Arabs in Neuroscience, has mentored at Neuromatch Academy and the Imbizo computational neuroscience summer school, and received The Neuro's Open Science Prize for international trainees for this mentoring work.
+
+<div style="clear: both;"></div>
 
 ---
 
 ### Jusleen Kaur Mehta
+
+<div style="clear: both;"></div>
 
 ---
 
