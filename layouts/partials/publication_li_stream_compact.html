@@ -8,9 +8,16 @@
 
     <div class="stream-meta article-metadata">
       <div itemprop="author">
-        {{/* Compact (homepage) listing: first author only, "et al." if more. */}}
+        {{/* Compact (homepage) listing: first author surname only, "et al." if more. */}}
         {{ with .Params.authors }}
-        {{- index . 0 | markdownify -}}{{ if gt (len .) 1 }} et al.{{ end -}}
+        {{- $first := index . 0 -}}
+        {{- $surname := "" -}}
+        {{- if in $first "," -}}
+          {{- $surname = trim (index (split $first ",") 0) " " -}}
+        {{- else -}}
+          {{- $surname = index (last 1 (split $first " ")) 0 -}}
+        {{- end -}}
+        {{- $surname | markdownify -}}{{ if gt (len .) 1 }} et al.{{ end -}}
         {{- end -}}
       </div>
       {{/* Site override: show the venue and publication date under the authors. */}}
