@@ -8,7 +8,6 @@ weight = 4
 date = 2019-01-02
 
 # Project summary to display on homepage.
-summary = "Mechanisms of alpha and other brain rhythms in corticothalamic circuits, and how they shift with brain state, age and stimulation."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

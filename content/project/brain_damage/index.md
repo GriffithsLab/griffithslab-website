@@ -8,7 +8,6 @@ date = 2019-01-01
 #date = 2016-04-27T00:00:00
 
 # Project summary to display on homepage.
-summary = "Stroke and neurological disorders: how damage to brain networks alters neural dynamics, cognition and recovery."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

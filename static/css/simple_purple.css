@@ -34,6 +34,13 @@ h1 {
         width: 100%;
         max-width: 400px;
     }
+    /* Clear gap after each entry so its image reads as part of it. */
+    .media.stream-item {
+        margin-bottom: 3.5rem;
+    }
+    .media.stream-item .pub-thumb-wrap {
+        margin-top: 0.75rem;
+    }
 }
 
 /* Showcase lists (homepage Talks & Teaching): keep tall images such as book
@@ -54,9 +61,14 @@ h1 {
 }
 
 /* Research area pages: no date line under the title. */
-.article-project .article-metadata { display: none; }
+.article-project h1 + .article-metadata { display: none; }
 
 /* Mobile: smaller logo in the top navigation bar. */
 @media screen and (max-width: 768px) {
-    .navbar-brand img { max-height: 22px; width: auto; }
+    .navbar-brand img { max-height: 11px; width: auto; }
+}
+
+/* Research area cards: same title height so the grid lines up. */
+@media screen and (min-width: 768px) {
+    #projects .card-text h4 { min-height: 3em; margin-bottom: 0; }
 }

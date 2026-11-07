@@ -8,7 +8,6 @@ weight = 3
 date = 2019-01-02
 
 # Project summary to display on homepage.
-summary = "How the connectome shapes large-scale brain activity, from structure–function coupling to individual differences in cognition."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
