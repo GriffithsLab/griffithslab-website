@@ -5,7 +5,7 @@ date = 2018-01-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Jennifer D Ryan", "Kelly Shen", "Arber Kacollja", "Heather Tian", "John D. Griffiths", "Randy McIntosh"]
+authors = ["Jennifer D. Ryan", "Kelly Shen", "Arber Kacollja", "Heather Tian", "John D. Griffiths", "Anthony R. McIntosh"]
 
 # Publication type.
 # Legend:
@@ -19,8 +19,8 @@ authors = ["Jennifer D Ryan", "Kelly Shen", "Arber Kacollja", "Heather Tian", "J
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "BioArXiv"
-publication_short = "BioArXiv"
+publication = "bioRxiv"
+publication_short = "bioRxiv"
 
 # Abstract and optional shortened version.
 abstract = ""
@@ -64,6 +64,9 @@ tags = []
 #doi = "10.3389/fams.2018.00031"
 
 # Does this page contain LaTeX math? (true/false)
+url_preprint = "https://www.biorxiv.org/content/10.1101/303511v1"
+doi = "https://doi.org/10.1101/303511"
+
 math = true
 
 # Featured image
