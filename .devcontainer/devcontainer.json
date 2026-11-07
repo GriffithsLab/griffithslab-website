@@ -1,0 +1,14 @@
+{
+	"name": "Hugo",
+	"image": "mcr.microsoft.com/devcontainers/base:bullseye",
+	"features": {
+		"ghcr.io/devcontainers/features/hugo:1": {}
+	},
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"rusnasonov.vscode-hugo"
+			]
+		}
+	}
+}
