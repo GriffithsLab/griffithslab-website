@@ -46,9 +46,7 @@ url_custom = [
   {icon_pack = "fab", icon = "youtube", name = "Lecture 7", url = "https://youtu.be/y17tGUu7imQ"},
   {icon_pack = "fab", icon = "youtube", name = "Lecture 8", url = "https://youtu.be/YPLJA8SpSNg"},
   {icon_pack = "fab", icon = "youtube", name = "Lecture 9", url = "https://youtu.be/-JyDbdqi6Zw"},
-  {icon_pack = "fab", icon = "youtube", name = "Lecture 10", url = "https://youtu.be/ygOg-QFHbo8"},
-  {icon_pack = "fab", icon = "github", name = "Github repo", url = "https://github.com/krembilneuroinformatics/kcni-school-lessons/tree/master/day5"},
-  {icon_pack = "fab", icon = "", name = "KCNI School Site", url = "kcnischool.org"}
+  {icon_pack = "fab", icon = "youtube", name = "Lecture 10", url = "https://youtu.be/ygOg-QFHbo8"}
 ]
 
 # Featured image
