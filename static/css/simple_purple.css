@@ -34,6 +34,13 @@ h1 {
         width: 100%;
         max-width: 400px;
     }
+    /* Clear gap after each entry so its image reads as part of it. */
+    .media.stream-item {
+        margin-bottom: 3.5rem;
+    }
+    .media.stream-item .pub-thumb-wrap {
+        margin-top: 0.75rem;
+    }
 }
 
 /* Showcase lists (homepage Talks & Teaching): keep tall images such as book
