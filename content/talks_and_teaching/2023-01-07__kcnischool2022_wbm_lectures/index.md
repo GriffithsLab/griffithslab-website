@@ -38,7 +38,7 @@ external_link = ""
 url_custom = [{icon_pack = "fab", icon="youtube", name="Video recording Part 1", url="https://youtu.be/1LpH3gQ-UX0"},
               {icon_pack = "fab", icon="youtube", name="Video recording Part 2", url="https://youtu.be/EapY9R_yHbU"},
               {icon_pack = "fab", icon="github", name="Github repo", url="https://github.com/krembilneuroinformatics/kcni-school-lessons/tree/master/day5"},
-              {icon_pack = "fab", icon="", name="KCNI School Site", url="kcnischool.org"}]
+              {icon_pack = "fab", icon="", name="KCNI School Site", url="https://kcnischool.org/"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project''s folder. 

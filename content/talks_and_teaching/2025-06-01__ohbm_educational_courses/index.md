@@ -19,8 +19,8 @@ url_custom = [
   {icon_pack = "fas", icon = "globe", name = "2025 course site", url = "https://davi1990.github.io/OHBM2025-NFT-Course/"},
   {icon_pack = "fab", icon = "github", name = "2025 repo", url = "https://github.com/GriffithsLab/OHBM2025-NFT-Course"},
   {icon_pack = "fas", icon = "globe", name = "2024 course site", url = "https://griffithslab.github.io/OHBM2024-educational-course/"},
-  {icon_pack = "fas", icon = "globe", name = "2023 course site", url = "https://griffithslab.github.io/OHBM-whole-brain-modelling-course/"},
-  {icon_pack = "fab", icon = "github", name = "2023 repo", url = "https://github.com/GriffithsLab/OHBM-whole-brain-modelling-course"}
+  {icon_pack = "fas", icon = "globe", name = "2023 course site", url = "https://griffithslab.github.io/OHBM2023-educational-course/"},
+  {icon_pack = "fab", icon = "github", name = "2023 repo", url = "https://github.com/GriffithsLab/OHBM2023-educational-course"}
 ]
 
 [image]
@@ -47,5 +47,5 @@ One-day educational course at OHBM 2024, Seoul, South Korea. JG was lead instruc
 One-day educational course at OHBM 2023, Montreal, Canada, organized by Davide Momi, John Griffiths and
 Joana Cabral. JG was lead instructor and course developer. Sections covered background and theory,
 systems/cognitive applications, and clinical applications, each followed by a hands-on session.
-[Course site](https://griffithslab.github.io/OHBM-whole-brain-modelling-course/) ·
-[GitHub repo](https://github.com/GriffithsLab/OHBM-whole-brain-modelling-course)
+[Course site](https://griffithslab.github.io/OHBM2023-educational-course/) ·
+[GitHub repo](https://github.com/GriffithsLab/OHBM2023-educational-course)

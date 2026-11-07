@@ -36,6 +36,7 @@ external_link = ""
 #url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/georgecushen"}]
 
 url_custom = [
+  {icon_pack = "fas", icon = "globe", name = "Course page", url = "https://www.fields.utoronto.ca/activities/24-25/SGC-neuro"},
   {icon_pack = "fab", icon = "youtube", name = "Playlist", url = "https://www.youtube.com/playlist?list=PLR36b4Rn9PqRMbI_uhBqK6mjJr6Q2tAwI"},
   {icon_pack = "fab", icon = "youtube", name = "Lecture 1", url = "https://youtu.be/jvKOgvTRvg4"},
   {icon_pack = "fab", icon = "youtube", name = "Lecture 2", url = "https://youtu.be/6NW7gXSUnQU"},
