@@ -7,9 +7,10 @@
     </h3>
 
     <div class="stream-meta article-metadata">
-      <div itemprop="author">
-        {{/* Compact (homepage) listing: first author surname only, "et al." if more. */}}
-        {{ with .Params.authors }}
+      {{/* Author, journal and date on one line. */}}
+      <div class="pub-venue-date">
+        {{ with .Params.authors -}}
+        <span itemprop="author">
         {{- $first := index . 0 -}}
         {{- $surname := "" -}}
         {{- if in $first "," -}}
@@ -18,10 +19,9 @@
           {{- $surname = index (last 1 (split $first " ")) 0 -}}
         {{- end -}}
         {{- $surname | markdownify -}}{{ if gt (len .) 1 }} et al.{{ end -}}
+        </span>
+        {{- if or $.Params.publication (not $.Date.IsZero) }} · {{ end -}}
         {{- end -}}
-      </div>
-      {{/* Site override: show the venue and publication date under the authors. */}}
-      <div class="pub-venue-date">
         {{ with .Params.publication }}<strong><em itemprop="isPartOf">{{ . | markdownify }}</em></strong>{{ end }}
         {{- if and .Params.publication (not .Date.IsZero) }} · {{ end -}}
         {{ if not .Date.IsZero }}
