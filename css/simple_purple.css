@@ -11,3 +11,27 @@ h1 {
     /* font-weight: bold; */
 }
 
+
+/* Publication list thumbnails: 150px beside the text on desktop; on mobile,
+   stacked below the text, centred and wider so they're legible. Selectors are
+   specific enough to beat the theme's ".media.stream-item img" max-width caps. */
+.media.stream-item img.pub-thumb {
+    width: 150px;
+    max-width: 150px;
+}
+
+@media screen and (max-width: 768px) {
+    .media.stream-item {
+        flex-direction: column;
+    }
+    .media.stream-item .pub-thumb-wrap {
+        margin-left: 0 !important;
+        margin-top: 1rem;
+        width: 100%;
+        text-align: center;
+    }
+    .media.stream-item img.pub-thumb {
+        width: 100%;
+        max-width: 400px;
+    }
+}
