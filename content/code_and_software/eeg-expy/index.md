@@ -1,6 +1,7 @@
 +++
 # Project title.
-title = "eeg-notebooks"
+title = "EEG-ExPy"
+aliases = ["/code_and_software/eeg-notebooks/"]
 
 # Date this page was created.
 #date = 2016-04-27T00:00:00
@@ -51,12 +52,12 @@ url_code = ""
 
 <img src="/img/eeg-notebooks_montage.png" align="right" margin="15px 15px 15px 15px" width="300" /> 
 
-[eeg-notebooks](https://github.com/NeuroTechX/eeg-notebooks) is a python-based software library that provides a simple end-to-end platform for conducting cognitive neuroscience experiments using consumer-grade EEG technology. It emerged out of the close relationship between our good friends at [NeuroTechX](https://neurotechx.com/) and other other good friends at InterAxon (just down the road from CAMH). Using eeg-notebooks together with a standard laptop computer and ~$200 EEG headset such as the Interaxon MUSE, one can conduct high-quality event-related potential (ERP) experiments that traditionally require research-grade equipment costing tens of thousands of dollars.  This opens up the door to a myriad of exciting neuroscience research and education possibilities. 
+[EEG-ExPy](https://github.com/NeuroTechX/EEG-ExPy) (formerly *eeg-notebooks*) is a python-based software library that provides a simple end-to-end platform for conducting cognitive neuroscience experiments using consumer-grade EEG technology. It emerged out of the close relationship between our good friends at [NeuroTechX](https://neurotechx.com/) and other good friends at InterAxon (just down the road from CAMH). Using EEG-ExPy together with a standard laptop computer and ~$200 EEG headset such as the Interaxon MUSE, one can conduct high-quality event-related potential (ERP) experiments that traditionally require research-grade equipment costing tens of thousands of dollars.  This opens up the door to a myriad of exciting neuroscience research and education possibilities. 
 
 {{< tweet 988410404295426048 >}}
 
 
-One of these, which we have been closely involved in, is using eeg-notebooks as a vehicle for STEM (Science, Technology, Engineering, Mathematics) education in high-schools. This has been spearheaded in Toronto by the Rotman-Baycrest based initiative [NeuroBRITE](https://www.baycrest.org/Baycrest-Pages/News-Media/News/Research/next-generation-of-cognitive-neuroscientists), and in New York by the [brainwaves](https://wp.nyu.edu/brainwaves/) project.
+One of these, which we have been closely involved in, is using EEG-ExPy as a vehicle for STEM (Science, Technology, Engineering, Mathematics) education in high-schools. This has been spearheaded in Toronto by the Rotman-Baycrest based initiative [NeuroBRITE](https://www.baycrest.org/Baycrest-Pages/News-Media/News/Research/next-generation-of-cognitive-neuroscientists), and in New York by the [brainwaves](https://wp.nyu.edu/brainwaves/) project.
 
 
 
