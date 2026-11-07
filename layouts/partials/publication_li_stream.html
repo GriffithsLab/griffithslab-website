@@ -42,12 +42,13 @@
     </div>
 
   </div>
-  <div class="ml-3">
+  <div class="ml-3 pub-thumb-wrap">
     {{ $resource := (.Resources.ByType "image").GetMatch "*featured*" }}
     {{ with $resource }}
-    {{ $image := .Resize "150x" }}
+    {{/* Site override: larger source so the thumbnail stays sharp when shown full-width on mobile (see simple_purple.css). */}}
+    {{ $image := .Resize "400x" }}
     <a href="{{ $.RelPermalink }}">
-      <img src="{{ $image.RelPermalink }}" itemprop="image">
+      <img class="pub-thumb" src="{{ $image.RelPermalink }}" itemprop="image" alt="">
     </a>
     {{end}}
   </div>
