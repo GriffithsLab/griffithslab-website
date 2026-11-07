@@ -49,7 +49,7 @@ url_custom = [{icon_pack = "fab", icon="url", name="NBN Webpage", url="https://n
 +++
 
 
-<div align="center"> <img src="featured.jpg" margin="15px 15px 15px 15px" width="1800" /> </div>
+<div align="center"> <img src="featured.jpg" margin="15px 15px 15px 15px" width="320" /> </div>
 
 <br>
 

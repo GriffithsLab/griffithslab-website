@@ -35,3 +35,20 @@ h1 {
         max-width: 400px;
     }
 }
+
+/* Showcase lists (homepage Talks & Teaching): keep tall images such as book
+   covers from dominating the page, especially on mobile. */
+.project-showcase .project-item img {
+    max-height: 360px;
+    width: auto;
+    max-width: 100%;
+    display: block;
+    margin: 0 auto;
+}
+
+@media screen and (max-width: 768px) {
+    .project-showcase .project-item img {
+        max-height: 240px;
+        margin-bottom: 1rem;
+    }
+}
