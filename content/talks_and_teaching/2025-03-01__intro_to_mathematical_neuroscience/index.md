@@ -36,6 +36,7 @@ external_link = ""
 #url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/georgecushen"}]
 
 url_custom = [
+  {icon_pack = "fas", icon = "globe", name = "Course page", url = "https://www.fields.utoronto.ca/activities/24-25/SGC-neuro"},
   {icon_pack = "fab", icon = "youtube", name = "Playlist", url = "https://www.youtube.com/playlist?list=PLR36b4Rn9PqRMbI_uhBqK6mjJr6Q2tAwI"},
   {icon_pack = "fab", icon = "youtube", name = "Lecture 1", url = "https://youtu.be/jvKOgvTRvg4"},
   {icon_pack = "fab", icon = "youtube", name = "Lecture 2", url = "https://youtu.be/6NW7gXSUnQU"},
@@ -46,9 +47,7 @@ url_custom = [
   {icon_pack = "fab", icon = "youtube", name = "Lecture 7", url = "https://youtu.be/y17tGUu7imQ"},
   {icon_pack = "fab", icon = "youtube", name = "Lecture 8", url = "https://youtu.be/YPLJA8SpSNg"},
   {icon_pack = "fab", icon = "youtube", name = "Lecture 9", url = "https://youtu.be/-JyDbdqi6Zw"},
-  {icon_pack = "fab", icon = "youtube", name = "Lecture 10", url = "https://youtu.be/ygOg-QFHbo8"},
-  {icon_pack = "fab", icon = "github", name = "Github repo", url = "https://github.com/krembilneuroinformatics/kcni-school-lessons/tree/master/day5"},
-  {icon_pack = "fab", icon = "", name = "KCNI School Site", url = "kcnischool.org"}
+  {icon_pack = "fab", icon = "youtube", name = "Lecture 10", url = "https://youtu.be/ygOg-QFHbo8"}
 ]
 
 # Featured image

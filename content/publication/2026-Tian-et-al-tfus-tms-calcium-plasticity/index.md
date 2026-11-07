@@ -21,6 +21,7 @@ tags = ["brain stimulation", "TMS", "TUS", "neural plasticity", "computational m
 
 # Links. Avoid url_pdf for external URLs: the theme turns it into a broken relative link.
 url_pdf = "https://raw.githubusercontent.com/GriffithsLab/griffithslab-papers/main/Tian%20et%20al.%202026%20-%20Unifying%20transcranial%20focused%20ultrasound%20and%20transcra%20...%20stimulation%20effects%20with%20calcium-dependent%20synaptic%20plasticity%20theory.pdf"
+url_code = "https://github.com/GriffithsLab/TianEtAl2026_UnifyingTFUS-TMS-Plasticity"
 url_preprint = "https://www.biorxiv.org/content/10.64898/2026.07.09.737614v2"
 
 doi = "https://doi.org/10.64898/2026.07.09.737614"

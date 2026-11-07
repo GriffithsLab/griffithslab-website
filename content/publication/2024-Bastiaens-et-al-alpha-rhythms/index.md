@@ -46,7 +46,7 @@ tags = []
 # Links (optional).
 #url_pdf = "#"
 #url_preprint = "https://www.biorxiv.org/content/10.1101/2024.03.01.583035v1"
-url_code = "https://github.com/GriffithsLab/Bastiaens2024_AlphaModels"
+url_code = "https://github.com/GriffithsLab/Bastiaens2025_AlphaModels"
 #url_dataset = "#"
 #url_project = ""
 #url_slides = "#"
