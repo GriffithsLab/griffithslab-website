@@ -12,7 +12,6 @@ showFooter = false
 
 
 # Project summary to display on homepage.
-summary = "Whole-brain, neural mass and neural field models, and the mathematical and computational tools for fitting them to neuroimaging data."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

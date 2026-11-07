@@ -67,3 +67,8 @@ h1 {
 @media screen and (max-width: 768px) {
     .navbar-brand img { max-height: 11px; width: auto; }
 }
+
+/* Research area cards: same title height so the grid lines up. */
+@media screen and (min-width: 768px) {
+    #projects .card-text h4 { min-height: 3em; margin-bottom: 0; }
+}

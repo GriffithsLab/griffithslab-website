@@ -9,7 +9,6 @@ date = 2019-01-02
 
 
 # Project summary to display on homepage.
-summary = "Modelling how TMS, tFUS and other brain stimulation techniques act on neural circuits, and using this to design better therapeutic protocols."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
