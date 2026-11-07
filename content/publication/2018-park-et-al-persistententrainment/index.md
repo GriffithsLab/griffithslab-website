@@ -61,6 +61,7 @@ tags = []
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 #url_custom = [{name = "Custom Link", url = "http://example.org"}]
+url_pdf = "https://raw.githubusercontent.com/GriffithsLab/griffithslab-papers/main/Park%20et%20al.%202018%20-%20Persistent%20entrainment%20in%20non-linear%20neural%20networks%20with%20memory.pdf"
 url_custom = [{name = "url", url = "https://www.frontiersin.org/articles/10.3389/fams.2018.00031/full"}]
 
 # Digital Object Identifier (DOI)

@@ -59,6 +59,7 @@ url_code = "https://github.com/GriffithsLab/Bastiaens2024_AlphaModels"
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 #url_custom = [{name = "Custom Link", url = "http://example.org"}]
+url_pdf = "https://raw.githubusercontent.com/GriffithsLab/griffithslab-papers/main/Bastiaens%20et%20al.%202025%20-%20A%20comprehensive%20investigation%20of%20intracortical%20and%20corticothalamic%20models%20of%20the%20alpha%20rhythm.pdf"
 url_custom = [{name = "url", url = "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012926"}]
 
 #url_custom = [{name = "PDF", url = "https://tinyurl.com/4etcdste"}]

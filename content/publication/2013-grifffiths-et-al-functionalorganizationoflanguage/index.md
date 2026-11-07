@@ -58,6 +58,7 @@ tags = []
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 #url_custom = [{name = "Custom Link", url = "http://example.org"}]
+url_pdf = "https://raw.githubusercontent.com/GriffithsLab/griffithslab-papers/main/Griffiths%20et%20al.%202013%20-%20Functional%20organization%20of%20the%20neural%20language%20system%20-%20dorsal%20and%20ventral%20pathways%20are%20critical%20for%20syntax.pdf"
 url_custom = [{name = "url", url = "https://academic.oup.com/cercor/article/23/1/139/330791"}]
 
 # Digital Object Identifier (DOI)

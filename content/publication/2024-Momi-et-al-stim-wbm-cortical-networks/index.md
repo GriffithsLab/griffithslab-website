@@ -44,7 +44,7 @@ projects = ["Neuromodulation", "Connectomics"]
 tags = []
 
 # Links (optional).
-url_pdf ="https://www.nature.com/articles/s41467-025-58187-6.pdf"
+url_pdf = "https://raw.githubusercontent.com/GriffithsLab/griffithslab-papers/main/Momi%20et%20al.%202025%20-%20Stimulation%20mapping%20and%20whole-brain%20modeling%20reveal%20gradients%20of%20excitability%20and%20recurrence%20in%20cortical%20networks.pdf"
 
 #url_preprint = "https://www.biorxiv.org/content/10.1101/2024.02.26.581277v1"
 url_code = "https://github.com/GriffithsLab/Momi_et_al_2024"

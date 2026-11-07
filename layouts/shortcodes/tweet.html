@@ -1,0 +1,6 @@
+{{- /* Overrides Hugo's built-in tweet shortcode, which calls the retired Twitter v1 oEmbed API at build time and fails the build. */ -}}
+{{- $id := .Get 0 -}}
+<blockquote class="twitter-tweet" data-dnt="true" style="display:inline-block;text-align:left">
+  <a href="https://twitter.com/i/status/{{ $id }}">View this post on X (Twitter)</a>
+</blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

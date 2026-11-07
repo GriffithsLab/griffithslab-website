@@ -48,7 +48,7 @@ projects = ["brain_rhythms", "brain_stimulation"]
 tags = []
 
 # Links (optional).
-url_pdf = "https://tinyurl.com/utt3fvyn"
+url_pdf = "https://raw.githubusercontent.com/GriffithsLab/griffithslab-papers/main/Griffiths%20and%20Lefebvre%202019%20-%20Shaping%20brain%20rhythms%20-%20dynamic%20and%20contro%20...%20on%20periodic%20brain%20stimulation%20for%20treatment%20of%20neurological%20disorders.pdf"
 #url_preprint = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
 #url_code = "#"
 #url_dataset = "#"
