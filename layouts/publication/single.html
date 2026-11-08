@@ -13,7 +13,7 @@
 
     {{/* Site override: key figures from the paper (front matter `key_figures`), shown after the abstract. */}}
     {{ with .Params.key_figures }}
-    <h3>Key figures</h3>
+    <h3>Teaser Figs</h3>
     <div class="pub-key-figures">
       {{ range . }}
       {{ $img := $.Resources.GetMatch .file }}
