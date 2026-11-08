@@ -39,15 +39,6 @@
   {{ i18n "btn_cite" }}
 </button>
 {{ end }}
-{{ with $.Params.url_code }}
-{{ $link := . }}
-{{ if not (urls.Parse .).Scheme }}
-{{ $link = (printf "%s%s" $.Dir .) | relURL }}
-{{ end }}
-<a class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}}" href="{{ $link }}" target="_blank" rel="noopener">
-  {{ i18n "btn_code" }}
-</a>
-{{ end }}
 {{ with $.Params.url_dataset }}
 {{ $link := . }}
 {{ if not (urls.Parse .).Scheme }}
@@ -132,4 +123,14 @@
     {{ if .icon }}<i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }} {{if .name}}mr-1{{end}}"></i>{{end}}
     {{ with .name }}{{ . | safeHTML }}{{end}}
   </a>
+{{ end }}
+{{/* Site override: Code always last, after the links to the paper itself. */}}
+{{ with $.Params.url_code }}
+{{ $link := . }}
+{{ if not (urls.Parse .).Scheme }}
+{{ $link = (printf "%s%s" $.Dir .) | relURL }}
+{{ end }}
+<a class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}}" href="{{ $link }}" target="_blank" rel="noopener">
+  {{ i18n "btn_code" }}
+</a>
 {{ end }}
