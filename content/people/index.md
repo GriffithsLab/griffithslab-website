@@ -69,8 +69,10 @@ Minarose is a PhD student in the Department of Physiology at the University of T
 
 ---
 
-### Yupeng Tian
+### [Yupeng Tian](https://www.linkedin.com/in/yupeng-tian-4425b9121/)
 ***Post-Doctoral Fellow***
+
+<img class="person-photo" src="/img/yupeng_tian.jpg" alt="Yupeng Tian" />
 
 Yupeng is a postdoctoral fellow affiliated with the University of Toronto Department of Mathematics, the Fields Institute for Research in Mathematical Sciences (as a Program Postdoctoral Fellow in the Thematic Program on the Mathematics of Neuroscience), and the Krembil Centre for Neuroinformatics. Yupeng's research develops mathematical models of calcium-dependent synaptic plasticity to explain and predict the effects of non-invasive brain stimulation, including transcranial magnetic stimulation (TMS) and transcranial focused ultrasound. Before joining the lab, Yupeng worked on computational models of thalamic deep brain stimulation in Dr. Milad Lankarany's lab.
 
