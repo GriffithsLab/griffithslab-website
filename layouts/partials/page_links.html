@@ -1,6 +1,10 @@
 {{ $is_list := .is_list }}
 {{ $ := .content }}
 
+{{/* Site override: hide the Preprint button once the paper is published in a journal (venue is not a preprint server). */}}
+{{ $venue := lower (string ($.Params.publication | default "")) }}
+{{ $is_preprint := or (eq $venue "") (in $venue "rxiv") (in $venue "preprint") }}
+{{ if $is_preprint }}
 {{ with $.Params.url_preprint }}
 {{ $link := . }}
 {{ if not (urls.Parse .).Scheme }}
@@ -9,6 +13,7 @@
 <a class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}}" href="{{ $link }}" target="_blank" rel="noopener">
   {{ i18n "btn_preprint" }}
 </a>
+{{ end }}
 {{ end }}
 {{ $pdf := "" }}
 {{ $slug := "" }}
