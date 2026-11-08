@@ -37,13 +37,7 @@
   {{ i18n "btn_pdf" }}
 </a>
 {{ end }}
-{{ $resource := $.Resources.GetMatch "*.bib" }}
-{{ with $resource }}
-<button type="button" class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}} js-cite-modal"
-        data-filename="{{ .RelPermalink }}">
-  {{ i18n "btn_cite" }}
-</button>
-{{ end }}
+{{/* Site override: no Cite button. */}}
 {{ with $.Params.url_dataset }}
 {{ $link := . }}
 {{ if not (urls.Parse .).Scheme }}
@@ -110,7 +104,9 @@
   DOI
 </a>
 {{ end }}
+{{/* Site override: skip a generic "url" link when the paper has a DOI; always label DOI links in capitals. */}}
 {{ range $.Params.url_custom }}
+  {{ if not (and $.Params.doi (eq (lower .name) "url")) }}
   {{ $pack := or .icon_pack "fas" }}
   {{ $pack_prefix := $pack }}
   {{ if in (slice "fab" "fas" "far" "fal") $pack }}
@@ -126,8 +122,9 @@
   {{ end }}
   <a class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}}" href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }}>
     {{ if .icon }}<i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }} {{if .name}}mr-1{{end}}"></i>{{end}}
-    {{ with .name }}{{ . | safeHTML }}{{end}}
+    {{ with .name }}{{ if eq (lower .) "doi" }}DOI{{ else }}{{ . | safeHTML }}{{ end }}{{end}}
   </a>
+  {{ end }}
 {{ end }}
 {{/* Site override: Code always last, after the links to the paper itself. */}}
 {{ with $.Params.url_code }}
