@@ -98,3 +98,20 @@ h1 {
         margin: 0.5rem auto 1.25rem;
     }
 }
+
+/* Publication pages: featured image shown in full (not cropped). */
+.pub-featured-full .article-banner {
+    display: block;
+    width: auto;
+    max-width: 100%;
+    max-height: 70vh;
+    margin: 1rem auto 0;
+}
+.pub-featured-full .split-header-image img {
+    display: block;
+    width: 100%;
+    height: auto;
+    max-height: 80vh;
+    object-fit: contain;
+}
+.split-header.pub-featured-full { padding-top: 1.5rem; }
