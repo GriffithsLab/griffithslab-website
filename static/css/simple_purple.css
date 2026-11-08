@@ -78,3 +78,40 @@ h1 {
 .pub-key-figure { margin: 0 0 2.5rem; }
 .pub .pub-key-figure img { display: block; width: 100%; max-width: 100%; height: auto; margin: 0 auto; }
 .pub-key-figure figcaption { font-size: 0.85rem; line-height: 1.5; margin-top: 0.75rem; opacity: 0.9; }
+
+/* People page: consistent photo size (cropped to the same frame). */
+.person-photo {
+    float: right;
+    width: 220px;
+    height: 260px;
+    object-fit: cover;
+    object-position: center top;
+    border-radius: 4px;
+    margin: 0 0 1rem 1.5rem;
+}
+@media screen and (max-width: 768px) {
+    .person-photo {
+        float: none;
+        display: block;
+        width: 180px;
+        height: 213px;
+        margin: 0.5rem auto 1.25rem;
+    }
+}
+
+/* Publication pages: featured image shown in full (not cropped). */
+.pub-featured-full .article-banner {
+    display: block;
+    width: auto;
+    max-width: 100%;
+    max-height: 70vh;
+    margin: 1rem auto 0;
+}
+.pub-featured-full .split-header-image img {
+    display: block;
+    width: 100%;
+    height: auto;
+    max-height: 80vh;
+    object-fit: contain;
+}
+.split-header.pub-featured-full { padding-top: 1.5rem; }
