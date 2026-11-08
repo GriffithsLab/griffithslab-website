@@ -77,5 +77,22 @@ math = true
 #  Focal point (optional)
 #  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "BottomLeft"
+
+# Key figures from the paper, shown after the abstract (paraphrased captions).
+[[key_figures]]
+  number = 2
+  file = "keyfig2.jpg"
+  caption = "Sleep architecture and EEG spectral features (1/f exponents and band power) compared across five sleep datasets, from research-grade to mobile EEG."
+
+[[key_figures]]
+  number = 3
+  file = "keyfig3.jpg"
+  caption = "Corticothalamic model parameters across sleep stages: fitted spectra match the empirical ones, and the cortico-cortical, corticothalamic and intrathalamic gains (x, y, z) shift systematically from wake to deep sleep."
+
+[[key_figures]]
+  number = 5
+  file = "keyfig5.jpg"
+  caption = "Repeated-night mobile EEG: model parameters track nights with healthy versus abnormal REM sleep in individual users."
+
 +++
 

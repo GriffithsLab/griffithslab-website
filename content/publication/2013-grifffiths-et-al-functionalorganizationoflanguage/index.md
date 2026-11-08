@@ -76,4 +76,21 @@ math = true
 #  # Focal point (optional)
 #  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 #  focal_point = ""
+
+# Key figures from the paper, shown after the abstract (paraphrased captions).
+[[key_figures]]
+  number = 1
+  file = "keyfig1.jpg"
+  caption = "Lesion overlap across the stroke patient group, shown on axial slices; colour indicates how many patients had damage at each location."
+
+[[key_figures]]
+  number = 2
+  file = "keyfig2.jpg"
+  caption = "Regions engaged during syntactic processing in fMRI (left posterior middle temporal gyrus and two left inferior frontal clusters, BA44 and BA45), which served as seeds for tractography."
+
+[[key_figures]]
+  number = 6
+  file = "keyfig6.jpg"
+  caption = "White matter integrity (FA and MD) in the dorsal arcuate fasciculus and ventral extreme capsule pathways for controls and each patient group, matching the individual tractography findings."
+
 +++

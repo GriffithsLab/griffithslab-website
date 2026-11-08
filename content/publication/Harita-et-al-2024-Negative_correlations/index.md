@@ -77,6 +77,23 @@ math = true
 #  Focal point (optional)
 #  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "BottomLeft"
+
+# Key figures from the paper, shown after the abstract (paraphrased captions).
+[[key_figures]]
+  number = 1
+  file = "keyfig1.jpg"
+  caption = "Model fit to empirical data, and how increasing inhibition changes the number of negative correlations in simulated functional connectivity."
+
+[[key_figures]]
+  number = 2
+  file = "keyfig2.jpg"
+  caption = "Increasing inhibition shifts the distribution of simulated functional connectivity, producing more negative and fewer positive correlations."
+
+[[key_figures]]
+  number = 3
+  file = "keyfig3.jpg"
+  caption = "Excitation and inhibition have different effects on model stability and on negative correlations."
+
 +++
 
 

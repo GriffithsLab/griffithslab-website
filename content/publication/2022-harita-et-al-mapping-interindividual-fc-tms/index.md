@@ -77,4 +77,21 @@ math = true
 #  Focal point (optional)
 #  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "BottomLeft"
+
+# Key figures from the paper, shown after the abstract (paraphrased captions).
+[[key_figures]]
+  number = 2
+  file = "keyfig2.jpg"
+  caption = "Effect of individual cortical geometry: subject-specific E-fields from dlPFC and OFC targets engage different functional networks across 121 subjects, mainly the ventral attention, frontoparietal and default mode networks for dlPFC, and frontoparietal and default mode networks for OFC."
+
+[[key_figures]]
+  number = 3
+  file = "keyfig3.jpg"
+  caption = "Effect of individual functional connectivity: even with a fixed E-field, the networks engaged vary across subjects when each subject's own connectivity is used."
+
+[[key_figures]]
+  number = 4
+  file = "keyfig4.jpg"
+  caption = "Combining individual geometry and individual connectivity: the networks reached by stimulation vary substantially between subjects, supporting personalised TMS targeting."
+
 +++

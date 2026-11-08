@@ -77,4 +77,21 @@ math = true
 #  Focal point (optional)
 #  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Smart"
+
+# Key figures from the paper, shown after the abstract (paraphrased captions).
+[[key_figures]]
+  number = 2
+  file = "keyfig2.jpg"
+  caption = "Simulated versus empirical TMS-EEG: the personalised models reproduce each subject's evoked potentials and scalp topographies, with high correlations across subjects."
+
+[[key_figures]]
+  number = 4
+  file = "keyfig4.jpg"
+  caption = "Virtual lesions: cutting recurrent connections from the stimulated region early on (20 and 50 ms after the pulse) suppresses later evoked activity, showing that late TMS-evoked potentials depend on network recurrence."
+
+[[key_figures]]
+  number = 6
+  file = "keyfig6.jpg"
+  caption = "Workflow for subject-specific connectome-based modelling of TMS-EEG: tractography-based connectome, neural mass model, forward model to EEG, and gradient-based fitting to each subject's evoked responses."
+
 +++

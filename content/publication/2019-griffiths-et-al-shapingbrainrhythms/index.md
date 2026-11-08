@@ -80,4 +80,16 @@ math = true
 #  # Focal point (optional)
 #  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 #  focal_point = ""
+
+# Key figures from the paper, shown after the abstract (paraphrased captions).
+[[key_figures]]
+  number = 1
+  file = "keyfig1.jpg"
+  caption = "The thalamocortical model: cortical excitatory and inhibitory populations interact with thalamic relay and reticular nuclei through a delayed feedback loop, with periodic stimulation applied to the cortex."
+
+[[key_figures]]
+  number = 3
+  file = "keyfig3.jpg"
+  caption = "Entrainment in rest and task states: the dominant response frequency (a) and amplitude (b) as stimulation frequency and amplitude vary, revealing Arnold tongues and resonance centred on the circuit's natural frequency."
+
 +++

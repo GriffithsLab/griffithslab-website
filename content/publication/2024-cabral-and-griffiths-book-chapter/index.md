@@ -79,5 +79,17 @@ math = true
 #  Focal point (optional)
 #  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "BottomLeft"
+
+# Key figures from the paper, shown after the abstract (paraphrased captions).
+[[key_figures]]
+  number = 2
+  file = "keyfig2.jpg"
+  caption = "Examples of modelling brain stimulation with network models: TMS, transcranial electrical stimulation, and sensory or optogenetic stimulation."
+
+[[key_figures]]
+  number = 3
+  file = "keyfig3.jpg"
+  caption = "Modelling neuromodulation and pharmacology: local dynamics scaled by receptor, gene-expression or neurotransmitter maps, and the resulting effects on simulated brain activity."
+
 +++
 

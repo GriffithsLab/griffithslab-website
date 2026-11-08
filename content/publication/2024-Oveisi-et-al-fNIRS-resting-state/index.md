@@ -77,5 +77,22 @@ math = true
 #  Focal point (optional)
 #  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "BottomLeft"
+
+# Key figures from the paper, shown after the abstract (paraphrased captions).
+[[key_figures]]
+  number = 1
+  file = "keyfig1.jpg"
+  caption = "Study design: repeated resting-state recordings with the Kernel Flow HD-DOT TD-fNIRS device over six days, followed by preprocessing, parcellation, and validity and reliability analyses."
+
+[[key_figures]]
+  number = 3
+  file = "keyfig3.jpg"
+  caption = "Within- versus between-network functional connectivity contrast for each resting-state network measured with TD-fNIRS."
+
+[[key_figures]]
+  number = 4
+  file = "keyfig4.jpg"
+  caption = "Stability of functional connectivity patterns: strong within-subject consistency within and across days, and lower similarity between subjects."
+
 +++
 

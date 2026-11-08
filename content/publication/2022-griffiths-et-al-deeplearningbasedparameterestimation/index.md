@@ -76,4 +76,21 @@ math = true
 #  Focal point (optional)
 #  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "BottomLeft"
+
+# Key figures from the paper, shown after the abstract (paraphrased captions).
+[[key_figures]]
+  number = 2
+  file = "keyfig2.jpg"
+  caption = "Bifurcation analysis of a single reduced Wong-Wang node, used to identify sensible parameter ranges for model fitting."
+
+[[key_figures]]
+  number = 3
+  file = "keyfig3.jpg"
+  caption = "Validation on synthetic data: fitted models recover the ground-truth anatomical and functional connectivity, and the model parameters, across 50 synthetic subjects."
+
+[[key_figures]]
+  number = 4
+  file = "keyfig4.jpg"
+  caption = "Fits to Human Connectome Project data for example subjects: empirical versus estimated connectivity matrices, and empirical versus simulated seed-based functional connectivity for a precuneus seed."
+
 +++

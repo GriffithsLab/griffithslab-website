@@ -28,4 +28,16 @@ math = false
 
 [image]
   focal_point = ""
+
+# Key figures from the paper, shown after the abstract (paraphrased captions).
+[[key_figures]]
+  number = 1
+  file = "keyfig1.jpg"
+  caption = "Bifurcation curves of a single-region Jansen-Rit model, showing how oscillation amplitude changes with external input to the pyramidal, excitatory and inhibitory populations."
+
+[[key_figures]]
+  number = 2
+  file = "keyfig2.jpg"
+  caption = "Lyapunov exponent map of the single-region Jansen-Rit model across inputs to the excitatory and inhibitory populations, separating stable from oscillatory and unstable regimes."
+
 +++
