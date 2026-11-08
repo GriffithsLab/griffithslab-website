@@ -1,20 +1,6 @@
 {{ $is_list := .is_list }}
 {{ $ := .content }}
 
-{{/* Site override: hide the Preprint button once the paper is published in a journal (venue is not a preprint server). */}}
-{{ $venue := lower (string ($.Params.publication | default "")) }}
-{{ $is_preprint := or (eq $venue "") (in $venue "rxiv") (in $venue "preprint") }}
-{{ if $is_preprint }}
-{{ with $.Params.url_preprint }}
-{{ $link := . }}
-{{ if not (urls.Parse .).Scheme }}
-{{ $link = (printf "%s%s" $.Dir .) | relURL }}
-{{ end }}
-<a class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}}" href="{{ $link }}" target="_blank" rel="noopener">
-  {{ i18n "btn_preprint" }}
-</a>
-{{ end }}
-{{ end }}
 {{ $pdf := "" }}
 {{ $slug := "" }}
 {{ if eq $.File.TranslationBaseName "index" }}{{/* Check if using dir-based page bundles. */}}
@@ -36,6 +22,20 @@
 <a class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}}" href="{{ . }}" target="_blank" rel="noopener">
   {{ i18n "btn_pdf" }}
 </a>
+{{ end }}
+{{/* Site override: hide the Preprint button once the paper is published in a journal (venue is not a preprint server). */}}
+{{ $venue := lower (string ($.Params.publication | default "")) }}
+{{ $is_preprint := or (eq $venue "") (in $venue "rxiv") (in $venue "preprint") }}
+{{ if $is_preprint }}
+{{ with $.Params.url_preprint }}
+{{ $link := . }}
+{{ if not (urls.Parse .).Scheme }}
+{{ $link = (printf "%s%s" $.Dir .) | relURL }}
+{{ end }}
+<a class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}}" href="{{ $link }}" target="_blank" rel="noopener">
+  {{ i18n "btn_preprint" }}
+</a>
+{{ end }}
 {{ end }}
 {{/* Site override: no Cite button. */}}
 {{ with $.Params.url_dataset }}

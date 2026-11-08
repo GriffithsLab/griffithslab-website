@@ -24,7 +24,7 @@ height = "500px"
 [[item]]
   title = "Whole-Brain Modelling Group"
   #content = "I am center aligned :smile:"
-  content = "CAMH Krembil Centre for Neuroinformatics <br> & University of Toronto"
+  content = "CAMH KCNI <br> & University of Toronto"
   align = "left"  # Choose `center`, `left`, or `right`.
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
@@ -46,7 +46,7 @@ height = "500px"
   #align = "left"
   title = "Whole-Brain Modelling Group"
   #content = "I am center aligned :smile:"
-  content = "CAMH Krembil Centre for Neuroinformatics <br> & University of Toronto"
+  content = "CAMH KCNI <br> & University of Toronto"
   align = "left"  # Choose `center`, `left`, or `right`.
   # Overlay a color or image (optional).
   overlay_color = "#555"  # An HTML color value.
@@ -56,7 +56,7 @@ height = "500px"
 
 [[item]]
   title = "Whole-Brain Modelling Group"
-  content = "CAMH Krembil Centre for Neuroinformatics <br> & University of Toronto"
+  content = "CAMH KCNI <br> & University of Toronto"
   align = "center"  # Choose `center`, `left`, or `right`.
   #align = "center"
   overlay_color = "#333"  # An HTML color value.
@@ -65,7 +65,7 @@ height = "500px"
 
 [[item]]
   title = "Whole-Brain Modelling Group"
-  content = "CAMH Krembil Centre for Neuroinformatics <br> & University of Toronto"
+  content = "CAMH KCNI <br> & University of Toronto"
   align = "left"  # Choose `center`, `left`, or `right`.
   #align = "center"
   overlay_color = "#333"  # An HTML color value.
