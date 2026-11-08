@@ -64,7 +64,7 @@ enableGitInfo = false
   #avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "john.griffiths@camh.ca"
+  email = "john (dot) griffiths (at) utoronto (dot) ca"
   #address = "CAMH, 250 College Street, Toronto, Canada"
   address = "Krembil Centre for Neuroinformatics (KCNI); Centre for Addiction and Mental Health (CAMH): 250 College Street (Floor 12), Toronto ON"
 
