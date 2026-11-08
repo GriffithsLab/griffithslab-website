@@ -97,13 +97,13 @@ Mohamed is a postdoctoral fellow at the Krembil Centre for Neuroinformatics, CAM
 
 ## Alumni
 
-- **Dr. Davide Momi**, Post-Doctoral Fellow
-- **Dr. Neda Kaboodvand**, Post-Doctoral Fellow
-- **Sorenza Bastiaens**, Ph.D. Student
-- **Kevin Kadak**, Ph.D. Student
-- **Shreyas Harita**, Ph.D. Student. *Currently: Senior Methodologist, Data and Insights team, CAMH*
-- **Taha Morshedzadeh**, M.Sc. Student. *Currently: Biosignal Research Engineer, InteraXon (Muse)*
-- **Parsa Oveisi**, M.A.Sc. Student
-- **Andrew Clappison**, M.Sc. Student. *Currently: Research Assistant, Sunnybrook Research Institute*
-- **Frank Mazza**, M.Sc. Student. *Currently: M.D. Student, Western University*
-- **Surya Pandiaraju**, Co-op Student
+- Davide Momi (Post-Doctoral Fellow, 2021–2025)
+- Neda Kaboodvand (Post-Doctoral Fellow, 2020–2021)
+- Sorenza Bastiaens (Ph.D. Student, 2021–2025)
+- Kevin Kadak (Ph.D. Student, 2020–2025)
+- Shreyas Harita (Ph.D. Student, 2019–2024)
+- Taha Morshedzadeh (M.Sc. Student, 2021–2024)
+- Parsa Oveisi (M.A.Sc. Student, 2022–2024)
+- Andrew Clappison (M.Sc. Student, 2021–2023)
+- Frank Mazza (M.Sc. Student, 2019–2021)
+- Surya Pandiaraju (Co-op Student, 2020–2021)
