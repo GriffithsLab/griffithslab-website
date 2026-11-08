@@ -35,8 +35,6 @@ type = "docs"  # Do not modify.
 
 <div align="right"> <img src="/img/jg_pic.jpg" style="margin:100px 50px 100px 50px" align="right" width="250" /> </div>  
 
-[CV](/files/JG_CV.pdf)  
-
 Dr. John D. Griffiths is a cognitive and computational neuroscientist based at the Toronto Centre for Addiction and
 Mental Health (CAMH)’s Krembil Centre for Neuroinformatics (KCNI; krembilneuroinformatics.ca), where he
 leads a research team focused on computational modelling of brain network dynamics, neurostimulation, and
