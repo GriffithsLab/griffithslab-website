@@ -77,6 +77,23 @@ math = true
 #  Focal point (optional)
 #  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "BottomLeft"
+
+# Key figures from the paper, shown after the abstract (paraphrased captions).
+[[key_figures]]
+  number = 1
+  file = "keyfig1.jpg"
+  caption = "Study overview: intracerebral electrical stimulation evokes responses recorded with scalp high-density EEG and modelled with connectome-based simulations; virtually disconnecting the stimulated network tests the role of recurrent feedback."
+
+[[key_figures]]
+  number = 2
+  file = "keyfig2.jpg"
+  caption = "Empirical responses to intracerebral stimulation: stimulating higher-order networks produces larger global activation than stimulating lower-order networks."
+
+[[key_figures]]
+  number = 3
+  file = "keyfig3.jpg"
+  caption = "Disconnecting the stimulated network in the model suppresses late evoked responses mainly for higher-order networks such as the default mode and frontoparietal networks, placing recurrent processing along the cortical hierarchy."
+
 +++
 
 

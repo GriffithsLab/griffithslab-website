@@ -74,4 +74,21 @@ math = true
 #  # Focal point (optional)
 #  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 #  focal_point = ""
+
+# Key figures from the paper, shown after the abstract (paraphrased captions).
+[[key_figures]]
+  number = 1
+  file = "keyfig1.jpg"
+  caption = "Model fits to resting-state MEG: simulated power spectra closely match individual subjects' empirical spectra, including the alpha peak (A), and the group average (B)."
+
+[[key_figures]]
+  number = 6
+  file = "keyfig6.jpg"
+  caption = "Responses of a single corticothalamic loop to periodic stimulation across frequencies and amplitudes: a sharp Arnold tongue around the ~10 Hz natural frequency in the idling regime, and a broader, shallower one in the active regime."
+
+[[key_figures]]
+  number = 7
+  file = "keyfig7.jpg"
+  caption = "Schematic of the corticothalamic model: cortical and thalamic populations coupled through delayed feedback loops, with stimulation entering the cortical excitatory population and network state set by a background input."
+
 +++

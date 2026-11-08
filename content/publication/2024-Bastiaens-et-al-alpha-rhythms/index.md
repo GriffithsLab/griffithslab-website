@@ -78,5 +78,22 @@ math = true
 #  Focal point (optional)
 #  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "BottomLeft"
+
+# Key figures from the paper, shown after the abstract (paraphrased captions).
+[[key_figures]]
+  number = 1
+  file = "keyfig1.jpg"
+  caption = "Overview of alpha rhythm data, theories and models: where alpha appears, its role in cognition and disease, competing theories of its origin, and the modelling approaches used to test them."
+
+[[key_figures]]
+  number = 2
+  file = "keyfig2.jpg"
+  caption = "The two candidate theories compared: alpha generated within cortical columns (cortico-cortical) versus through cortico-thalamic loops."
+
+[[key_figures]]
+  number = 9
+  file = "keyfig9.jpg"
+  caption = "How synaptic rate constants set the dominant oscillation frequency in the Jansen-Rit, Moran-David-Friston and Liley-Wright models."
+
 +++
 

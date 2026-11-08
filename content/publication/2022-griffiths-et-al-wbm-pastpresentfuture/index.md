@@ -81,5 +81,21 @@ math = true
   focal_point = "Center"
   preview_only = "yes"
 
+# Key figures from the paper, shown after the abstract (paraphrased captions).
+[[key_figures]]
+  number = 2
+  file = "keyfig2.jpg"
+  caption = "Timeline of key developments in whole-brain modelling, from the first neural population models in the 1940s and 50s to the present day."
+
+[[key_figures]]
+  number = 5
+  file = "keyfig5.jpg"
+  caption = "Connectomes at multiple scales: Lausanne parcellations from 83 to 1015 regions (top) and the corresponding tractography-derived connectivity matrices (bottom)."
+
+[[key_figures]]
+  number = 6
+  file = "keyfig6.jpg"
+  caption = "Common neural population model topologies: small motifs of excitatory and inhibitory populations within cortical or corticothalamic circuits, from Wilson-Cowan to Robinson et al."
+
 +++
 <div align="center"> <img src="/img/wbm_diagram_inverted.png" margin="15px 15px 15px 15px" width="800" /> </div>

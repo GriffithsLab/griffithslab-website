@@ -30,4 +30,21 @@ math = false
 
 [image]
   focal_point = "BottomLeft"
+
+# Key figures from the paper, shown after the abstract (paraphrased captions).
+[[key_figures]]
+  number = 2
+  file = "keyfig2.jpg"
+  caption = "The unified TUS-TMS model reproduces plasticity effects reported in multiple empirical TMS and TUS studies."
+
+[[key_figures]]
+  number = 3
+  file = "keyfig3.jpg"
+  caption = "Mechanism: calcium-dependent plasticity in the corticothalamic model explains why different protocols and modalities produce LTP or LTD."
+
+[[key_figures]]
+  number = 4
+  file = "keyfig4.jpg"
+  caption = "Model predictions for untested TUS protocols, varying amplitude, sonication duration, pulse repetition frequency and duty cycle."
+
 +++

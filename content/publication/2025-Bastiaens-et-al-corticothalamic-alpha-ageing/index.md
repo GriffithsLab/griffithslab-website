@@ -29,4 +29,21 @@ math = false
 
 [image]
   focal_point = ""
+
+# Key figures from the paper, shown after the abstract (paraphrased captions).
+[[key_figures]]
+  number = 2
+  file = "keyfig2.jpg"
+  caption = "Empirical MEG features along the posterior-anterior axis across seven age groups, showing alpha power and frequency gradients and how they change with age."
+
+[[key_figures]]
+  number = 3
+  file = "keyfig3.jpg"
+  caption = "Fitted corticothalamic model parameters along the posterior-anterior axis across age groups, revealing regional and age-related shifts in cortical, corticothalamic and intrathalamic gains and in the corticothalamic delay."
+
+[[key_figures]]
+  number = 5
+  file = "keyfig5.jpg"
+  caption = "Partial least squares analyses linking empirical features and model parameters to age, with corresponding latent patterns in the two."
+
 +++

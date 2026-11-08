@@ -30,4 +30,21 @@ math = false
 
 [image]
   focal_point = "BottomLeft"
+
+# Key figures from the paper, shown after the abstract (paraphrased captions).
+[[key_figures]]
+  number = 2
+  file = "keyfig2.jpg"
+  caption = "Broadband power suppression across iTBS parameter space: protocols aligned with the individual alpha frequency and its subharmonics produce stronger effects."
+
+[[key_figures]]
+  number = 3
+  file = "keyfig3.jpg"
+  caption = "Synaptic changes behind the effects: specific connection modifications drive power modulation, separately from circuit-wide plasticity."
+
+[[key_figures]]
+  number = 5
+  file = "keyfig5.jpg"
+  caption = "iTBS outcomes in corticothalamic loop-gain space: effective protocols dampen corticothalamic loop gain and enhance intrathalamic loop gain."
+
 +++
