@@ -33,7 +33,7 @@ type = "docs"  # Do not modify.
 ### Dr. John David Griffiths    
 ***Group Lead***  
 
-<div align="right"> <img src="/img/jg_pic.jpg" style="margin:100px 50px 100px 50px" align="right" width="250" /> </div>  
+<img class="person-photo" src="/img/jg_pic.jpg" alt="John Griffiths" />  
 
 Dr. John D. Griffiths is a cognitive and computational neuroscientist based at the Toronto Centre for Addiction and
 Mental Health (CAMH)’s Krembil Centre for Neuroinformatics (KCNI; krembilneuroinformatics.ca), where he
@@ -61,7 +61,7 @@ and patient populations.
 ### Minarose Ismail  
 ***PhD Student***  
 
-<div align="right"> <img src="/img/minarose_photo.jpg" style="margin:10px 50px 100px 50px" align="right" width="250" /> </div>
+<img class="person-photo" src="/img/minarose_photo.jpg" alt="Minarose Ismail" />
 
 Minarose is a PhD student in the Department of Physiology at the University of Toronto, based in Neurosciences & Mental Health at The Hospital for Sick Children. She first joined the lab as a summer research student in 2019. Her research uses personalized whole-brain neurophysiological models of MEG data to study how language lateralization develops in children and adolescents.
 
@@ -81,7 +81,7 @@ Yupeng is a postdoctoral fellow affiliated with the University of Toronto Depart
 ### Dr. Mohamed Abdelhack
 ***Post-Doctoral Fellow***
 
-<div align="right"> <img src="/img/mohamed_abdelhack.jpg" style="margin:10px 50px 100px 50px" align="right" width="200" /> </div>
+<img class="person-photo" src="/img/mohamed_abdelhack.jpg" alt="Mohamed Abdelhack" />
 
 Mohamed is a postdoctoral fellow at the Krembil Centre for Neuroinformatics, CAMH, who trained at Kyoto University. Mohamed's research applies large-scale statistics, machine learning, and computational modelling to neuroimaging data to understand mental health and psychiatric disorders, including work on the brain signatures of sleep, depression, and cognition in over 30,000 individuals. Mohamed founded Arabs in Neuroscience, has mentored at Neuromatch Academy and the Imbizo computational neuroscience summer school, and received The Neuro's Open Science Prize for international trainees for this mentoring work.
 
@@ -97,11 +97,11 @@ Mohamed is a postdoctoral fellow at the Krembil Centre for Neuroinformatics, CAM
 
 ## Alumni
 
-- Davide Momi (Post-Doctoral Fellow, 2021–2025)
-- Neda Kaboodvand (Post-Doctoral Fellow, 2020–2021)
-- Sorenza Bastiaens (Ph.D. Student, 2021–2025)
-- Kevin Kadak (Ph.D. Student, 2020–2025)
-- Shreyas Harita (Ph.D. Student, 2019–2024)
+- Dr. Davide Momi (Post-Doctoral Fellow, 2021–2025)
+- Dr. Neda Kaboodvand (Post-Doctoral Fellow, 2020–2021)
+- Dr. Sorenza Bastiaens (Ph.D. Student, 2021–2025)
+- Dr. Kevin Kadak (Ph.D. Student, 2020–2025)
+- Dr. Shreyas Harita (Ph.D. Student, 2019–2024)
 - Taha Morshedzadeh (M.Sc. Student, 2021–2024)
 - Parsa Oveisi (M.A.Sc. Student, 2022–2024)
 - Andrew Clappison (M.Sc. Student, 2021–2023)
